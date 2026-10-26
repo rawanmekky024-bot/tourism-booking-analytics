@@ -1,0 +1,49 @@
+table 'Metric Selector'
+	lineageTag: 4ea9ad45-1576-4f41-9be0-c63159333419
+
+	column 'Metric Selector'
+		lineageTag: 53b72aef-05c4-447f-8065-6c73d5c5df88
+		summarizeBy: none
+		sourceColumn: [Value1]
+		sortByColumn: 'Metric Selector Order'
+
+		relatedColumnDetails
+			groupByColumn: 'Metric Selector Fields'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Metric Selector Fields'
+		isHidden
+		lineageTag: b99ca6fa-9bb3-4558-b0c9-6dcbc4667d91
+		summarizeBy: none
+		sourceColumn: [Value2]
+		sortByColumn: 'Metric Selector Order'
+
+		extendedProperty ParameterMetadata =
+				{
+				  "version": 3,
+				  "kind": 2
+				}
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Metric Selector Order'
+		isHidden
+		formatString: 0
+		lineageTag: 4c3a8211-ce3a-4ef5-8980-9fa3a410c470
+		summarizeBy: sum
+		sourceColumn: [Value3]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Metric Selector' = calculated
+		mode: import
+		source =
+				{
+				    ("Total Bookings", NAMEOF('Bookings'[Total Bookings]), 0),
+				    ("Average Satisfaction", NAMEOF('Bookings'[Average Satisfaction]), 1),
+				    ("Average Stay Cost", NAMEOF('Bookings'[Average Stay Cost]), 2)
+				}
+
+	annotation PBI_Id = b119844578eb4810a526d102e6e4019a
+

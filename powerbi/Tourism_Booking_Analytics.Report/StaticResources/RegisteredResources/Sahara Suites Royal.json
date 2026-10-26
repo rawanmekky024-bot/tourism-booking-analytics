@@ -1,0 +1,144 @@
+{
+  "name": "Sahara Suites Royal",
+  "dataColors": [
+    "#B8893A",
+    "#14161B",
+    "#7A2336",
+    "#8A6A3A",
+    "#7FA99B",
+    "#D9C7A0",
+    "#B86B77",
+    "#8A93A8"
+  ],
+  "background": "#FAF5E9",
+  "foreground": "#14161B",
+  "tableAccent": "#B8893A",
+  "good": "#4F8F7A",
+  "neutral": "#B8893A",
+  "bad": "#9E2A3F",
+  "maximum": "#14161B",
+  "center": "#E8CE8A",
+  "minimum": "#FAF5E9",
+  "textClasses": {
+    "title": {
+      "fontFace": "Georgia",
+      "fontSize": 13,
+      "color": "#14161B"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#4A5068"
+    },
+    "callout": {
+      "fontFace": "Georgia",
+      "fontSize": 26,
+      "color": "#14161B"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#14161B"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FAF5E9"
+              }
+            },
+            "transparency": 10
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#C9A24B"
+              }
+            },
+            "radius": 14
+          }
+        ],
+        "title": [
+          {
+            "fontFamily": "Georgia",
+            "fontColor": {
+              "solid": {
+                "color": "#14161B"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "textbox": {
+      "*": {
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "cardVisual": {
+      "*": {
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ]
+      }
+    },
+    "actionButton": {
+      "*": {
+        "background": [
+          {
+            "show": false
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "fill": [
+          {
+            "show": false
+          }
+        ],
+        "outline": [
+          {
+            "show": false
+          }
+        ],
+        "text": [
+          {
+            "show": false
+          }
+        ],
+        "shadow": [
+          {
+            "show": false
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+table DimDestination
+	lineageTag: 4932ad87-5a4e-4a0b-8a97-532aa2980870
+
+	column City
+		lineageTag: 94ed3157-8f12-4b3a-8d51-c7b944287a0e
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [City]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition DimDestination = calculated
+		mode: import
+		source = ```
+				
+				FILTER(
+				    DISTINCT(
+				        SELECTCOLUMNS(Bookings, "City", Bookings[City])
+				    ),
+				    NOT ISBLANK([City]) && [City] <> ""
+				)
+				
+				```
+
+	annotation PBI_Id = 91d96d9e8cd2447a86f2b5cb2ffaf47d
+

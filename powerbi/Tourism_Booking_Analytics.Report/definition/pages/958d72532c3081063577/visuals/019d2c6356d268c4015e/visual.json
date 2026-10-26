@@ -1,0 +1,39 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "019d2c6356d268c4015e",
+  "position": {
+    "x": 435.82822085889569,
+    "y": 141.34969325153372,
+    "z": 11000,
+    "height": 25.521472392638035,
+    "width": 1194.6012269938649,
+    "tabOrder": 11000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "EXCEPTIONAL STAYS   •   EXTRAORDINARY DESTINATIONS   •   UNFORGETTABLE MEMORIES",
+                    "textStyle": {
+                      "fontFamily": "Segoe UI",
+                      "fontSize": "9pt",
+                      "color": "#f6eedc"
+                    }
+                  }
+                ],
+                "horizontalTextAlignment": "center"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

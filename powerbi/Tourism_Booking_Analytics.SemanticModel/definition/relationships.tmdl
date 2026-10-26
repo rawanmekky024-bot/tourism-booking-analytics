@@ -1,0 +1,8 @@
+relationship 3a7ecaa5-eb6a-e1bc-0011-8577a96e8b9d
+	fromColumn: Bookings.Check_in_Date
+	toColumn: DimDate.Date
+
+relationship d0692dc3-e256-249e-2d1f-6f4808f1be07
+	fromColumn: Bookings.City
+	toColumn: DimDestination.City
+

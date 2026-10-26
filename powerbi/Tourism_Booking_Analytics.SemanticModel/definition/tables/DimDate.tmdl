@@ -1,0 +1,81 @@
+table DimDate
+	lineageTag: 4220d50a-2b23-4df3-8d18-d760ec3b5471
+	dataCategory: Time
+
+	column Date
+		isKey
+		formatString: dd/mm/yyyy
+		lineageTag: 63697abd-0b87-415d-b890-64a4e7c4b26b
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Date]
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column Year
+		formatString: 0
+		lineageTag: f66412f8-ad3a-4785-9314-ec91654ec8ac
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Month Name'
+		lineageTag: 2941fdc7-a60d-4c73-8df5-412268b1ab1a
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [month name]
+		sortByColumn: 'Month Number'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Month Number'
+		formatString: 0
+		lineageTag: b53d0348-5194-4330-a81c-a77c3d99e5f8
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Month Number]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Year-Month
+		lineageTag: 85b53282-bd03-4b2f-a151-63da5a478587
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year-Month]
+		sortByColumn: YearMonthSort
+
+		annotation SummarizationSetBy = Automatic
+
+	column YearMonthSort
+		formatString: 0
+		lineageTag: aae3d686-b054-4183-9361-a3266149d742
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [YearMonthSort]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition DimDate = calculated
+		mode: import
+		source =
+				
+				ADDCOLUMNS(
+				    CALENDAR(
+				        MIN(Bookings[Check_in_Date]),
+				        MAX(Bookings[Check_in_Date])
+				    ),
+				    "Year", YEAR([Date]),
+				    "Month Name", FORMAT([Date], "MMMM"),
+				    "Month Number", MONTH([Date]),
+				    "Year-Month", FORMAT([Date], "yyyy-MM"),
+				    "YearMonthSort", YEAR([Date]) * 100 + MONTH([Date])
+				)
+
+	annotation PBI_Id = a2c80caa9ecb467bb1639a0e9b6edfcc
+

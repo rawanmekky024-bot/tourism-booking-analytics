@@ -1,0 +1,1201 @@
+Booking_ID,Check_in_Date,City,Region_Type,Travel_Group,Group_Size,Lead_Time_Days,Stay_Nights,Room_Type,Meal_Plan,Booking_Channel,Main_Activity,Nightly_Rate_USD,Estimated_Stay_Cost_USD,Guest_Satisfaction_Score,Review_Score,Check_in_Delay_Minutes,Repeat_Visitor,Booking_Cancelled
+TRV00001,2025-01-13,Alexandria,Coastal,Solo,1,26,5,Suite,Full Board,Website,Relaxation,118.78,593.9,8,57,30,Yes,No
+TRV00002,2025-09-16,Aswan,Historical,Business,2,35,2,Standard,Room Only,Travel Agency,Diving,37.71,75.42,5,44,0,No,Yes
+TRV00003,2025-06-24,Dahab,Coastal,Solo,1,7,1,Standard,Half Board,Website,Cultural Tour,50.05,50.05,10,81,19,No,No
+TRV00004,2025-08-24,Cairo,Urban,Business,1,18,2,Deluxe,Breakfast,Travel Agency,City Tour,93.57,187.14,7,43,11,No,Yes
+TRV00005,2025-05-29,Aswan,Historical,Family,4,9,6,Standard,Breakfast,Travel Agency,Relaxation,42.36,254.16,8,52,27,No,No
+TRV00006,2025-12-26,Hurghada,Coastal,Family,4,20,1,Deluxe,Half Board,Mobile App,Desert Safari,122.37,122.37,9,67,17,No,No
+TRV00007,2025-01-17,Aswan,Historical,Solo,1,46,2,Standard,Breakfast,Travel Agency,Diving,45.28,90.56,9,70,25,No,No
+TRV00008,2025-03-15,Marsa Alam,Coastal,Solo,1,38,2,Suite,Half Board,Walk-in,Cultural Tour,116.34,232.68,9,58,0,Yes,No
+TRV00009,2025-02-16,Marsa Alam,Coastal,Family,3,73,6,Suite,Full Board,Website,Cultural Tour,119.88,719.28,9,90,26,No,No
+TRV00010,2025-10-11,Hurghada,Coastal,Family,3,1,4,Standard,Full Board,Mobile App,Cultural Tour,47.73,190.92,9,68,13,Yes,No
+TRV00011,2025-09-14,Hurghada,Coastal,Couple,2,3,3,Standard,Room Only,Mobile App,City Tour,55.39,166.17,6,45,25,No,No
+TRV00012,2025-07-05,Alexandria,Coastal,Solo,1,56,2,Family Room,Full Board,Website,Museum Tour,110.22,220.44,8,76,13,No,No
+TRV00013,2025-03-07,Luxor,Historical,Friends,4,23,2,Family Room,Half Board,Mobile App,Diving,94.88,189.76,4,27,18,No,No
+TRV00014,2025-08-13,Sharm El Sheikh,Coastal,Business,1,26,2,Standard,Breakfast,Website,Desert Safari,84.77,169.54,8,63,16,No,Yes
+TRV00015,2025-04-28,Cairo,Urban,Family,3,29,1,Deluxe,Breakfast,Walk-in,Desert Safari,80.57,80.57,7,62,12,No,No
+TRV00016,2025-05-05,Marsa Alam,Coastal,Friends,3,29,3,Standard,Full Board,Travel Agency,Cultural Tour,49.08,147.24,6,57,32,No,No
+TRV00017,2025-12-11,Cairo,Urban,Family,3,13,6,Suite,Breakfast,Mobile App,Museum Tour,176.33,1057.98,6,42,13,Yes,No
+TRV00018,2025-04-04,Dahab,Coastal,Solo,1,32,6,Deluxe,Room Only,Website,City Tour,60.56,363.36,7,57,0,No,No
+TRV00019,2025-02-17,Cairo,Urban,Couple,2,42,1,Deluxe,Room Only,Walk-in,City Tour,82.45,82.45,7,52,0,Yes,Yes
+TRV00020,2025-05-16,Dahab,Coastal,Friends,5,35,5,Standard,Room Only,Mobile App,Desert Safari,40.9,204.5,9,81,16,No,No
+TRV00021,2025-01-30,Sharm El Sheikh,Coastal,Family,6,8,1,Family Room,Room Only,Mobile App,Museum Tour,153.8,153.8,8,67,33,No,No
+TRV00022,2025-07-26,Aswan,Historical,Family,4,37,6,Deluxe,Half Board,Travel Agency,Diving,73.61,441.66,6,54,45,Yes,No
+TRV00023,2025-05-16,Aswan,Historical,Friends,4,47,1,Standard,Room Only,Website,City Tour,38.33,38.33,9,77,34,No,No
+TRV00024,2025-02-07,Alexandria,Coastal,Business,1,24,6,Family Room,Half Board,Mobile App,Museum Tour,81.68,490.08,6,52,10,No,No
+TRV00025,2025-11-10,Hurghada,Coastal,Business,1,53,4,Family Room,Room Only,Travel Agency,Beach Activities,125.83,503.32,5,28,11,No,No
+TRV00026,2025-05-20,Luxor,Historical,Solo,1,11,7,Deluxe,Full Board,Travel Agency,City Tour,87.59,613.13,8,73,7,Yes,No
+TRV00027,2025-02-17,Cairo,Urban,Friends,2,28,5,Standard,Breakfast,Travel Agency,Beach Activities,37.77,188.85,9,61,5,No,No
+TRV00028,2025-10-15,Dahab,Coastal,Family,3,34,2,Deluxe,Breakfast,Travel Agency,City Tour,63.28,126.56,8,50,13,No,Yes
+TRV00029,2025-01-21,Sharm El Sheikh,Coastal,Solo,1,45,4,Standard,Breakfast,Walk-in,Diving,58.43,233.72,9,76,1,No,No
+TRV00030,2025-04-01,Luxor,Historical,Friends,3,43,4,Suite,Half Board,Mobile App,Cultural Tour,134.92,539.68,10,88,29,Yes,No
+TRV00031,2025-01-20,Dahab,Coastal,Friends,3,51,2,Standard,Breakfast,Mobile App,City Tour,47.71,95.42,7,35,2,Yes,No
+TRV00032,2025-05-23,Sharm El Sheikh,Coastal,Family,5,20,4,Deluxe,Room Only,Travel Agency,City Tour,104.79,419.16,9,80,0,Yes,No
+TRV00033,2025-10-25,Luxor,Historical,Solo,1,35,2,Standard,Full Board,Travel Agency,City Tour,44.6,89.2,10,80,26,No,No
+TRV00034,2025-10-23,Dahab,Coastal,Couple,2,17,5,Standard,Half Board,Mobile App,City Tour,37.59,187.95,9,82,21,No,No
+TRV00035,2025-11-16,Sharm El Sheikh,Coastal,Solo,1,22,1,Deluxe,Half Board,Walk-in,Desert Safari,106.02,106.02,9,77,34,No,No
+TRV00036,2025-12-13,Dahab,Coastal,Couple,2,6,10,Standard,Half Board,Walk-in,Beach Activities,64.18,641.8,7,65,19,No,No
+TRV00037,2025-09-19,Aswan,Historical,Friends,2,28,1,Deluxe,Room Only,Travel Agency,Relaxation,59.26,59.26,5,59,0,No,No
+TRV00038,2025-04-26,Hurghada,Coastal,Couple,2,77,8,Standard,Full Board,Website,Cultural Tour,66.68,533.44,5,46,0,No,No
+TRV00039,2025-12-23,Aswan,Historical,Friends,5,18,4,Standard,Room Only,Website,Relaxation,61.92,247.68,5,33,35,No,No
+TRV00040,2025-01-26,Marsa Alam,Coastal,Business,2,26,12,Standard,Full Board,Travel Agency,Cultural Tour,65.2,782.4,8,57,17,No,No
+TRV00041,2025-10-08,Dahab,Coastal,Friends,5,19,3,Standard,Full Board,Travel Agency,Beach Activities,52.49,157.47,7,67,5,No,No
+TRV00042,2025-05-27,Alexandria,Coastal,Couple,2,53,9,Family Room,Breakfast,Mobile App,Museum Tour,87.76,789.84,8,71,25,Yes,No
+TRV00043,2025-02-02,Aswan,Historical,Friends,4,32,3,Deluxe,Full Board,Walk-in,Beach Activities,57.92,173.76,10,75,4,No,No
+TRV00044,2025-10-22,Cairo,Urban,Friends,2,71,4,Standard,Breakfast,Walk-in,Cultural Tour,54.13,216.52,8,62,17,No,No
+TRV00045,2025-01-15,Marsa Alam,Coastal,Friends,5,46,4,Suite,Full Board,Website,Beach Activities,145.38,581.52,9,81,0,No,No
+TRV00046,2025-11-26,Alexandria,Coastal,Friends,5,29,5,Standard,Breakfast,Travel Agency,Cultural Tour,49.48,247.4,6,46,29,No,No
+TRV00047,2025-05-23,Dahab,Coastal,Friends,2,23,1,Standard,Half Board,Website,Diving,48.52,48.52,7,63,15,Yes,No
+TRV00048,2025-01-16,Cairo,Urban,Couple,2,7,6,Standard,Breakfast,Website,Cultural Tour,55.18,331.08,5,37,0,No,No
+TRV00049,2025-03-27,Sharm El Sheikh,Coastal,Business,2,79,4,Standard,Full Board,Travel Agency,Museum Tour,46.48,185.92,7,48,11,No,No
+TRV00050,2025-10-31,Alexandria,Coastal,Couple,2,38,3,Suite,Half Board,Website,Diving,145.03,435.09,6,53,10,No,No
+TRV00051,2025-09-17,Alexandria,Coastal,Solo,1,21,5,Standard,Breakfast,Walk-in,Desert Safari,38.06,190.3,8,70,29,No,No
+TRV00052,2025-11-12,Hurghada,Coastal,Business,2,77,3,Suite,Half Board,Travel Agency,Diving,175.89,527.67,9,74,27,No,No
+TRV00053,2025-05-23,Alexandria,Coastal,Friends,5,14,13,Standard,Breakfast,Travel Agency,Cultural Tour,47.66,619.58,9,49,0,No,No
+TRV00054,2025-06-24,Hurghada,Coastal,Solo,1,13,4,Standard,Full Board,Walk-in,Relaxation,82.28,329.12,8,86,0,No,No
+TRV00055,2025-11-27,Marsa Alam,Coastal,Friends,2,20,7,Standard,Half Board,Mobile App,Cultural Tour,57.64,403.48,8,67,10,No,No
+TRV00056,2025-08-06,Sharm El Sheikh,Coastal,Business,2,6,4,Standard,Room Only,Mobile App,Desert Safari,90.3,361.2,7,57,12,No,No
+TRV00057,2025-04-09,Luxor,Historical,Couple,2,46,2,Family Room,Half Board,Mobile App,City Tour,110.95,221.9,5,53,21,Yes,No
+TRV00058,2025-12-29,Cairo,Urban,Business,1,38,9,Family Room,Breakfast,Travel Agency,Diving,136.27,1226.43,6,49,33,No,No
+TRV00059,2025-01-07,Alexandria,Coastal,Business,2,92,12,Deluxe,Half Board,Website,Beach Activities,67.75,813.0,10,75,27,No,No
+TRV00060,2025-07-25,Alexandria,Coastal,Friends,2,61,2,Standard,Room Only,Travel Agency,Diving,58.88,117.76,5,49,7,No,Yes
+TRV00061,2025-11-07,Dahab,Coastal,Business,2,31,9,Family Room,Half Board,Walk-in,Desert Safari,112.87,1015.83,7,53,26,No,Yes
+TRV00062,2025-04-17,Alexandria,Coastal,Couple,2,27,1,Standard,Breakfast,Website,Diving,39.41,39.41,6,57,20,Yes,No
+TRV00063,2025-05-30,Marsa Alam,Coastal,Family,4,12,2,Suite,Breakfast,Website,Cultural Tour,127.67,255.34,8,54,2,No,No
+TRV00064,2025-08-06,Aswan,Historical,Family,4,11,3,Suite,Breakfast,Website,Museum Tour,150.13,450.39,7,62,12,No,No
+TRV00065,2025-08-13,Hurghada,Coastal,Family,6,27,8,Family Room,Full Board,Walk-in,Diving,168.73,1349.84,7,49,2,Yes,Yes
+TRV00066,2025-06-15,Dahab,Coastal,Business,1,2,3,Standard,Half Board,Website,Relaxation,56.71,170.13,9,72,0,No,No
+TRV00067,2025-08-29,Luxor,Historical,Business,1,27,7,Family Room,Room Only,Walk-in,Cultural Tour,102.56,717.92,6,31,0,No,No
+TRV00068,2025-12-10,Sharm El Sheikh,Coastal,Family,4,11,2,Deluxe,Room Only,Walk-in,Desert Safari,135.06,270.12,9,62,23,No,No
+TRV00069,2025-03-01,Sharm El Sheikh,Coastal,Friends,5,81,3,Standard,Full Board,Travel Agency,Diving,46.88,140.64,8,47,0,No,No
+TRV00070,2025-05-17,Aswan,Historical,Business,2,7,6,Family Room,Room Only,Website,Cultural Tour,74.28,445.68,8,58,0,No,No
+TRV00071,2025-12-30,Aswan,Historical,Couple,2,14,2,Standard,Full Board,Website,City Tour,42.33,84.66,4,37,24,No,No
+TRV00072,2025-09-13,Luxor,Historical,Solo,1,18,3,Family Room,Breakfast,Walk-in,Beach Activities,99.36,298.08,9,81,13,No,No
+TRV00073,2025-02-05,Luxor,Historical,Solo,1,44,1,Suite,Full Board,Travel Agency,Desert Safari,105.11,105.11,8,58,0,No,No
+TRV00074,2025-06-26,Marsa Alam,Coastal,Solo,1,47,2,Family Room,Full Board,Mobile App,Relaxation,144.85,289.7,5,41,0,Yes,No
+TRV00075,2025-06-12,Cairo,Urban,Friends,5,21,1,Deluxe,Half Board,Mobile App,Museum Tour,88.6,88.6,7,69,25,No,No
+TRV00076,2025-02-21,Marsa Alam,Coastal,Business,1,1,6,Deluxe,Room Only,Mobile App,Relaxation,98.68,592.08,6,41,18,No,No
+TRV00077,2025-11-16,Sharm El Sheikh,Coastal,Friends,4,26,3,Family Room,Room Only,Walk-in,Relaxation,110.67,332.01,7,52,22,No,No
+TRV00078,2025-04-27,Hurghada,Coastal,Family,6,37,2,Deluxe,Room Only,Travel Agency,Relaxation,112.01,224.02,10,75,33,Yes,No
+TRV00079,2025-07-03,Hurghada,Coastal,Solo,1,12,1,Deluxe,Breakfast,Mobile App,Diving,133.17,133.17,5,37,12,Yes,No
+TRV00080,2025-11-14,Dahab,Coastal,Couple,2,35,6,Deluxe,Half Board,Walk-in,Desert Safari,91.72,550.32,9,86,0,No,No
+TRV00081,2025-05-28,Marsa Alam,Coastal,Business,2,21,4,Family Room,Full Board,Travel Agency,Diving,137.06,548.24,7,43,19,No,No
+TRV00082,2025-04-12,Hurghada,Coastal,Friends,2,31,1,Standard,Half Board,Travel Agency,Desert Safari,67.19,67.19,7,50,30,Yes,No
+TRV00083,2025-05-21,Dahab,Coastal,Family,3,12,3,Suite,Breakfast,Travel Agency,Beach Activities,117.41,352.23,9,89,29,No,No
+TRV00084,2025-11-18,Luxor,Historical,Family,3,15,7,Standard,Room Only,Mobile App,Desert Safari,51.68,361.76,6,66,0,No,No
+TRV00085,2025-03-31,Dahab,Coastal,Couple,2,28,5,Suite,Half Board,Walk-in,Desert Safari,120.24,601.2,7,77,12,No,No
+TRV00086,2025-08-28,Alexandria,Coastal,Family,4,15,5,Family Room,Room Only,Travel Agency,City Tour,133.79,668.95,8,58,40,No,Yes
+TRV00087,2025-08-21,Alexandria,Coastal,Solo,1,27,1,Standard,Room Only,Walk-in,Beach Activities,50.56,50.56,10,73,21,No,No
+TRV00088,2025-11-09,Sharm El Sheikh,Coastal,Couple,2,12,3,Deluxe,Room Only,Mobile App,Museum Tour,122.91,368.73,5,24,0,No,No
+TRV00089,2025-03-01,Marsa Alam,Coastal,Family,4,87,2,Deluxe,Breakfast,Walk-in,Relaxation,69.93,139.86,7,66,0,No,No
+TRV00090,2025-11-12,Marsa Alam,Coastal,Friends,2,96,3,Standard,Half Board,Mobile App,Cultural Tour,59.32,177.96,9,59,7,Yes,No
+TRV00091,2025-02-01,Sharm El Sheikh,Coastal,Friends,3,31,14,Family Room,Room Only,Walk-in,City Tour,103.24,1445.36,7,87,14,No,No
+TRV00092,2025-01-26,Cairo,Urban,Solo,1,24,1,Standard,Breakfast,Mobile App,City Tour,44.93,44.93,10,55,34,No,No
+TRV00093,2025-11-02,Luxor,Historical,Family,5,22,2,Deluxe,Room Only,Mobile App,City Tour,68.97,137.94,9,68,0,No,Yes
+TRV00094,2025-07-03,Cairo,Urban,Couple,2,57,3,Standard,Room Only,Walk-in,Beach Activities,50.62,151.86,9,58,24,No,No
+TRV00095,2025-09-20,Sharm El Sheikh,Coastal,Business,1,42,2,Family Room,Full Board,Travel Agency,Museum Tour,108.34,216.68,9,75,0,No,Yes
+TRV00096,2025-07-25,Marsa Alam,Coastal,Friends,5,11,4,Standard,Breakfast,Travel Agency,Museum Tour,81.23,324.92,8,49,17,Yes,No
+TRV00097,2025-07-15,Sharm El Sheikh,Coastal,Business,2,25,6,Standard,Breakfast,Website,Relaxation,69.61,417.66,9,81,0,No,No
+TRV00098,2025-06-23,Dahab,Coastal,Friends,5,2,1,Standard,Half Board,Travel Agency,Desert Safari,69.01,69.01,10,85,2,No,No
+TRV00099,2025-02-04,Marsa Alam,Coastal,Family,3,63,3,Standard,Breakfast,Travel Agency,Relaxation,48.18,144.54,10,73,24,No,No
+TRV00100,2025-12-10,Sharm El Sheikh,Coastal,Family,6,30,2,Family Room,Half Board,Website,Relaxation,147.89,295.78,8,52,15,No,No
+TRV00101,2025-03-21,Aswan,Historical,Friends,2,5,4,Suite,Half Board,Website,Desert Safari,94.02,376.08,10,68,40,No,No
+TRV00102,2025-11-08,Cairo,Urban,Solo,1,4,5,Suite,Half Board,Travel Agency,Desert Safari,106.75,533.75,6,39,21,Yes,No
+TRV00103,2025-02-05,Dahab,Coastal,Couple,2,15,4,Standard,Breakfast,Travel Agency,Cultural Tour,37.66,150.64,10,87,0,No,No
+TRV00104,2025-01-27,Alexandria,Coastal,Couple,2,42,1,Standard,Full Board,Walk-in,Relaxation,42.37,42.37,8,65,1,No,No
+TRV00105,2025-09-20,Aswan,Historical,Family,5,27,14,Standard,Half Board,Walk-in,Relaxation,34.34,480.76,8,88,5,Yes,No
+TRV00106,2025-01-04,Cairo,Urban,Couple,2,49,3,Suite,Room Only,Travel Agency,Desert Safari,144.64,433.92,7,37,23,Yes,No
+TRV00107,2025-03-08,Luxor,Historical,Friends,4,24,2,Standard,Full Board,Website,Relaxation,47.23,94.46,6,61,7,Yes,No
+TRV00108,2025-10-22,Sharm El Sheikh,Coastal,Friends,5,44,4,Standard,Breakfast,Travel Agency,Museum Tour,71.81,287.24,9,52,10,No,No
+TRV00109,2025-02-15,Sharm El Sheikh,Coastal,Friends,3,35,5,Deluxe,Full Board,Website,Diving,110.44,552.2,8,78,8,No,No
+TRV00110,2025-06-20,Aswan,Historical,Couple,2,57,3,Family Room,Breakfast,Travel Agency,Desert Safari,114.18,342.54,7,52,4,Yes,No
+TRV00111,2025-03-30,Aswan,Historical,Business,1,20,4,Family Room,Full Board,Walk-in,Relaxation,63.82,255.28,8,56,0,No,No
+TRV00112,2025-12-15,Marsa Alam,Coastal,Business,1,36,7,Deluxe,Half Board,Walk-in,Cultural Tour,91.24,638.68,9,85,13,No,No
+TRV00113,2025-09-17,Sharm El Sheikh,Coastal,Family,5,76,2,Standard,Room Only,Travel Agency,Desert Safari,72.48,144.96,5,30,0,No,No
+TRV00114,2025-11-11,Alexandria,Coastal,Business,1,8,6,Deluxe,Half Board,Mobile App,City Tour,71.28,427.68,6,51,11,No,No
+TRV00115,2025-08-19,Cairo,Urban,Family,5,12,9,Standard,Full Board,Walk-in,Relaxation,64.9,584.1,7,84,0,No,No
+TRV00116,2025-07-10,Sharm El Sheikh,Coastal,Solo,1,34,2,Deluxe,Room Only,Travel Agency,Museum Tour,130.45,260.9,8,58,0,No,No
+TRV00117,2025-05-26,Dahab,Coastal,Solo,1,18,2,Deluxe,Half Board,Travel Agency,Beach Activities,61.95,123.9,7,66,0,No,No
+TRV00118,2025-03-08,Dahab,Coastal,Business,2,18,7,Deluxe,Room Only,Mobile App,Desert Safari,70.31,492.17,8,86,39,No,No
+TRV00119,2025-01-10,Sharm El Sheikh,Coastal,Solo,1,21,2,Standard,Breakfast,Walk-in,City Tour,72.17,144.34,8,54,31,Yes,No
+TRV00120,2025-06-01,Alexandria,Coastal,Family,3,8,4,Deluxe,Breakfast,Mobile App,Beach Activities,100.72,402.88,6,51,2,No,No
+TRV00121,2025-08-13,Luxor,Historical,Family,6,66,3,Family Room,Full Board,Travel Agency,Diving,132.12,396.36,9,52,0,Yes,Yes
+TRV00122,2025-04-10,Marsa Alam,Coastal,Solo,1,45,5,Suite,Breakfast,Walk-in,Diving,185.68,928.4,9,78,26,No,No
+TRV00123,2025-05-09,Luxor,Historical,Family,6,66,7,Suite,Half Board,Website,Diving,107.61,753.27,7,48,0,Yes,Yes
+TRV00124,2025-09-20,Marsa Alam,Coastal,Couple,2,30,5,Suite,Full Board,Website,Desert Safari,144.95,724.75,9,73,15,Yes,No
+TRV00125,2025-07-17,Aswan,Historical,Family,5,50,1,Standard,Breakfast,Travel Agency,Museum Tour,58.27,58.27,8,70,4,Yes,No
+TRV00126,2025-12-23,Marsa Alam,Coastal,Couple,2,46,3,Family Room,Breakfast,Travel Agency,Museum Tour,174.1,522.3,8,66,3,No,No
+TRV00127,2025-02-26,Dahab,Coastal,Solo,1,11,7,Standard,Room Only,Walk-in,Cultural Tour,38.7,270.9,7,60,14,Yes,No
+TRV00128,2025-11-20,Cairo,Urban,Business,2,83,2,Deluxe,Breakfast,Travel Agency,Diving,75.05,150.1,7,30,0,No,Yes
+TRV00129,2025-09-26,Alexandria,Coastal,Solo,1,19,5,Family Room,Half Board,Walk-in,Museum Tour,83.5,417.5,9,69,35,Yes,Yes
+TRV00130,2025-06-26,Alexandria,Coastal,Couple,2,96,1,Standard,Breakfast,Travel Agency,Diving,54.54,54.54,6,51,11,No,No
+TRV00131,2025-11-20,Marsa Alam,Coastal,Couple,2,38,3,Standard,Breakfast,Website,Beach Activities,59.04,177.12,9,78,5,No,No
+TRV00132,2025-09-21,Hurghada,Coastal,Friends,4,38,3,Suite,Half Board,Travel Agency,Beach Activities,191.77,575.31,8,80,23,No,Yes
+TRV00133,2025-05-20,Sharm El Sheikh,Coastal,Family,5,49,4,Suite,Breakfast,Travel Agency,Cultural Tour,149.66,598.64,8,48,0,No,No
+TRV00134,2025-02-12,Hurghada,Coastal,Friends,5,33,2,Deluxe,Room Only,Website,Desert Safari,97.78,195.56,6,25,3,No,No
+TRV00135,2025-11-05,Marsa Alam,Coastal,Friends,5,1,2,Deluxe,Full Board,Travel Agency,Relaxation,100.15,200.3,8,64,20,Yes,No
+TRV00136,2025-02-08,Cairo,Urban,Friends,3,29,2,Standard,Room Only,Walk-in,Diving,45.2,90.4,6,48,8,Yes,No
+TRV00137,2025-07-05,Sharm El Sheikh,Coastal,Friends,3,3,4,Family Room,Room Only,Walk-in,Desert Safari,130.65,522.6,7,58,0,No,No
+TRV00138,2025-06-10,Dahab,Coastal,Solo,1,18,1,Suite,Room Only,Walk-in,Cultural Tour,137.65,137.65,8,75,37,Yes,No
+TRV00139,2025-04-20,Marsa Alam,Coastal,Business,1,17,3,Standard,Full Board,Website,City Tour,60.55,181.65,7,57,31,Yes,No
+TRV00140,2025-12-16,Alexandria,Coastal,Solo,1,108,6,Family Room,Breakfast,Mobile App,City Tour,140.8,844.8,6,42,0,No,No
+TRV00141,2025-04-13,Alexandria,Coastal,Couple,2,40,2,Standard,Full Board,Travel Agency,Diving,41.67,83.34,8,100,32,No,No
+TRV00142,2025-02-03,Alexandria,Coastal,Solo,1,30,3,Suite,Breakfast,Website,City Tour,135.88,407.64,8,44,7,No,No
+TRV00143,2025-08-27,Marsa Alam,Coastal,Business,1,47,4,Suite,Room Only,Walk-in,Beach Activities,186.36,745.44,5,39,48,No,No
+TRV00144,2025-03-26,Hurghada,Coastal,Couple,2,26,11,Family Room,Room Only,Travel Agency,Diving,113.99,1253.89,9,89,38,Yes,No
+TRV00145,2025-03-06,Hurghada,Coastal,Solo,1,40,2,Standard,Room Only,Travel Agency,Diving,44.59,89.18,8,44,6,No,Yes
+TRV00146,2025-11-25,Cairo,Urban,Business,2,51,3,Deluxe,Half Board,Walk-in,Museum Tour,80.01,240.03,3,11,5,No,No
+TRV00147,2025-12-17,Aswan,Historical,Friends,5,65,1,Deluxe,Full Board,Walk-in,Beach Activities,104.32,104.32,5,15,7,No,Yes
+TRV00148,2025-06-10,Luxor,Historical,Solo,1,6,4,Suite,Half Board,Website,Diving,172.6,690.4,7,52,5,Yes,No
+TRV00149,2025-05-07,Marsa Alam,Coastal,Couple,2,108,2,Family Room,Breakfast,Walk-in,City Tour,121.23,242.46,7,52,18,No,No
+TRV00150,2025-10-23,Sharm El Sheikh,Coastal,Solo,1,50,2,Family Room,Half Board,Walk-in,Cultural Tour,109.65,219.3,8,63,25,No,No
+TRV00151,2025-09-16,Dahab,Coastal,Friends,3,3,3,Standard,Full Board,Walk-in,Desert Safari,55.98,167.94,8,62,20,No,Yes
+TRV00152,2025-08-09,Alexandria,Coastal,Couple,2,109,7,Standard,Breakfast,Website,Cultural Tour,48.05,336.35,7,44,31,No,No
+TRV00153,2025-09-16,Dahab,Coastal,Friends,2,11,5,Family Room,Half Board,Travel Agency,Cultural Tour,104.75,523.75,9,79,9,No,No
+TRV00154,2025-04-12,Luxor,Historical,Business,1,33,1,Standard,Full Board,Travel Agency,Relaxation,46.09,46.09,8,77,15,No,Yes
+TRV00155,2025-06-17,Luxor,Historical,Business,2,66,7,Family Room,Half Board,Travel Agency,Relaxation,110.24,771.68,6,60,17,No,No
+TRV00156,2025-12-29,Marsa Alam,Coastal,Business,1,85,3,Standard,Full Board,Website,Relaxation,66.28,198.84,8,49,33,No,No
+TRV00157,2025-11-02,Cairo,Urban,Friends,3,49,5,Deluxe,Breakfast,Walk-in,Beach Activities,87.6,438.0,8,49,0,No,No
+TRV00158,2025-04-08,Alexandria,Coastal,Family,6,12,1,Standard,Full Board,Mobile App,Relaxation,45.74,45.74,4,44,41,No,No
+TRV00159,2025-02-01,Marsa Alam,Coastal,Couple,2,118,2,Deluxe,Full Board,Mobile App,Desert Safari,83.72,167.44,7,42,11,No,No
+TRV00160,2025-12-13,Sharm El Sheikh,Coastal,Solo,1,60,1,Standard,Half Board,Mobile App,Desert Safari,86.89,86.89,10,90,22,No,No
+TRV00161,2025-06-12,Marsa Alam,Coastal,Friends,4,37,6,Standard,Full Board,Walk-in,Relaxation,55.83,334.98,7,56,21,No,No
+TRV00162,2025-05-29,Luxor,Historical,Family,5,12,1,Family Room,Full Board,Travel Agency,Relaxation,94.1,94.1,6,29,28,Yes,No
+TRV00163,2025-10-15,Hurghada,Coastal,Solo,1,57,1,Standard,Breakfast,Mobile App,Relaxation,49.59,49.59,6,70,21,Yes,No
+TRV00164,2025-02-21,Marsa Alam,Coastal,Couple,2,41,4,Deluxe,Breakfast,Walk-in,Cultural Tour,94.18,376.72,7,62,13,No,No
+TRV00165,2025-11-27,Hurghada,Coastal,Family,3,31,4,Family Room,Breakfast,Walk-in,Beach Activities,106.33,425.32,8,85,0,No,Yes
+TRV00166,2025-09-11,Dahab,Coastal,Couple,2,16,1,Standard,Half Board,Website,Diving,52.66,52.66,10,83,0,No,No
+TRV00167,2025-03-10,Marsa Alam,Coastal,Business,1,10,1,Suite,Full Board,Mobile App,Desert Safari,166.83,166.83,8,62,8,No,No
+TRV00168,2025-06-22,Cairo,Urban,Solo,1,26,3,Suite,Room Only,Travel Agency,Diving,146.96,440.88,10,84,0,No,Yes
+TRV00169,2025-09-02,Luxor,Historical,Solo,1,14,3,Standard,Half Board,Travel Agency,Cultural Tour,48.0,144.0,10,100,22,No,No
+TRV00170,2025-05-14,Cairo,Urban,Solo,1,25,2,Deluxe,Half Board,Walk-in,Beach Activities,66.48,132.96,6,41,0,No,No
+TRV00171,2025-07-08,Hurghada,Coastal,Business,1,35,3,Deluxe,Full Board,Travel Agency,Cultural Tour,128.07,384.21,5,44,0,No,No
+TRV00172,2025-05-07,Aswan,Historical,Business,2,88,1,Standard,Room Only,Website,Diving,33.5,33.5,8,65,22,No,No
+TRV00173,2025-10-21,Aswan,Historical,Business,2,13,5,Family Room,Breakfast,Website,Cultural Tour,72.12,360.6,10,96,6,No,No
+TRV00174,2025-01-29,Marsa Alam,Coastal,Friends,5,23,1,Deluxe,Half Board,Walk-in,Diving,93.87,93.87,8,55,34,No,No
+TRV00175,2025-04-22,Cairo,Urban,Business,2,33,4,Standard,Room Only,Website,Museum Tour,50.35,201.4,7,40,0,No,No
+TRV00176,2025-07-29,Hurghada,Coastal,Couple,2,43,1,Family Room,Full Board,Walk-in,Cultural Tour,158.87,158.87,9,75,12,No,No
+TRV00177,2025-12-01,Luxor,Historical,Solo,1,31,3,Deluxe,Room Only,Mobile App,Relaxation,106.44,319.32,7,60,16,No,No
+TRV00178,2025-12-11,Marsa Alam,Coastal,Business,1,59,2,Standard,Half Board,Mobile App,Desert Safari,59.27,118.54,6,49,35,Yes,No
+TRV00179,2025-01-17,Alexandria,Coastal,Friends,3,29,4,Standard,Full Board,Website,Diving,54.06,216.24,9,56,12,No,No
+TRV00180,2025-05-06,Cairo,Urban,Family,6,23,1,Deluxe,Breakfast,Website,City Tour,60.87,60.87,8,42,12,No,No
+TRV00181,2025-10-23,Sharm El Sheikh,Coastal,Business,2,13,2,Family Room,Full Board,Mobile App,Relaxation,115.07,230.14,7,71,39,No,Yes
+TRV00182,2025-11-17,Luxor,Historical,Friends,2,33,3,Family Room,Half Board,Walk-in,Relaxation,81.91,245.73,7,52,0,No,No
+TRV00183,2025-07-12,Hurghada,Coastal,Couple,2,34,2,Standard,Full Board,Mobile App,Relaxation,82.0,164.0,5,46,28,No,No
+TRV00184,2025-10-13,Dahab,Coastal,Business,1,8,14,Standard,Full Board,Website,Desert Safari,44.39,621.46,7,65,21,No,No
+TRV00185,2025-01-27,Aswan,Historical,Solo,1,1,2,Standard,Full Board,Mobile App,City Tour,46.26,92.52,8,52,0,Yes,No
+TRV00186,2025-01-08,Hurghada,Coastal,Couple,2,67,3,Family Room,Full Board,Mobile App,Relaxation,121.09,363.27,7,45,4,No,No
+TRV00187,2025-07-14,Hurghada,Coastal,Friends,4,89,3,Standard,Room Only,Walk-in,Cultural Tour,70.79,212.37,8,78,15,No,No
+TRV00188,2025-04-15,Sharm El Sheikh,Coastal,Solo,1,48,1,Deluxe,Room Only,Mobile App,Beach Activities,122.09,122.09,7,49,50,Yes,No
+TRV00189,2025-06-01,Dahab,Coastal,Couple,2,37,6,Standard,Full Board,Mobile App,City Tour,46.69,280.14,6,49,13,No,No
+TRV00190,2025-05-12,Sharm El Sheikh,Coastal,Friends,5,22,10,Suite,Breakfast,Mobile App,Desert Safari,141.36,1413.6,8,52,0,No,No
+TRV00191,2025-09-26,Cairo,Urban,Family,3,17,8,Deluxe,Room Only,Mobile App,City Tour,65.88,527.04,8,55,0,No,Yes
+TRV00192,2025-07-11,Marsa Alam,Coastal,Family,6,59,6,Standard,Room Only,Walk-in,Diving,65.6,393.6,6,45,6,Yes,No
+TRV00193,2025-01-09,Hurghada,Coastal,Business,1,44,8,Family Room,Breakfast,Mobile App,Diving,97.24,777.92,10,89,44,Yes,No
+TRV00194,2025-05-17,Sharm El Sheikh,Coastal,Friends,4,22,5,Deluxe,Half Board,Mobile App,Beach Activities,91.23,456.15,6,24,0,No,No
+TRV00195,2025-02-17,Cairo,Urban,Friends,5,25,1,Standard,Room Only,Mobile App,Museum Tour,44.17,44.17,7,49,27,No,No
+TRV00196,2025-10-17,Sharm El Sheikh,Coastal,Family,3,37,3,Family Room,Half Board,Walk-in,Relaxation,151.19,453.57,9,60,25,Yes,No
+TRV00197,2025-10-06,Hurghada,Coastal,Business,2,40,5,Standard,Full Board,Mobile App,Beach Activities,50.4,252.0,7,56,34,No,No
+TRV00198,2025-10-18,Aswan,Historical,Friends,5,89,4,Suite,Half Board,Website,Relaxation,109.27,437.08,10,84,23,Yes,No
+TRV00199,2025-06-24,Alexandria,Coastal,Business,1,26,6,Deluxe,Full Board,Walk-in,City Tour,89.68,538.08,6,38,8,Yes,No
+TRV00200,2025-08-10,Dahab,Coastal,Couple,2,45,2,Suite,Room Only,Website,Relaxation,175.04,350.08,7,59,0,Yes,No
+TRV00201,2025-07-19,Luxor,Historical,Solo,1,15,9,Standard,Half Board,Walk-in,Desert Safari,51.6,464.4,8,59,0,No,No
+TRV00202,2025-04-06,Alexandria,Coastal,Friends,5,22,6,Standard,Half Board,Website,Desert Safari,47.34,284.04,8,44,18,No,Yes
+TRV00203,2025-07-18,Dahab,Coastal,Family,4,6,9,Standard,Half Board,Travel Agency,Desert Safari,47.35,426.15,9,100,2,No,Yes
+TRV00204,2025-05-22,Dahab,Coastal,Friends,5,34,2,Standard,Breakfast,Walk-in,Beach Activities,47.35,94.7,10,73,29,No,No
+TRV00205,2025-07-22,Cairo,Urban,Solo,1,14,6,Standard,Half Board,Mobile App,City Tour,53.46,320.76,7,67,24,No,No
+TRV00206,2025-09-03,Aswan,Historical,Solo,1,79,3,Standard,Breakfast,Walk-in,Relaxation,38.38,115.14,6,54,9,No,No
+TRV00207,2025-07-06,Dahab,Coastal,Family,4,11,1,Family Room,Full Board,Mobile App,Cultural Tour,136.98,136.98,10,68,7,No,No
+TRV00208,2025-07-29,Alexandria,Coastal,Friends,4,63,2,Standard,Full Board,Walk-in,Beach Activities,52.15,104.3,5,34,0,Yes,No
+TRV00209,2025-10-26,Marsa Alam,Coastal,Friends,2,38,6,Suite,Room Only,Website,City Tour,154.96,929.76,7,50,21,No,No
+TRV00210,2025-03-27,Sharm El Sheikh,Coastal,Business,2,0,1,Family Room,Room Only,Website,Cultural Tour,130.15,130.15,3,35,9,Yes,No
+TRV00211,2025-08-17,Aswan,Historical,Solo,1,12,6,Standard,Room Only,Walk-in,Museum Tour,55.47,332.82,8,62,10,No,No
+TRV00212,2025-03-01,Alexandria,Coastal,Couple,2,14,1,Deluxe,Half Board,Walk-in,Beach Activities,65.37,65.37,7,50,40,No,No
+TRV00213,2025-06-13,Marsa Alam,Coastal,Family,5,1,3,Standard,Breakfast,Website,Desert Safari,81.33,243.99,9,78,13,No,No
+TRV00214,2025-10-10,Luxor,Historical,Couple,2,19,1,Standard,Breakfast,Mobile App,Cultural Tour,39.13,39.13,6,32,22,No,No
+TRV00215,2025-11-11,Cairo,Urban,Couple,2,66,1,Standard,Half Board,Mobile App,Beach Activities,40.56,40.56,8,76,3,No,No
+TRV00216,2025-10-23,Alexandria,Coastal,Family,4,41,14,Standard,Full Board,Travel Agency,Museum Tour,52.85,739.9,9,73,0,No,No
+TRV00217,2025-11-09,Dahab,Coastal,Friends,4,41,1,Suite,Half Board,Mobile App,Diving,128.09,128.09,9,97,23,No,No
+TRV00218,2025-06-10,Luxor,Historical,Family,4,16,3,Standard,Full Board,Mobile App,Relaxation,44.0,132.0,7,47,22,No,No
+TRV00219,2025-08-05,Dahab,Coastal,Couple,2,32,2,Deluxe,Half Board,Mobile App,Beach Activities,112.03,224.06,10,61,6,No,No
+TRV00220,2025-01-05,Sharm El Sheikh,Coastal,Friends,3,28,6,Family Room,Full Board,Walk-in,Diving,108.69,652.14,9,88,21,No,No
+TRV00221,2025-09-08,Marsa Alam,Coastal,Couple,2,32,2,Standard,Half Board,Mobile App,Desert Safari,62.47,124.94,5,53,45,Yes,No
+TRV00222,2025-10-09,Marsa Alam,Coastal,Business,2,70,2,Suite,Room Only,Travel Agency,City Tour,135.89,271.78,9,82,23,No,No
+TRV00223,2025-08-06,Aswan,Historical,Family,4,22,2,Deluxe,Full Board,Website,Desert Safari,101.44,202.88,7,61,0,No,No
+TRV00224,2025-04-18,Aswan,Historical,Business,1,11,12,Deluxe,Breakfast,Mobile App,City Tour,78.41,940.92,8,67,12,No,No
+TRV00225,2025-11-02,Hurghada,Coastal,Business,2,11,3,Standard,Breakfast,Website,Desert Safari,55.82,167.46,8,95,33,No,No
+TRV00226,2025-05-22,Cairo,Urban,Couple,2,38,5,Suite,Full Board,Mobile App,City Tour,114.96,574.8,8,86,17,No,No
+TRV00227,2025-11-18,Hurghada,Coastal,Friends,5,72,4,Deluxe,Full Board,Website,City Tour,90.09,360.36,7,56,35,No,No
+TRV00228,2025-08-21,Sharm El Sheikh,Coastal,Friends,2,19,1,Suite,Room Only,Travel Agency,Cultural Tour,185.43,185.43,7,48,4,No,No
+TRV00229,2025-04-19,Dahab,Coastal,Friends,4,68,1,Standard,Full Board,Mobile App,Diving,53.04,53.04,10,80,19,No,No
+TRV00230,2025-01-24,Cairo,Urban,Family,6,38,1,Family Room,Full Board,Walk-in,Beach Activities,105.34,105.34,7,50,21,Yes,No
+TRV00231,2025-12-19,Aswan,Historical,Couple,2,33,6,Standard,Room Only,Travel Agency,Desert Safari,45.34,272.04,10,82,21,No,No
+TRV00232,2025-01-27,Luxor,Historical,Friends,3,42,4,Deluxe,Room Only,Website,Relaxation,65.35,261.4,8,52,23,Yes,No
+TRV00233,2025-09-23,Aswan,Historical,Friends,2,63,4,Suite,Breakfast,Walk-in,City Tour,113.63,454.52,7,55,2,No,Yes
+TRV00234,2025-02-22,Alexandria,Coastal,Family,5,34,4,Standard,Breakfast,Mobile App,City Tour,39.61,158.44,8,75,17,Yes,No
+TRV00235,2025-08-14,Luxor,Historical,Solo,1,39,2,Deluxe,Room Only,Mobile App,Cultural Tour,80.94,161.88,10,76,11,No,No
+TRV00236,2025-10-29,Alexandria,Coastal,Friends,5,5,6,Suite,Room Only,Travel Agency,Beach Activities,154.85,929.1,8,75,28,Yes,No
+TRV00237,2025-12-20,Hurghada,Coastal,Family,5,27,4,Suite,Breakfast,Website,Desert Safari,165.67,662.68,7,70,13,No,No
+TRV00238,2025-11-23,Marsa Alam,Coastal,Business,2,35,1,Family Room,Full Board,Walk-in,Beach Activities,125.53,125.53,8,42,60,No,No
+TRV00239,2025-02-07,Marsa Alam,Coastal,Family,3,43,2,Standard,Half Board,Walk-in,Museum Tour,48.58,97.16,10,96,41,No,No
+TRV00240,2025-08-05,Dahab,Coastal,Friends,3,50,10,Standard,Breakfast,Mobile App,Museum Tour,47.64,476.4,7,61,0,No,No
+TRV00241,2025-06-08,Alexandria,Coastal,Friends,2,31,4,Standard,Full Board,Website,Cultural Tour,49.14,196.56,10,64,0,No,Yes
+TRV00242,2025-03-03,Luxor,Historical,Family,4,29,2,Deluxe,Breakfast,Travel Agency,Desert Safari,79.33,158.66,7,61,0,No,No
+TRV00243,2025-03-02,Hurghada,Coastal,Family,5,31,1,Deluxe,Full Board,Website,Desert Safari,67.79,67.79,5,31,6,No,No
+TRV00244,2025-10-18,Marsa Alam,Coastal,Couple,2,73,4,Suite,Breakfast,Website,Diving,190.21,760.84,6,37,8,No,Yes
+TRV00245,2025-05-06,Cairo,Urban,Family,6,62,4,Family Room,Full Board,Website,Beach Activities,106.02,424.08,8,46,0,Yes,No
+TRV00246,2025-05-19,Sharm El Sheikh,Coastal,Family,5,6,1,Standard,Full Board,Website,City Tour,65.22,65.22,9,74,2,Yes,No
+TRV00247,2025-06-09,Hurghada,Coastal,Solo,1,24,2,Standard,Breakfast,Travel Agency,Desert Safari,67.93,135.86,6,36,8,No,No
+TRV00248,2025-04-11,Marsa Alam,Coastal,Business,1,31,3,Family Room,Half Board,Mobile App,Museum Tour,139.51,418.53,9,86,32,No,No
+TRV00249,2025-06-21,Cairo,Urban,Family,6,49,1,Standard,Full Board,Walk-in,Beach Activities,67.12,67.12,8,68,0,No,No
+TRV00250,2025-12-31,Luxor,Historical,Solo,1,32,1,Family Room,Half Board,Walk-in,Diving,105.23,105.23,10,56,3,No,No
+TRV00251,2025-09-16,Alexandria,Coastal,Couple,2,58,6,Deluxe,Half Board,Mobile App,Beach Activities,78.24,469.44,8,75,0,Yes,No
+TRV00252,2025-12-25,Dahab,Coastal,Solo,1,16,7,Standard,Room Only,Mobile App,Beach Activities,65.82,460.74,5,18,0,Yes,No
+TRV00253,2025-06-10,Marsa Alam,Coastal,Friends,4,60,7,Deluxe,Room Only,Travel Agency,Cultural Tour,98.45,689.15,9,69,0,Yes,No
+TRV00254,2025-12-27,Hurghada,Coastal,Business,2,52,2,Standard,Half Board,Mobile App,Relaxation,76.68,153.36,5,38,33,No,Yes
+TRV00255,2025-05-14,Hurghada,Coastal,Couple,2,58,2,Deluxe,Room Only,Mobile App,Diving,84.19,168.38,10,83,11,No,No
+TRV00256,2025-03-04,Luxor,Historical,Family,3,40,1,Standard,Room Only,Travel Agency,Cultural Tour,39.53,39.53,7,43,19,No,No
+TRV00257,2025-01-12,Alexandria,Coastal,Family,4,24,2,Standard,Room Only,Travel Agency,City Tour,56.94,113.88,10,76,24,Yes,No
+TRV00258,2025-10-21,Luxor,Historical,Friends,5,39,7,Standard,Half Board,Mobile App,Cultural Tour,52.69,368.83,5,46,0,Yes,No
+TRV00259,2025-08-17,Hurghada,Coastal,Couple,2,90,1,Deluxe,Room Only,Walk-in,Diving,137.71,137.71,10,73,0,Yes,No
+TRV00260,2025-04-13,Dahab,Coastal,Business,2,17,1,Suite,Full Board,Walk-in,Desert Safari,119.81,119.81,8,76,20,No,No
+TRV00261,2025-07-18,Sharm El Sheikh,Coastal,Solo,1,108,1,Deluxe,Room Only,Travel Agency,Museum Tour,124.13,124.13,6,72,31,No,No
+TRV00262,2025-10-27,Sharm El Sheikh,Coastal,Couple,2,43,1,Deluxe,Breakfast,Website,Desert Safari,102.67,102.67,5,43,16,No,No
+TRV00263,2025-07-01,Dahab,Coastal,Couple,2,37,10,Suite,Room Only,Travel Agency,Relaxation,188.08,1880.8,7,52,23,No,No
+TRV00264,2025-10-16,Luxor,Historical,Couple,2,29,4,Deluxe,Breakfast,Website,Museum Tour,75.88,303.52,5,48,0,No,Yes
+TRV00265,2025-01-01,Marsa Alam,Coastal,Solo,1,2,2,Suite,Room Only,Travel Agency,City Tour,185.56,371.12,10,83,11,Yes,No
+TRV00266,2025-02-26,Luxor,Historical,Business,2,47,5,Suite,Room Only,Walk-in,Relaxation,98.95,494.75,9,70,8,No,No
+TRV00267,2025-08-12,Luxor,Historical,Friends,3,47,7,Standard,Full Board,Mobile App,Diving,54.22,379.54,8,75,32,No,No
+TRV00268,2025-04-01,Luxor,Historical,Family,6,40,1,Deluxe,Room Only,Mobile App,City Tour,82.79,82.79,6,42,0,No,No
+TRV00269,2025-05-02,Alexandria,Coastal,Solo,1,50,6,Suite,Full Board,Travel Agency,Relaxation,117.97,707.82,8,73,26,Yes,No
+TRV00270,2025-06-29,Alexandria,Coastal,Solo,1,49,8,Standard,Breakfast,Walk-in,Relaxation,49.6,396.8,6,28,11,No,No
+TRV00271,2025-06-29,Dahab,Coastal,Business,2,15,1,Suite,Breakfast,Mobile App,Diving,199.3,199.3,7,59,0,No,No
+TRV00272,2025-05-31,Cairo,Urban,Family,5,14,3,Standard,Breakfast,Walk-in,Beach Activities,37.02,111.06,7,44,0,No,No
+TRV00273,2025-06-23,Alexandria,Coastal,Business,2,53,2,Family Room,Breakfast,Walk-in,Beach Activities,126.48,252.96,7,41,23,Yes,No
+TRV00274,2025-07-29,Aswan,Historical,Business,2,36,3,Standard,Full Board,Walk-in,Museum Tour,43.3,129.9,8,90,30,Yes,No
+TRV00275,2025-02-14,Dahab,Coastal,Solo,1,35,1,Standard,Room Only,Travel Agency,Beach Activities,45.41,45.41,7,62,20,No,Yes
+TRV00276,2025-08-30,Dahab,Coastal,Friends,2,150,7,Standard,Breakfast,Travel Agency,Cultural Tour,51.87,363.09,5,44,11,No,Yes
+TRV00277,2025-05-15,Marsa Alam,Coastal,Couple,2,14,1,Suite,Room Only,Website,Relaxation,160.68,160.68,9,74,6,No,No
+TRV00278,2025-10-29,Dahab,Coastal,Couple,2,14,6,Family Room,Breakfast,Walk-in,Relaxation,91.4,548.4,9,84,3,No,Yes
+TRV00279,2025-09-15,Cairo,Urban,Business,2,54,2,Standard,Breakfast,Mobile App,Beach Activities,55.52,111.04,7,49,16,Yes,No
+TRV00280,2025-04-14,Dahab,Coastal,Couple,2,26,1,Standard,Half Board,Walk-in,Diving,36.09,36.09,8,66,0,No,No
+TRV00281,2025-12-25,Cairo,Urban,Business,2,32,3,Standard,Room Only,Website,Diving,47.67,143.01,8,78,23,No,No
+TRV00282,2025-10-02,Hurghada,Coastal,Solo,1,20,3,Deluxe,Room Only,Walk-in,Diving,93.26,279.78,5,23,8,Yes,No
+TRV00283,2025-01-20,Dahab,Coastal,Friends,3,20,1,Suite,Room Only,Travel Agency,Desert Safari,153.75,153.75,10,66,23,No,No
+TRV00284,2025-05-24,Hurghada,Coastal,Friends,3,28,7,Standard,Half Board,Walk-in,Relaxation,60.38,422.66,6,63,4,Yes,No
+TRV00285,2025-04-07,Alexandria,Coastal,Friends,5,9,6,Suite,Room Only,Travel Agency,City Tour,121.44,728.64,10,87,6,No,Yes
+TRV00286,2025-12-30,Hurghada,Coastal,Business,1,26,2,Standard,Room Only,Mobile App,City Tour,64.72,129.44,5,37,0,Yes,No
+TRV00287,2025-12-27,Sharm El Sheikh,Coastal,Couple,2,128,1,Deluxe,Room Only,Website,Relaxation,127.68,127.68,9,79,12,Yes,No
+TRV00288,2025-04-01,Marsa Alam,Coastal,Friends,4,64,1,Suite,Half Board,Website,Desert Safari,161.39,161.39,7,68,15,Yes,Yes
+TRV00289,2025-04-24,Aswan,Historical,Couple,2,9,2,Deluxe,Full Board,Website,City Tour,63.11,126.22,5,41,14,No,No
+TRV00290,2025-04-25,Cairo,Urban,Solo,1,36,4,Family Room,Full Board,Travel Agency,City Tour,93.01,372.04,7,47,8,Yes,No
+TRV00291,2025-10-27,Dahab,Coastal,Family,3,26,1,Standard,Room Only,Walk-in,Museum Tour,55.4,55.4,10,83,12,No,No
+TRV00292,2025-05-22,Sharm El Sheikh,Coastal,Solo,1,17,1,Deluxe,Full Board,Website,Beach Activities,109.36,109.36,8,68,37,No,No
+TRV00293,2025-12-02,Cairo,Urban,Friends,4,83,2,Deluxe,Breakfast,Website,Relaxation,89.56,179.12,6,54,7,No,No
+TRV00294,2025-12-10,Marsa Alam,Coastal,Solo,1,28,7,Standard,Half Board,Mobile App,Cultural Tour,58.47,409.29,6,48,9,No,No
+TRV00295,2025-12-15,Luxor,Historical,Solo,1,105,5,Standard,Full Board,Travel Agency,City Tour,49.36,246.8,8,80,8,No,Yes
+TRV00296,2025-10-27,Hurghada,Coastal,Solo,1,81,1,Standard,Full Board,Website,Relaxation,56.28,56.28,8,65,18,No,No
+TRV00297,2025-09-29,Dahab,Coastal,Solo,1,105,4,Standard,Full Board,Travel Agency,Beach Activities,48.6,194.4,5,40,19,No,No
+TRV00298,2025-03-15,Marsa Alam,Coastal,Solo,1,42,2,Standard,Room Only,Travel Agency,Beach Activities,44.29,88.58,10,83,33,Yes,No
+TRV00299,2025-10-23,Luxor,Historical,Couple,2,23,1,Deluxe,Full Board,Walk-in,Relaxation,68.45,68.45,7,63,0,No,No
+TRV00300,2025-01-20,Cairo,Urban,Business,1,20,6,Family Room,Room Only,Mobile App,City Tour,94.33,565.98,7,46,3,No,No
+TRV00301,2025-04-26,Aswan,Historical,Solo,1,50,4,Standard,Breakfast,Travel Agency,Diving,33.22,132.88,7,72,0,Yes,Yes
+TRV00302,2025-08-22,Hurghada,Coastal,Business,1,18,9,Standard,Breakfast,Travel Agency,Cultural Tour,74.51,670.59,9,77,1,Yes,No
+TRV00303,2025-01-10,Dahab,Coastal,Couple,2,9,1,Suite,Room Only,Mobile App,Diving,157.72,157.72,9,61,12,No,No
+TRV00304,2025-07-12,Cairo,Urban,Solo,1,48,2,Deluxe,Room Only,Website,Museum Tour,93.42,186.84,8,54,59,No,No
+TRV00305,2025-08-31,Hurghada,Coastal,Couple,2,25,7,Deluxe,Breakfast,Travel Agency,Museum Tour,118.87,832.09,9,72,0,No,No
+TRV00306,2025-05-25,Alexandria,Coastal,Family,3,39,1,Deluxe,Breakfast,Travel Agency,City Tour,70.34,70.34,8,79,24,No,No
+TRV00307,2025-01-21,Luxor,Historical,Business,2,68,2,Standard,Room Only,Website,Museum Tour,46.79,93.58,6,52,0,No,No
+TRV00308,2025-03-18,Marsa Alam,Coastal,Family,3,28,2,Deluxe,Half Board,Travel Agency,Cultural Tour,64.8,129.6,9,63,0,No,Yes
+TRV00309,2025-01-21,Luxor,Historical,Solo,1,48,1,Suite,Room Only,Website,Museum Tour,145.95,145.95,6,40,0,No,No
+TRV00310,2025-06-18,Luxor,Historical,Solo,1,12,8,Standard,Room Only,Mobile App,Desert Safari,51.67,413.36,10,73,0,No,No
+TRV00311,2025-07-17,Hurghada,Coastal,Friends,3,14,4,Standard,Breakfast,Website,Relaxation,74.72,298.88,8,46,23,Yes,No
+TRV00312,2025-10-19,Marsa Alam,Coastal,Friends,5,12,7,Deluxe,Full Board,Mobile App,City Tour,92.81,649.67,4,45,14,No,No
+TRV00313,2025-08-14,Dahab,Coastal,Family,3,35,7,Standard,Half Board,Mobile App,City Tour,66.81,467.67,8,57,27,No,No
+TRV00314,2025-08-10,Alexandria,Coastal,Couple,2,11,2,Standard,Room Only,Website,City Tour,70.02,140.04,9,80,28,No,No
+TRV00315,2025-09-11,Marsa Alam,Coastal,Couple,2,11,3,Standard,Breakfast,Website,Desert Safari,61.05,183.15,7,55,6,No,No
+TRV00316,2025-02-10,Aswan,Historical,Friends,5,22,1,Family Room,Room Only,Travel Agency,Cultural Tour,80.48,80.48,10,77,12,No,No
+TRV00317,2025-02-22,Cairo,Urban,Friends,2,2,4,Suite,Breakfast,Travel Agency,City Tour,139.16,556.64,9,62,3,No,No
+TRV00318,2025-07-06,Sharm El Sheikh,Coastal,Family,4,21,5,Deluxe,Half Board,Walk-in,Diving,115.51,577.55,9,73,46,No,No
+TRV00319,2025-01-02,Aswan,Historical,Solo,1,11,2,Suite,Full Board,Mobile App,Museum Tour,111.19,222.38,5,58,0,Yes,No
+TRV00320,2025-02-24,Dahab,Coastal,Solo,1,5,2,Family Room,Full Board,Mobile App,Cultural Tour,70.58,141.16,8,81,9,No,No
+TRV00321,2025-02-25,Sharm El Sheikh,Coastal,Friends,2,22,7,Deluxe,Full Board,Mobile App,Diving,77.06,539.42,6,37,0,Yes,No
+TRV00322,2025-10-27,Dahab,Coastal,Friends,3,28,4,Standard,Full Board,Travel Agency,Relaxation,39.63,158.52,10,72,0,No,No
+TRV00323,2025-05-21,Aswan,Historical,Friends,4,6,10,Suite,Half Board,Walk-in,Beach Activities,119.03,1190.3,7,44,0,No,No
+TRV00324,2025-12-31,Sharm El Sheikh,Coastal,Business,1,31,4,Deluxe,Breakfast,Travel Agency,Desert Safari,105.55,422.2,7,58,15,No,No
+TRV00325,2025-09-15,Luxor,Historical,Business,2,8,1,Deluxe,Half Board,Walk-in,Diving,87.94,87.94,9,58,26,No,No
+TRV00326,2025-09-25,Cairo,Urban,Family,3,81,6,Standard,Half Board,Mobile App,Museum Tour,48.1,288.6,7,76,16,No,Yes
+TRV00327,2025-12-16,Hurghada,Coastal,Solo,1,24,6,Standard,Half Board,Website,Diving,64.26,385.56,7,55,22,No,No
+TRV00328,2025-11-28,Aswan,Historical,Business,2,22,7,Deluxe,Full Board,Walk-in,Museum Tour,83.68,585.76,6,52,9,No,No
+TRV00329,2025-10-10,Sharm El Sheikh,Coastal,Family,3,20,4,Deluxe,Breakfast,Walk-in,City Tour,81.41,325.64,5,57,43,No,No
+TRV00330,2025-10-29,Sharm El Sheikh,Coastal,Business,2,49,1,Deluxe,Breakfast,Website,Relaxation,90.08,90.08,8,56,22,No,No
+TRV00331,2025-07-13,Alexandria,Coastal,Family,6,28,1,Standard,Room Only,Travel Agency,Diving,63.38,63.38,6,51,1,No,No
+TRV00332,2025-01-21,Luxor,Historical,Couple,2,42,5,Deluxe,Room Only,Travel Agency,Diving,63.42,317.1,10,82,24,No,No
+TRV00333,2025-04-05,Aswan,Historical,Business,2,48,10,Deluxe,Half Board,Website,Cultural Tour,70.35,703.5,7,39,0,Yes,No
+TRV00334,2025-06-19,Sharm El Sheikh,Coastal,Solo,1,50,4,Family Room,Room Only,Website,City Tour,173.72,694.88,9,53,0,No,No
+TRV00335,2025-01-21,Aswan,Historical,Solo,1,18,1,Standard,Room Only,Travel Agency,Relaxation,32.8,32.8,9,49,12,No,No
+TRV00336,2025-09-21,Sharm El Sheikh,Coastal,Business,1,16,3,Standard,Half Board,Mobile App,Relaxation,69.5,208.5,10,72,0,No,No
+TRV00337,2025-10-03,Luxor,Historical,Business,1,52,2,Deluxe,Full Board,Mobile App,City Tour,78.97,157.94,8,57,6,No,No
+TRV00338,2025-11-28,Dahab,Coastal,Family,4,14,1,Suite,Room Only,Website,Museum Tour,124.88,124.88,9,64,3,Yes,No
+TRV00339,2025-10-22,Alexandria,Coastal,Couple,2,27,7,Deluxe,Half Board,Walk-in,Cultural Tour,80.92,566.44,8,54,7,Yes,No
+TRV00340,2025-11-25,Cairo,Urban,Business,1,56,4,Standard,Half Board,Website,Diving,51.15,204.6,8,50,49,No,No
+TRV00341,2025-05-25,Alexandria,Coastal,Friends,5,13,5,Deluxe,Breakfast,Mobile App,Diving,71.14,355.7,8,61,43,No,No
+TRV00342,2025-11-21,Hurghada,Coastal,Couple,2,25,5,Deluxe,Room Only,Mobile App,Diving,100.64,503.2,7,49,0,Yes,No
+TRV00343,2025-10-03,Dahab,Coastal,Business,1,109,7,Suite,Breakfast,Travel Agency,Relaxation,135.64,949.48,9,72,30,No,No
+TRV00344,2025-03-24,Luxor,Historical,Couple,2,38,1,Standard,Full Board,Website,Relaxation,32.78,32.78,9,75,0,No,Yes
+TRV00345,2025-05-09,Alexandria,Coastal,Family,4,21,1,Standard,Room Only,Mobile App,Relaxation,46.13,46.13,7,24,15,No,Yes
+TRV00346,2025-06-12,Aswan,Historical,Friends,4,141,4,Deluxe,Half Board,Travel Agency,Beach Activities,93.65,374.6,6,69,17,No,Yes
+TRV00347,2025-05-07,Sharm El Sheikh,Coastal,Couple,2,39,4,Standard,Full Board,Travel Agency,Relaxation,57.72,230.88,7,60,37,No,No
+TRV00348,2025-09-07,Hurghada,Coastal,Business,1,14,2,Suite,Breakfast,Mobile App,City Tour,188.76,377.52,7,57,11,Yes,No
+TRV00349,2025-02-08,Alexandria,Coastal,Family,3,2,6,Family Room,Full Board,Travel Agency,Diving,98.01,588.06,7,52,0,No,Yes
+TRV00350,2025-04-25,Dahab,Coastal,Business,2,46,1,Deluxe,Half Board,Walk-in,Museum Tour,72.57,72.57,7,77,0,No,No
+TRV00351,2025-09-21,Luxor,Historical,Couple,2,47,3,Deluxe,Full Board,Mobile App,Diving,57.17,171.51,6,56,22,No,Yes
+TRV00352,2025-04-29,Marsa Alam,Coastal,Family,5,31,2,Standard,Full Board,Travel Agency,Beach Activities,62.2,124.4,9,58,23,No,No
+TRV00353,2025-01-21,Cairo,Urban,Solo,1,75,3,Deluxe,Full Board,Mobile App,Diving,66.58,199.74,9,78,17,No,No
+TRV00354,2025-09-22,Alexandria,Coastal,Solo,1,37,4,Standard,Full Board,Travel Agency,City Tour,56.71,226.84,10,79,31,No,No
+TRV00355,2025-09-14,Cairo,Urban,Couple,2,14,1,Standard,Breakfast,Travel Agency,Relaxation,40.89,40.89,7,39,5,Yes,No
+TRV00356,2025-12-05,Alexandria,Coastal,Couple,2,56,3,Deluxe,Breakfast,Walk-in,Cultural Tour,109.59,328.77,9,85,4,No,No
+TRV00357,2025-01-12,Dahab,Coastal,Couple,2,11,5,Standard,Breakfast,Website,Diving,48.89,244.45,9,61,0,Yes,No
+TRV00358,2025-09-22,Luxor,Historical,Friends,4,12,5,Standard,Full Board,Walk-in,Diving,39.29,196.45,9,81,21,Yes,No
+TRV00359,2025-10-26,Luxor,Historical,Couple,2,36,6,Family Room,Breakfast,Website,Diving,89.76,538.56,7,37,18,No,No
+TRV00360,2025-04-14,Cairo,Urban,Business,1,24,3,Standard,Room Only,Website,Diving,53.98,161.94,9,66,6,Yes,No
+TRV00361,2025-12-14,Cairo,Urban,Friends,4,51,5,Deluxe,Full Board,Mobile App,Cultural Tour,117.09,585.45,8,61,0,No,No
+TRV00362,2025-08-06,Alexandria,Coastal,Couple,2,26,3,Family Room,Full Board,Travel Agency,Museum Tour,117.3,351.9,6,64,24,Yes,Yes
+TRV00363,2025-10-23,Cairo,Urban,Business,2,39,5,Deluxe,Full Board,Travel Agency,Relaxation,81.08,405.4,9,85,16,No,Yes
+TRV00364,2025-05-14,Hurghada,Coastal,Business,2,30,4,Family Room,Full Board,Mobile App,Cultural Tour,132.8,531.2,5,48,2,No,No
+TRV00365,2025-07-09,Luxor,Historical,Business,2,39,4,Deluxe,Breakfast,Walk-in,City Tour,111.15,444.6,4,43,23,No,No
+TRV00366,2025-08-17,Aswan,Historical,Couple,2,32,2,Suite,Breakfast,Website,City Tour,161.59,323.18,8,64,9,No,No
+TRV00367,2025-03-16,Alexandria,Coastal,Friends,2,60,1,Standard,Room Only,Website,Desert Safari,37.01,37.01,10,100,34,No,No
+TRV00368,2025-11-11,Dahab,Coastal,Business,1,13,5,Deluxe,Breakfast,Website,Cultural Tour,88.26,441.3,8,74,35,No,No
+TRV00369,2025-04-10,Hurghada,Coastal,Family,4,31,5,Standard,Breakfast,Website,Relaxation,55.17,275.85,8,50,16,Yes,No
+TRV00370,2025-06-30,Dahab,Coastal,Friends,3,25,4,Suite,Half Board,Website,Museum Tour,155.95,623.8,6,59,9,No,No
+TRV00371,2025-06-27,Sharm El Sheikh,Coastal,Solo,1,10,4,Family Room,Half Board,Website,Diving,192.17,768.68,8,54,23,Yes,No
+TRV00372,2025-09-15,Alexandria,Coastal,Solo,1,17,6,Family Room,Full Board,Travel Agency,City Tour,120.08,720.48,8,78,13,No,No
+TRV00373,2025-06-23,Aswan,Historical,Friends,2,19,3,Standard,Breakfast,Walk-in,Museum Tour,59.11,177.33,7,47,8,No,No
+TRV00374,2025-07-31,Sharm El Sheikh,Coastal,Solo,1,6,3,Standard,Room Only,Travel Agency,Cultural Tour,66.47,199.41,5,33,3,No,No
+TRV00375,2025-07-01,Sharm El Sheikh,Coastal,Couple,2,20,7,Deluxe,Breakfast,Mobile App,Beach Activities,121.49,850.43,7,58,3,No,No
+TRV00376,2025-05-08,Aswan,Historical,Business,1,18,5,Standard,Room Only,Walk-in,Museum Tour,48.16,240.8,5,56,9,No,No
+TRV00377,2025-09-04,Cairo,Urban,Solo,1,34,4,Deluxe,Full Board,Travel Agency,City Tour,81.06,324.24,10,59,10,Yes,No
+TRV00378,2025-09-27,Cairo,Urban,Friends,2,14,3,Standard,Full Board,Mobile App,Relaxation,37.15,111.45,6,55,0,No,No
+TRV00379,2025-06-11,Marsa Alam,Coastal,Family,3,42,10,Deluxe,Half Board,Travel Agency,Desert Safari,117.24,1172.4,8,74,6,Yes,No
+TRV00380,2025-08-30,Hurghada,Coastal,Business,1,7,3,Deluxe,Half Board,Walk-in,Beach Activities,119.23,357.69,7,53,30,No,No
+TRV00381,2025-04-03,Marsa Alam,Coastal,Business,1,82,7,Suite,Full Board,Mobile App,City Tour,138.59,970.13,7,76,46,No,Yes
+TRV00382,2025-08-31,Luxor,Historical,Family,4,26,13,Standard,Full Board,Travel Agency,City Tour,51.7,672.1,6,33,19,No,No
+TRV00383,2025-07-23,Cairo,Urban,Family,4,17,4,Suite,Full Board,Website,Cultural Tour,150.89,603.56,7,59,0,No,No
+TRV00384,2025-10-14,Sharm El Sheikh,Coastal,Business,1,19,8,Deluxe,Breakfast,Mobile App,Desert Safari,106.37,850.96,8,70,20,No,No
+TRV00385,2025-12-11,Sharm El Sheikh,Coastal,Business,1,40,1,Standard,Breakfast,Walk-in,Desert Safari,69.75,69.75,7,71,21,No,No
+TRV00386,2025-08-04,Sharm El Sheikh,Coastal,Business,1,41,2,Standard,Half Board,Travel Agency,Beach Activities,63.95,127.9,9,64,11,No,No
+TRV00387,2025-05-19,Dahab,Coastal,Friends,5,2,2,Standard,Breakfast,Website,City Tour,39.13,78.26,4,26,0,No,No
+TRV00388,2025-04-18,Alexandria,Coastal,Couple,2,75,2,Standard,Room Only,Website,Cultural Tour,38.45,76.9,7,85,0,No,No
+TRV00389,2025-02-23,Alexandria,Coastal,Solo,1,43,4,Standard,Full Board,Travel Agency,Beach Activities,34.69,138.76,10,100,0,No,Yes
+TRV00390,2025-01-15,Luxor,Historical,Family,5,37,3,Deluxe,Full Board,Travel Agency,City Tour,64.61,193.83,8,54,0,Yes,No
+TRV00391,2025-10-30,Luxor,Historical,Business,2,20,2,Family Room,Room Only,Mobile App,Cultural Tour,77.3,154.6,9,81,0,No,No
+TRV00392,2025-03-21,Hurghada,Coastal,Solo,1,96,5,Standard,Full Board,Website,Cultural Tour,42.01,210.05,10,72,14,No,No
+TRV00393,2025-08-09,Cairo,Urban,Solo,1,32,1,Standard,Full Board,Walk-in,Diving,51.72,51.72,8,76,40,Yes,No
+TRV00394,2025-07-13,Dahab,Coastal,Couple,2,20,6,Deluxe,Half Board,Travel Agency,Diving,106.18,637.08,6,60,0,No,No
+TRV00395,2025-07-31,Hurghada,Coastal,Couple,2,18,7,Standard,Full Board,Walk-in,Relaxation,64.51,451.57,7,50,29,Yes,No
+TRV00396,2025-06-14,Aswan,Historical,Family,4,25,5,Standard,Half Board,Travel Agency,Museum Tour,44.21,221.05,6,47,17,Yes,No
+TRV00397,2025-04-30,Cairo,Urban,Family,4,25,5,Standard,Full Board,Travel Agency,Cultural Tour,51.21,256.05,5,58,20,No,No
+TRV00398,2025-06-19,Cairo,Urban,Family,4,91,1,Suite,Breakfast,Walk-in,Museum Tour,195.49,195.49,7,43,22,Yes,No
+TRV00399,2025-01-07,Dahab,Coastal,Family,4,19,6,Standard,Full Board,Mobile App,Museum Tour,52.83,316.98,6,41,18,No,No
+TRV00400,2025-08-31,Aswan,Historical,Friends,4,36,1,Deluxe,Half Board,Website,Museum Tour,90.13,90.13,6,49,7,No,No
+TRV00401,2025-01-27,Sharm El Sheikh,Coastal,Couple,2,69,1,Standard,Room Only,Travel Agency,Beach Activities,74.07,74.07,6,63,16,No,Yes
+TRV00402,2025-10-25,Cairo,Urban,Friends,4,37,6,Standard,Half Board,Website,Cultural Tour,36.22,217.32,8,66,21,No,No
+TRV00403,2025-01-31,Cairo,Urban,Solo,1,80,1,Deluxe,Full Board,Travel Agency,Desert Safari,82.23,82.23,8,65,0,No,Yes
+TRV00404,2025-07-03,Dahab,Coastal,Couple,2,9,4,Suite,Full Board,Travel Agency,Diving,189.87,759.48,7,51,20,Yes,No
+TRV00405,2025-06-15,Sharm El Sheikh,Coastal,Friends,3,21,3,Deluxe,Half Board,Travel Agency,Cultural Tour,136.22,408.66,10,61,20,No,No
+TRV00406,2025-04-05,Dahab,Coastal,Family,5,20,7,Suite,Breakfast,Walk-in,Relaxation,124.52,871.64,9,59,2,No,No
+TRV00407,2025-11-10,Luxor,Historical,Solo,1,6,2,Standard,Room Only,Website,Diving,38.46,76.92,3,18,33,No,No
+TRV00408,2025-04-14,Cairo,Urban,Family,6,65,2,Standard,Full Board,Walk-in,Relaxation,54.88,109.76,8,64,47,No,No
+TRV00409,2025-01-26,Hurghada,Coastal,Solo,1,41,2,Family Room,Room Only,Walk-in,Beach Activities,125.04,250.08,6,50,5,No,No
+TRV00410,2025-10-13,Sharm El Sheikh,Coastal,Friends,2,25,1,Deluxe,Half Board,Website,Relaxation,111.15,111.15,7,30,0,Yes,No
+TRV00411,2025-02-21,Alexandria,Coastal,Couple,2,41,7,Deluxe,Full Board,Mobile App,Beach Activities,64.84,453.88,9,63,6,No,No
+TRV00412,2025-12-12,Sharm El Sheikh,Coastal,Friends,2,14,10,Suite,Half Board,Walk-in,Diving,214.52,2145.2,7,42,5,No,No
+TRV00413,2025-06-30,Marsa Alam,Coastal,Solo,1,6,2,Suite,Breakfast,Travel Agency,Cultural Tour,220.19,440.38,8,72,16,No,No
+TRV00414,2025-07-04,Hurghada,Coastal,Friends,5,89,1,Suite,Breakfast,Website,Desert Safari,224.42,224.42,10,76,2,No,No
+TRV00415,2025-04-24,Hurghada,Coastal,Couple,2,67,4,Family Room,Room Only,Mobile App,Diving,115.25,461.0,8,68,8,Yes,No
+TRV00416,2025-05-16,Luxor,Historical,Solo,1,68,3,Suite,Breakfast,Walk-in,Museum Tour,130.65,391.95,7,74,10,No,No
+TRV00417,2025-03-30,Marsa Alam,Coastal,Friends,4,61,2,Suite,Room Only,Walk-in,Diving,137.61,275.22,8,74,0,No,No
+TRV00418,2025-06-28,Sharm El Sheikh,Coastal,Friends,2,62,10,Suite,Full Board,Website,City Tour,268.15,2681.5,8,55,0,Yes,No
+TRV00419,2025-10-04,Sharm El Sheikh,Coastal,Business,1,10,1,Standard,Full Board,Walk-in,Relaxation,60.03,60.03,7,59,19,No,No
+TRV00420,2025-04-24,Alexandria,Coastal,Friends,5,15,3,Standard,Room Only,Walk-in,Museum Tour,51.87,155.61,6,44,18,No,No
+TRV00421,2025-09-14,Dahab,Coastal,Friends,3,26,2,Deluxe,Breakfast,Walk-in,Cultural Tour,61.33,122.66,9,88,0,No,No
+TRV00422,2025-05-05,Aswan,Historical,Family,5,21,3,Deluxe,Room Only,Website,Diving,63.31,189.93,8,68,2,No,No
+TRV00423,2025-04-08,Sharm El Sheikh,Coastal,Solo,1,57,3,Standard,Breakfast,Walk-in,Desert Safari,73.32,219.96,6,22,27,No,No
+TRV00424,2025-04-13,Aswan,Historical,Solo,1,18,3,Suite,Half Board,Mobile App,Beach Activities,105.41,316.23,8,40,2,Yes,No
+TRV00425,2025-06-06,Alexandria,Coastal,Friends,2,0,2,Standard,Breakfast,Mobile App,Diving,57.74,115.48,7,57,0,No,No
+TRV00426,2025-11-15,Marsa Alam,Coastal,Couple,2,37,8,Standard,Breakfast,Travel Agency,Museum Tour,46.83,374.64,6,68,0,No,No
+TRV00427,2025-08-27,Cairo,Urban,Family,3,27,1,Deluxe,Room Only,Travel Agency,Relaxation,83.16,83.16,7,65,0,Yes,No
+TRV00428,2025-04-29,Dahab,Coastal,Friends,4,15,1,Family Room,Breakfast,Website,Diving,104.74,104.74,8,59,29,Yes,No
+TRV00429,2025-01-21,Cairo,Urban,Couple,2,15,7,Standard,Half Board,Website,Beach Activities,41.48,290.36,9,94,28,No,No
+TRV00430,2025-05-01,Hurghada,Coastal,Business,2,49,2,Family Room,Half Board,Website,City Tour,116.97,233.94,5,54,0,Yes,No
+TRV00431,2025-12-03,Dahab,Coastal,Couple,2,34,4,Deluxe,Full Board,Mobile App,Diving,98.46,393.84,8,56,0,No,No
+TRV00432,2025-08-18,Sharm El Sheikh,Coastal,Business,1,53,1,Deluxe,Breakfast,Mobile App,Relaxation,108.42,108.42,7,67,28,No,No
+TRV00433,2025-08-09,Luxor,Historical,Couple,2,50,10,Deluxe,Breakfast,Website,Relaxation,82.31,823.1,10,89,0,No,No
+TRV00434,2025-06-13,Cairo,Urban,Friends,4,51,1,Suite,Breakfast,Travel Agency,City Tour,145.99,145.99,9,69,17,No,Yes
+TRV00435,2025-01-14,Luxor,Historical,Business,1,3,2,Standard,Room Only,Travel Agency,Museum Tour,39.17,78.34,8,81,7,No,No
+TRV00436,2025-12-31,Marsa Alam,Coastal,Solo,1,60,1,Deluxe,Breakfast,Mobile App,Beach Activities,92.55,92.55,6,59,15,Yes,No
+TRV00437,2025-05-19,Cairo,Urban,Friends,3,158,3,Standard,Half Board,Walk-in,Cultural Tour,48.17,144.51,8,51,7,No,No
+TRV00438,2025-07-27,Dahab,Coastal,Family,6,35,3,Deluxe,Room Only,Website,Relaxation,112.98,338.94,5,53,23,No,No
+TRV00439,2025-05-06,Cairo,Urban,Business,2,33,4,Deluxe,Breakfast,Website,Relaxation,69.18,276.72,8,79,0,No,No
+TRV00440,2025-05-27,Hurghada,Coastal,Friends,5,13,10,Deluxe,Full Board,Mobile App,Museum Tour,98.48,984.8,9,67,0,No,No
+TRV00441,2025-04-03,Alexandria,Coastal,Business,2,47,4,Standard,Full Board,Mobile App,Museum Tour,53.3,213.2,7,40,16,No,No
+TRV00442,2025-08-21,Aswan,Historical,Family,5,66,2,Suite,Room Only,Website,Museum Tour,154.23,308.46,8,64,0,No,No
+TRV00443,2025-09-26,Alexandria,Coastal,Friends,5,55,1,Standard,Breakfast,Travel Agency,Beach Activities,42.91,42.91,7,56,0,Yes,No
+TRV00444,2025-08-03,Cairo,Urban,Solo,1,70,4,Deluxe,Breakfast,Mobile App,Museum Tour,87.9,351.6,8,53,42,Yes,No
+TRV00445,2025-08-23,Cairo,Urban,Friends,2,64,1,Standard,Full Board,Walk-in,Diving,48.25,48.25,10,92,24,No,Yes
+TRV00446,2025-05-06,Cairo,Urban,Business,1,92,6,Standard,Room Only,Travel Agency,Museum Tour,39.78,238.68,7,44,49,Yes,Yes
+TRV00447,2025-06-19,Hurghada,Coastal,Family,3,40,2,Family Room,Breakfast,Travel Agency,Beach Activities,125.97,251.94,10,70,0,No,No
+TRV00448,2025-01-19,Sharm El Sheikh,Coastal,Family,5,34,3,Family Room,Full Board,Website,City Tour,116.09,348.27,6,54,31,No,Yes
+TRV00449,2025-03-10,Marsa Alam,Coastal,Family,5,18,3,Deluxe,Room Only,Mobile App,Relaxation,76.02,228.06,9,76,16,Yes,No
+TRV00450,2025-09-05,Alexandria,Coastal,Business,2,75,8,Standard,Breakfast,Travel Agency,Diving,41.84,334.72,5,62,21,No,No
+TRV00451,2025-09-10,Marsa Alam,Coastal,Couple,2,24,6,Standard,Room Only,Walk-in,Museum Tour,44.58,267.48,9,87,30,No,No
+TRV00452,2025-07-31,Dahab,Coastal,Family,5,23,1,Standard,Half Board,Travel Agency,Beach Activities,68.66,68.66,10,76,2,No,No
+TRV00453,2025-01-04,Sharm El Sheikh,Coastal,Family,5,31,5,Suite,Breakfast,Website,Diving,167.2,836.0,6,23,12,Yes,No
+TRV00454,2025-08-31,Marsa Alam,Coastal,Family,4,4,2,Deluxe,Full Board,Travel Agency,City Tour,112.38,224.76,5,42,2,No,No
+TRV00455,2025-09-24,Cairo,Urban,Solo,1,33,4,Deluxe,Room Only,Travel Agency,Desert Safari,80.31,321.24,5,30,38,No,No
+TRV00456,2025-06-23,Cairo,Urban,Friends,5,43,2,Deluxe,Half Board,Travel Agency,City Tour,77.47,154.94,6,62,50,No,No
+TRV00457,2025-09-12,Alexandria,Coastal,Couple,2,60,4,Standard,Room Only,Mobile App,Desert Safari,49.29,197.16,8,62,0,No,Yes
+TRV00458,2025-02-17,Aswan,Historical,Friends,5,28,6,Standard,Half Board,Travel Agency,Cultural Tour,38.93,233.58,7,74,21,Yes,No
+TRV00459,2025-04-16,Luxor,Historical,Family,6,21,14,Standard,Half Board,Website,Museum Tour,39.53,553.42,8,63,0,No,Yes
+TRV00460,2025-01-12,Hurghada,Coastal,Business,2,48,2,Standard,Half Board,Travel Agency,Desert Safari,57.18,114.36,8,59,0,No,No
+TRV00461,2025-03-18,Hurghada,Coastal,Couple,2,14,12,Family Room,Breakfast,Website,Diving,114.33,1371.96,7,52,26,No,No
+TRV00462,2025-03-14,Hurghada,Coastal,Solo,1,41,1,Standard,Room Only,Walk-in,Desert Safari,48.54,48.54,8,81,16,Yes,No
+TRV00463,2025-02-24,Cairo,Urban,Friends,2,63,5,Standard,Half Board,Walk-in,Relaxation,39.95,199.75,8,48,22,No,No
+TRV00464,2025-08-27,Alexandria,Coastal,Business,2,8,5,Standard,Full Board,Walk-in,Desert Safari,63.31,316.55,8,83,14,Yes,No
+TRV00465,2025-07-06,Hurghada,Coastal,Friends,4,10,5,Deluxe,Full Board,Website,Museum Tour,102.37,511.85,7,50,2,Yes,No
+TRV00466,2025-05-25,Luxor,Historical,Solo,1,107,3,Suite,Half Board,Website,City Tour,106.88,320.64,6,50,12,No,Yes
+TRV00467,2025-09-30,Hurghada,Coastal,Friends,5,33,2,Deluxe,Full Board,Mobile App,Diving,77.05,154.1,9,56,15,No,No
+TRV00468,2025-08-11,Dahab,Coastal,Business,1,33,2,Deluxe,Room Only,Walk-in,Museum Tour,87.51,175.02,5,44,14,No,No
+TRV00469,2025-08-16,Alexandria,Coastal,Couple,2,58,4,Deluxe,Half Board,Walk-in,Relaxation,78.94,315.76,4,49,32,No,No
+TRV00470,2025-04-22,Alexandria,Coastal,Couple,2,1,2,Deluxe,Full Board,Walk-in,Desert Safari,74.88,149.76,8,53,21,Yes,No
+TRV00471,2025-06-03,Sharm El Sheikh,Coastal,Business,2,23,7,Family Room,Full Board,Website,Diving,185.78,1300.46,7,79,21,No,No
+TRV00472,2025-07-09,Cairo,Urban,Business,2,28,6,Standard,Breakfast,Website,Desert Safari,53.86,323.16,8,58,5,No,No
+TRV00473,2025-12-31,Sharm El Sheikh,Coastal,Friends,5,38,5,Deluxe,Full Board,Mobile App,Relaxation,146.76,733.8,7,45,33,Yes,No
+TRV00474,2025-08-02,Sharm El Sheikh,Coastal,Couple,2,4,10,Standard,Breakfast,Website,Relaxation,90.36,903.6,8,61,5,No,No
+TRV00475,2025-03-11,Dahab,Coastal,Family,4,43,1,Family Room,Breakfast,Walk-in,Relaxation,73.6,73.6,4,52,0,No,No
+TRV00476,2025-07-16,Marsa Alam,Coastal,Solo,1,10,2,Deluxe,Breakfast,Walk-in,Diving,111.18,222.36,9,58,0,No,No
+TRV00477,2025-01-18,Sharm El Sheikh,Coastal,Family,6,109,4,Deluxe,Breakfast,Website,Relaxation,114.82,459.28,10,78,11,No,No
+TRV00478,2025-08-27,Hurghada,Coastal,Business,1,77,4,Deluxe,Half Board,Website,Relaxation,123.67,494.68,8,61,26,No,No
+TRV00479,2025-08-29,Cairo,Urban,Friends,4,19,14,Standard,Half Board,Travel Agency,City Tour,58.0,812.0,5,40,0,Yes,No
+TRV00480,2025-10-16,Hurghada,Coastal,Solo,1,32,5,Deluxe,Room Only,Travel Agency,Relaxation,78.86,394.3,9,79,50,No,Yes
+TRV00481,2025-05-23,Alexandria,Coastal,Solo,1,62,4,Family Room,Breakfast,Website,Museum Tour,116.17,464.68,10,82,4,No,No
+TRV00482,2025-07-09,Marsa Alam,Coastal,Couple,2,14,6,Standard,Half Board,Website,Diving,63.31,379.86,7,72,50,No,No
+TRV00483,2025-09-11,Luxor,Historical,Friends,3,9,11,Suite,Half Board,Mobile App,Beach Activities,108.35,1191.85,5,31,13,Yes,No
+TRV00484,2025-01-27,Alexandria,Coastal,Couple,2,62,1,Standard,Full Board,Mobile App,Relaxation,38.23,38.23,8,46,53,No,No
+TRV00485,2025-03-16,Hurghada,Coastal,Business,2,12,8,Family Room,Half Board,Walk-in,Cultural Tour,87.87,702.96,9,69,18,No,No
+TRV00486,2025-02-19,Cairo,Urban,Business,2,16,1,Standard,Half Board,Website,Desert Safari,41.51,41.51,6,58,25,No,No
+TRV00487,2025-12-11,Aswan,Historical,Business,1,21,6,Standard,Room Only,Website,Museum Tour,61.79,370.74,9,81,0,Yes,No
+TRV00488,2025-12-17,Alexandria,Coastal,Friends,3,12,7,Standard,Room Only,Website,Museum Tour,66.63,466.41,7,60,0,Yes,No
+TRV00489,2025-11-03,Aswan,Historical,Family,3,31,1,Standard,Room Only,Mobile App,City Tour,45.98,45.98,7,46,0,No,No
+TRV00490,2025-12-05,Marsa Alam,Coastal,Family,6,24,2,Deluxe,Half Board,Travel Agency,Relaxation,135.41,270.82,9,76,5,Yes,Yes
+TRV00491,2025-07-15,Cairo,Urban,Friends,2,41,3,Family Room,Full Board,Mobile App,Desert Safari,120.98,362.94,7,68,3,Yes,No
+TRV00492,2025-11-09,Aswan,Historical,Friends,5,52,2,Standard,Breakfast,Walk-in,City Tour,46.34,92.68,7,46,20,No,No
+TRV00493,2025-05-13,Marsa Alam,Coastal,Family,3,39,4,Deluxe,Room Only,Walk-in,Desert Safari,98.15,392.6,6,60,12,No,No
+TRV00494,2025-01-20,Cairo,Urban,Friends,3,67,2,Family Room,Full Board,Website,Diving,110.71,221.42,6,52,9,No,No
+TRV00495,2025-10-04,Alexandria,Coastal,Couple,2,55,7,Standard,Half Board,Travel Agency,Diving,56.36,394.52,7,52,44,No,No
+TRV00496,2025-07-07,Alexandria,Coastal,Business,2,34,7,Suite,Breakfast,Mobile App,Desert Safari,191.81,1342.67,9,75,56,No,No
+TRV00497,2025-06-03,Aswan,Historical,Friends,4,26,8,Standard,Breakfast,Walk-in,Relaxation,42.9,343.2,8,52,28,Yes,No
+TRV00498,2025-09-08,Aswan,Historical,Friends,4,18,9,Deluxe,Room Only,Walk-in,City Tour,80.92,728.28,8,81,31,Yes,No
+TRV00499,2025-07-27,Cairo,Urban,Family,4,14,1,Suite,Room Only,Website,Beach Activities,186.71,186.71,6,48,6,No,No
+TRV00500,2025-08-30,Cairo,Urban,Business,1,7,3,Standard,Half Board,Website,Relaxation,58.18,174.54,6,46,30,No,No
+TRV00501,2025-10-30,Luxor,Historical,Family,3,25,14,Deluxe,Room Only,Mobile App,Diving,76.09,1065.26,7,35,0,No,No
+TRV00502,2025-06-16,Dahab,Coastal,Family,4,45,2,Suite,Half Board,Mobile App,Diving,160.64,321.28,5,41,6,Yes,No
+TRV00503,2025-03-28,Dahab,Coastal,Solo,1,52,10,Family Room,Room Only,Mobile App,Museum Tour,70.51,705.1,7,40,5,No,No
+TRV00504,2025-03-22,Dahab,Coastal,Family,6,43,2,Standard,Full Board,Travel Agency,Museum Tour,45.6,91.2,7,56,25,No,No
+TRV00505,2025-12-21,Marsa Alam,Coastal,Couple,2,76,1,Deluxe,Breakfast,Mobile App,Cultural Tour,95.6,95.6,5,35,34,No,Yes
+TRV00506,2025-09-13,Luxor,Historical,Business,2,3,2,Deluxe,Breakfast,Mobile App,Diving,84.62,169.24,7,56,39,Yes,No
+TRV00507,2025-11-13,Alexandria,Coastal,Solo,1,14,4,Standard,Breakfast,Website,Beach Activities,58.9,235.6,9,88,0,No,No
+TRV00508,2025-09-12,Marsa Alam,Coastal,Couple,2,18,5,Deluxe,Full Board,Mobile App,Desert Safari,72.02,360.1,6,51,0,Yes,No
+TRV00509,2025-01-23,Marsa Alam,Coastal,Family,3,4,1,Suite,Room Only,Website,Cultural Tour,188.35,188.35,6,47,0,No,No
+TRV00510,2025-08-03,Sharm El Sheikh,Coastal,Couple,2,23,3,Standard,Full Board,Mobile App,Museum Tour,66.36,199.08,7,45,17,No,No
+TRV00511,2025-02-07,Aswan,Historical,Friends,2,34,4,Standard,Breakfast,Walk-in,Diving,44.83,179.32,9,67,22,No,No
+TRV00512,2025-11-20,Aswan,Historical,Solo,1,24,4,Standard,Half Board,Website,Relaxation,46.42,185.68,7,46,0,Yes,No
+TRV00513,2025-08-03,Marsa Alam,Coastal,Couple,2,9,1,Deluxe,Breakfast,Mobile App,City Tour,98.48,98.48,8,40,12,Yes,No
+TRV00514,2025-04-21,Marsa Alam,Coastal,Business,2,53,5,Standard,Breakfast,Mobile App,Cultural Tour,56.49,282.45,7,50,0,No,No
+TRV00515,2025-10-21,Luxor,Historical,Family,6,21,3,Family Room,Full Board,Website,Relaxation,88.13,264.39,7,59,4,No,No
+TRV00516,2025-08-20,Alexandria,Coastal,Friends,2,34,3,Deluxe,Breakfast,Mobile App,Cultural Tour,106.55,319.65,7,59,6,No,No
+TRV00517,2025-01-09,Alexandria,Coastal,Friends,3,25,6,Family Room,Full Board,Website,Relaxation,108.33,649.98,7,51,0,No,No
+TRV00518,2025-04-05,Dahab,Coastal,Solo,1,39,8,Standard,Room Only,Travel Agency,Relaxation,39.98,319.84,6,62,0,No,No
+TRV00519,2025-12-17,Aswan,Historical,Family,5,63,10,Family Room,Half Board,Walk-in,Museum Tour,108.06,1080.6,7,62,2,No,Yes
+TRV00520,2025-03-31,Sharm El Sheikh,Coastal,Business,1,10,8,Family Room,Full Board,Website,Beach Activities,108.76,870.08,8,57,1,No,No
+TRV00521,2025-04-26,Aswan,Historical,Solo,1,20,1,Standard,Half Board,Travel Agency,Museum Tour,49.0,49.0,6,45,11,No,No
+TRV00522,2025-08-29,Alexandria,Coastal,Business,2,16,2,Suite,Breakfast,Website,Relaxation,210.66,421.32,8,76,0,No,No
+TRV00523,2025-07-20,Alexandria,Coastal,Couple,2,7,4,Standard,Full Board,Mobile App,Museum Tour,71.61,286.44,8,46,0,Yes,No
+TRV00524,2025-05-31,Cairo,Urban,Friends,5,67,2,Deluxe,Half Board,Website,Relaxation,80.16,160.32,7,65,0,Yes,Yes
+TRV00525,2025-09-24,Aswan,Historical,Solo,1,13,1,Deluxe,Full Board,Walk-in,Relaxation,68.85,68.85,9,90,7,No,No
+TRV00526,2025-03-29,Hurghada,Coastal,Solo,1,14,4,Family Room,Breakfast,Website,City Tour,102.97,411.88,5,49,37,No,No
+TRV00527,2025-11-13,Luxor,Historical,Couple,2,39,5,Suite,Breakfast,Mobile App,Relaxation,121.13,605.65,7,47,46,Yes,No
+TRV00528,2025-10-22,Sharm El Sheikh,Coastal,Couple,2,45,8,Standard,Half Board,Website,Diving,54.18,433.44,6,38,30,No,No
+TRV00529,2025-10-04,Marsa Alam,Coastal,Couple,2,28,3,Deluxe,Full Board,Mobile App,Cultural Tour,108.37,325.11,8,67,45,No,No
+TRV00530,2025-11-28,Sharm El Sheikh,Coastal,Solo,1,5,2,Suite,Half Board,Walk-in,Relaxation,140.47,280.94,9,74,0,No,No
+TRV00531,2025-03-13,Cairo,Urban,Business,1,48,8,Deluxe,Full Board,Mobile App,City Tour,77.38,619.04,10,85,13,No,No
+TRV00532,2025-10-26,Aswan,Historical,Business,1,8,8,Standard,Room Only,Walk-in,Diving,34.58,276.64,9,52,2,No,No
+TRV00533,2025-06-12,Marsa Alam,Coastal,Business,2,21,9,Standard,Half Board,Walk-in,City Tour,56.68,510.12,9,77,21,No,Yes
+TRV00534,2025-06-29,Sharm El Sheikh,Coastal,Solo,1,9,3,Suite,Full Board,Walk-in,Cultural Tour,228.35,685.05,6,56,21,No,No
+TRV00535,2025-08-01,Dahab,Coastal,Couple,2,16,1,Standard,Room Only,Travel Agency,City Tour,63.21,63.21,10,89,12,No,No
+TRV00536,2025-02-15,Dahab,Coastal,Family,6,39,2,Standard,Breakfast,Mobile App,Cultural Tour,42.69,85.38,6,65,18,Yes,No
+TRV00537,2025-01-22,Marsa Alam,Coastal,Solo,1,34,4,Standard,Breakfast,Website,City Tour,47.87,191.48,9,69,39,Yes,No
+TRV00538,2025-03-05,Marsa Alam,Coastal,Solo,1,36,14,Family Room,Room Only,Mobile App,Relaxation,119.25,1669.5,4,23,46,Yes,No
+TRV00539,2025-11-03,Alexandria,Coastal,Solo,1,20,1,Deluxe,Half Board,Website,Cultural Tour,96.06,96.06,8,78,26,No,No
+TRV00540,2025-03-25,Hurghada,Coastal,Business,2,23,1,Deluxe,Half Board,Mobile App,Relaxation,88.49,88.49,7,85,42,Yes,No
+TRV00541,2025-11-22,Dahab,Coastal,Solo,1,0,4,Deluxe,Breakfast,Mobile App,Museum Tour,63.58,254.32,7,64,3,No,No
+TRV00542,2025-10-06,Luxor,Historical,Solo,1,7,3,Deluxe,Room Only,Travel Agency,Relaxation,75.49,226.47,9,66,8,No,No
+TRV00543,2025-01-07,Luxor,Historical,Couple,2,113,1,Deluxe,Breakfast,Website,Beach Activities,67.66,67.66,5,36,0,Yes,No
+TRV00544,2025-10-14,Aswan,Historical,Business,2,24,1,Family Room,Room Only,Mobile App,Museum Tour,105.72,105.72,8,51,30,No,No
+TRV00545,2025-03-13,Sharm El Sheikh,Coastal,Friends,3,10,7,Standard,Breakfast,Website,City Tour,50.68,354.76,3,21,21,Yes,No
+TRV00546,2025-06-07,Aswan,Historical,Couple,2,16,3,Deluxe,Room Only,Website,City Tour,88.25,264.75,6,50,0,Yes,No
+TRV00547,2025-01-22,Dahab,Coastal,Couple,2,27,7,Deluxe,Room Only,Website,Desert Safari,62.69,438.83,8,66,20,No,Yes
+TRV00548,2025-03-05,Alexandria,Coastal,Business,1,35,1,Deluxe,Breakfast,Website,Museum Tour,69.66,69.66,8,67,27,No,No
+TRV00549,2025-06-30,Sharm El Sheikh,Coastal,Couple,2,12,6,Suite,Breakfast,Website,City Tour,250.57,1503.42,7,69,0,No,No
+TRV00550,2025-10-03,Luxor,Historical,Family,3,16,5,Standard,Full Board,Mobile App,Diving,46.06,230.3,7,42,7,No,No
+TRV00551,2025-07-14,Sharm El Sheikh,Coastal,Friends,3,21,3,Standard,Full Board,Website,Desert Safari,87.03,261.09,7,33,42,Yes,No
+TRV00552,2025-12-27,Sharm El Sheikh,Coastal,Solo,1,25,8,Deluxe,Full Board,Travel Agency,Cultural Tour,131.91,1055.28,7,54,25,No,No
+TRV00553,2025-04-26,Marsa Alam,Coastal,Business,2,11,4,Standard,Half Board,Walk-in,Museum Tour,49.9,199.6,10,68,34,Yes,No
+TRV00554,2025-12-11,Marsa Alam,Coastal,Family,6,18,5,Standard,Room Only,Walk-in,Cultural Tour,65.76,328.8,6,63,0,No,No
+TRV00555,2025-02-03,Luxor,Historical,Solo,1,25,2,Deluxe,Breakfast,Website,Cultural Tour,57.61,115.22,8,55,32,No,No
+TRV00556,2025-10-25,Hurghada,Coastal,Business,2,6,9,Deluxe,Full Board,Walk-in,Diving,84.63,761.67,7,41,6,No,No
+TRV00557,2025-02-25,Marsa Alam,Coastal,Family,5,17,3,Standard,Room Only,Website,Beach Activities,58.22,174.66,7,43,17,No,No
+TRV00558,2025-12-14,Marsa Alam,Coastal,Family,4,94,1,Standard,Room Only,Website,Diving,69.33,69.33,7,58,13,No,No
+TRV00559,2025-08-27,Marsa Alam,Coastal,Couple,2,55,3,Deluxe,Room Only,Travel Agency,Diving,119.47,358.41,8,68,18,No,Yes
+TRV00560,2025-03-02,Dahab,Coastal,Friends,4,19,1,Deluxe,Breakfast,Website,Museum Tour,68.6,68.6,8,55,13,No,No
+TRV00561,2025-12-28,Hurghada,Coastal,Couple,2,25,7,Standard,Room Only,Walk-in,Cultural Tour,73.9,517.3,5,54,14,No,No
+TRV00562,2025-09-01,Marsa Alam,Coastal,Business,2,23,3,Standard,Half Board,Walk-in,Diving,62.16,186.48,7,54,0,No,No
+TRV00563,2025-01-15,Cairo,Urban,Business,2,12,2,Standard,Half Board,Website,Relaxation,56.01,112.02,6,47,10,No,No
+TRV00564,2025-07-30,Sharm El Sheikh,Coastal,Solo,1,36,7,Standard,Room Only,Website,Desert Safari,67.05,469.35,7,60,3,No,No
+TRV00565,2025-01-11,Luxor,Historical,Business,2,16,14,Deluxe,Half Board,Walk-in,Cultural Tour,82.12,1149.68,7,36,28,Yes,No
+TRV00566,2025-06-12,Cairo,Urban,Friends,4,63,14,Suite,Half Board,Mobile App,Museum Tour,200.35,2804.9,5,47,0,No,No
+TRV00567,2025-03-27,Sharm El Sheikh,Coastal,Business,2,11,4,Standard,Breakfast,Website,Relaxation,53.7,214.8,6,46,14,No,Yes
+TRV00568,2025-04-26,Dahab,Coastal,Business,2,14,1,Standard,Full Board,Walk-in,Diving,42.14,42.14,6,26,26,Yes,No
+TRV00569,2025-09-16,Hurghada,Coastal,Solo,1,44,3,Deluxe,Breakfast,Walk-in,Desert Safari,93.98,281.94,9,96,28,No,No
+TRV00570,2025-10-23,Luxor,Historical,Friends,5,29,14,Family Room,Room Only,Walk-in,Diving,81.43,1140.02,9,77,45,No,No
+TRV00571,2025-05-04,Luxor,Historical,Couple,2,30,4,Standard,Breakfast,Website,City Tour,49.05,196.2,7,46,0,No,No
+TRV00572,2025-11-27,Hurghada,Coastal,Couple,2,78,1,Standard,Room Only,Mobile App,Beach Activities,53.66,53.66,7,64,1,Yes,No
+TRV00573,2025-09-06,Marsa Alam,Coastal,Business,1,6,3,Standard,Room Only,Mobile App,Desert Safari,58.95,176.85,3,25,22,Yes,No
+TRV00574,2025-11-26,Luxor,Historical,Family,6,35,5,Family Room,Half Board,Travel Agency,Museum Tour,95.88,479.4,6,65,0,No,No
+TRV00575,2025-07-06,Dahab,Coastal,Family,6,13,3,Standard,Half Board,Website,Relaxation,51.18,153.54,6,25,0,No,No
+TRV00576,2025-06-10,Alexandria,Coastal,Solo,1,10,2,Standard,Breakfast,Mobile App,Museum Tour,48.62,97.24,9,66,9,No,No
+TRV00577,2025-10-29,Hurghada,Coastal,Family,6,11,1,Standard,Breakfast,Walk-in,Cultural Tour,49.87,49.87,6,51,0,No,No
+TRV00578,2025-07-05,Luxor,Historical,Friends,4,65,3,Deluxe,Room Only,Website,Diving,74.8,224.4,9,74,3,No,No
+TRV00579,2025-05-10,Aswan,Historical,Business,2,46,9,Family Room,Breakfast,Website,Relaxation,69.57,626.13,7,51,33,No,No
+TRV00580,2025-05-11,Dahab,Coastal,Solo,1,67,2,Standard,Half Board,Walk-in,Beach Activities,38.54,77.08,5,30,0,No,No
+TRV00581,2025-01-18,Dahab,Coastal,Solo,1,8,2,Suite,Full Board,Travel Agency,City Tour,125.45,250.9,8,50,10,No,No
+TRV00582,2025-12-24,Luxor,Historical,Solo,1,43,1,Deluxe,Full Board,Travel Agency,City Tour,85.67,85.67,8,78,0,No,No
+TRV00583,2025-11-19,Luxor,Historical,Friends,2,22,4,Standard,Room Only,Travel Agency,Desert Safari,40.54,162.16,9,83,25,Yes,No
+TRV00584,2025-11-01,Luxor,Historical,Friends,5,89,2,Family Room,Breakfast,Travel Agency,Beach Activities,112.3,224.6,7,42,24,No,No
+TRV00585,2025-04-12,Hurghada,Coastal,Family,6,34,6,Standard,Room Only,Mobile App,Cultural Tour,59.38,356.28,7,66,0,No,No
+TRV00586,2025-02-15,Aswan,Historical,Friends,4,101,1,Standard,Half Board,Walk-in,Diving,30.0,30.0,9,53,11,Yes,No
+TRV00587,2025-10-18,Luxor,Historical,Family,3,18,1,Suite,Breakfast,Website,Cultural Tour,113.14,113.14,6,41,10,No,No
+TRV00588,2025-05-28,Hurghada,Coastal,Friends,3,45,4,Family Room,Half Board,Mobile App,Diving,129.41,517.64,9,86,16,No,No
+TRV00589,2025-07-29,Luxor,Historical,Couple,2,109,2,Standard,Half Board,Mobile App,Cultural Tour,58.12,116.24,7,61,0,No,No
+TRV00590,2025-01-06,Alexandria,Coastal,Friends,4,59,1,Deluxe,Full Board,Walk-in,Relaxation,66.7,66.7,8,89,0,No,No
+TRV00591,2025-10-13,Alexandria,Coastal,Family,3,15,4,Deluxe,Room Only,Website,Desert Safari,85.19,340.76,7,63,0,Yes,No
+TRV00592,2025-07-22,Hurghada,Coastal,Solo,1,43,3,Standard,Half Board,Walk-in,Diving,79.53,238.59,9,56,27,No,No
+TRV00593,2025-12-30,Sharm El Sheikh,Coastal,Business,2,12,1,Standard,Full Board,Mobile App,Museum Tour,84.56,84.56,9,88,21,No,No
+TRV00594,2025-08-09,Sharm El Sheikh,Coastal,Solo,1,27,8,Deluxe,Full Board,Travel Agency,Beach Activities,121.88,975.04,9,83,21,No,Yes
+TRV00595,2025-01-28,Marsa Alam,Coastal,Couple,2,28,2,Standard,Breakfast,Travel Agency,Cultural Tour,65.76,131.52,5,31,30,No,No
+TRV00596,2025-01-21,Marsa Alam,Coastal,Friends,5,22,3,Deluxe,Room Only,Mobile App,City Tour,99.64,298.92,4,43,34,No,No
+TRV00597,2025-04-03,Hurghada,Coastal,Couple,2,10,1,Deluxe,Full Board,Mobile App,Diving,76.68,76.68,9,70,16,No,No
+TRV00598,2025-12-13,Marsa Alam,Coastal,Family,5,35,7,Deluxe,Full Board,Website,Relaxation,102.39,716.73,7,53,33,No,No
+TRV00599,2025-06-15,Alexandria,Coastal,Couple,2,43,2,Suite,Full Board,Walk-in,Relaxation,144.32,288.64,7,63,33,No,No
+TRV00600,2025-06-18,Cairo,Urban,Family,6,42,1,Standard,Half Board,Travel Agency,Museum Tour,49.76,49.76,10,84,32,No,No
+TRV00601,2025-02-17,Dahab,Coastal,Friends,3,37,8,Family Room,Room Only,Walk-in,City Tour,91.34,730.72,9,91,37,Yes,No
+TRV00602,2025-07-26,Dahab,Coastal,Solo,1,18,5,Deluxe,Breakfast,Travel Agency,Cultural Tour,80.48,402.4,6,53,27,No,Yes
+TRV00603,2025-09-20,Sharm El Sheikh,Coastal,Couple,2,39,4,Deluxe,Room Only,Walk-in,Diving,118.04,472.16,10,88,34,No,No
+TRV00604,2025-08-11,Luxor,Historical,Friends,2,20,7,Family Room,Breakfast,Mobile App,Relaxation,106.2,743.4,9,75,0,No,No
+TRV00605,2025-05-29,Alexandria,Coastal,Friends,2,44,1,Standard,Breakfast,Travel Agency,Beach Activities,57.25,57.25,7,56,5,No,No
+TRV00606,2025-10-10,Cairo,Urban,Family,3,40,10,Deluxe,Half Board,Travel Agency,Cultural Tour,65.29,652.9,6,68,27,Yes,Yes
+TRV00607,2025-02-28,Cairo,Urban,Friends,3,62,1,Standard,Half Board,Travel Agency,Cultural Tour,50.34,50.34,6,58,0,No,No
+TRV00608,2025-11-16,Marsa Alam,Coastal,Solo,1,25,1,Standard,Room Only,Travel Agency,Relaxation,45.71,45.71,8,67,24,No,Yes
+TRV00609,2025-03-01,Dahab,Coastal,Family,4,28,5,Deluxe,Half Board,Walk-in,City Tour,59.72,298.6,7,72,7,No,No
+TRV00610,2025-12-20,Sharm El Sheikh,Coastal,Friends,2,38,2,Standard,Room Only,Website,Beach Activities,64.09,128.18,6,61,3,No,No
+TRV00611,2025-04-18,Cairo,Urban,Friends,3,108,5,Suite,Room Only,Mobile App,City Tour,140.78,703.9,9,87,10,No,No
+TRV00612,2025-08-05,Marsa Alam,Coastal,Family,3,43,4,Suite,Full Board,Walk-in,Cultural Tour,241.99,967.96,6,40,25,Yes,No
+TRV00613,2025-04-14,Aswan,Historical,Solo,1,23,4,Standard,Full Board,Walk-in,Relaxation,43.89,175.56,5,53,0,No,No
+TRV00614,2025-01-19,Hurghada,Coastal,Friends,5,39,1,Standard,Full Board,Website,Museum Tour,46.7,46.7,8,61,19,No,No
+TRV00615,2025-11-28,Hurghada,Coastal,Friends,2,54,8,Deluxe,Full Board,Travel Agency,Relaxation,76.19,609.52,10,83,0,No,Yes
+TRV00616,2025-04-09,Hurghada,Coastal,Friends,5,11,2,Deluxe,Full Board,Travel Agency,Diving,79.53,159.06,10,73,26,Yes,No
+TRV00617,2025-08-02,Dahab,Coastal,Solo,1,9,6,Standard,Full Board,Website,Relaxation,57.73,346.38,7,50,17,Yes,No
+TRV00618,2025-02-21,Marsa Alam,Coastal,Friends,4,52,1,Standard,Half Board,Website,Museum Tour,40.81,40.81,7,78,0,No,No
+TRV00619,2025-03-31,Luxor,Historical,Business,2,53,2,Deluxe,Room Only,Mobile App,Diving,54.77,109.54,9,87,14,No,No
+TRV00620,2025-07-01,Sharm El Sheikh,Coastal,Family,5,60,3,Suite,Room Only,Walk-in,Cultural Tour,211.16,633.48,9,74,0,No,No
+TRV00621,2025-10-15,Alexandria,Coastal,Family,3,2,5,Family Room,Half Board,Mobile App,Desert Safari,116.43,582.15,10,91,6,No,No
+TRV00622,2025-02-20,Marsa Alam,Coastal,Couple,2,86,4,Standard,Full Board,Walk-in,Beach Activities,42.04,168.16,9,78,5,No,Yes
+TRV00623,2025-06-24,Marsa Alam,Coastal,Solo,1,14,5,Standard,Half Board,Walk-in,City Tour,58.94,294.7,7,49,30,No,No
+TRV00624,2025-04-27,Dahab,Coastal,Couple,2,31,4,Family Room,Room Only,Travel Agency,City Tour,98.15,392.6,7,55,11,No,No
+TRV00625,2025-02-13,Alexandria,Coastal,Solo,1,90,2,Deluxe,Breakfast,Website,Cultural Tour,82.63,165.26,5,48,19,No,Yes
+TRV00626,2025-08-03,Hurghada,Coastal,Friends,4,6,1,Standard,Full Board,Mobile App,Desert Safari,77.43,77.43,7,21,0,No,No
+TRV00627,2025-12-24,Marsa Alam,Coastal,Solo,1,3,5,Standard,Full Board,Travel Agency,Diving,81.85,409.25,3,41,7,No,No
+TRV00628,2025-09-24,Luxor,Historical,Business,1,85,5,Deluxe,Breakfast,Travel Agency,Desert Safari,71.87,359.35,8,68,8,Yes,No
+TRV00629,2025-05-04,Hurghada,Coastal,Solo,1,49,3,Suite,Room Only,Travel Agency,Desert Safari,157.48,472.44,10,70,16,Yes,No
+TRV00630,2025-08-18,Alexandria,Coastal,Solo,1,23,9,Family Room,Half Board,Mobile App,City Tour,122.55,1102.95,8,71,19,No,No
+TRV00631,2025-07-13,Luxor,Historical,Business,2,47,1,Deluxe,Full Board,Travel Agency,Beach Activities,109.96,109.96,5,27,20,Yes,No
+TRV00632,2025-02-11,Dahab,Coastal,Family,3,12,6,Deluxe,Half Board,Website,Cultural Tour,72.67,436.02,6,59,0,No,No
+TRV00633,2025-05-16,Dahab,Coastal,Business,2,15,7,Deluxe,Breakfast,Walk-in,Cultural Tour,67.91,475.37,6,51,10,Yes,No
+TRV00634,2025-03-08,Marsa Alam,Coastal,Business,2,43,6,Deluxe,Half Board,Mobile App,Relaxation,93.6,561.6,7,38,14,No,No
+TRV00635,2025-02-26,Dahab,Coastal,Family,5,48,7,Deluxe,Half Board,Travel Agency,Museum Tour,82.77,579.39,8,58,37,No,No
+TRV00636,2025-01-15,Marsa Alam,Coastal,Couple,2,29,6,Family Room,Breakfast,Travel Agency,Desert Safari,139.24,835.44,8,71,21,Yes,No
+TRV00637,2025-03-04,Cairo,Urban,Business,1,31,2,Deluxe,Full Board,Travel Agency,Diving,58.55,117.1,7,70,54,No,No
+TRV00638,2025-11-07,Marsa Alam,Coastal,Couple,2,32,6,Deluxe,Room Only,Travel Agency,Beach Activities,72.54,435.24,4,23,50,No,No
+TRV00639,2025-07-18,Dahab,Coastal,Couple,2,84,3,Family Room,Room Only,Travel Agency,Cultural Tour,102.98,308.94,8,70,0,No,No
+TRV00640,2025-10-15,Hurghada,Coastal,Family,3,58,4,Family Room,Full Board,Mobile App,Diving,122.7,490.8,8,73,0,No,Yes
+TRV00641,2025-01-10,Luxor,Historical,Solo,1,30,2,Standard,Full Board,Travel Agency,Diving,48.69,97.38,8,51,14,No,No
+TRV00642,2025-06-24,Cairo,Urban,Friends,5,32,1,Family Room,Half Board,Walk-in,Desert Safari,140.75,140.75,8,69,5,Yes,No
+TRV00643,2025-05-27,Luxor,Historical,Couple,2,6,2,Standard,Room Only,Mobile App,Cultural Tour,38.7,77.4,9,80,0,No,No
+TRV00644,2025-01-30,Cairo,Urban,Solo,1,39,5,Standard,Full Board,Travel Agency,Desert Safari,48.02,240.1,7,62,0,No,No
+TRV00645,2025-04-14,Cairo,Urban,Couple,2,30,1,Family Room,Half Board,Website,Desert Safari,116.02,116.02,6,48,23,No,No
+TRV00646,2025-01-15,Marsa Alam,Coastal,Friends,2,11,6,Deluxe,Breakfast,Website,Diving,105.69,634.14,3,12,0,No,No
+TRV00647,2025-06-05,Luxor,Historical,Business,1,23,14,Suite,Breakfast,Mobile App,Diving,157.3,2202.2,6,37,6,No,No
+TRV00648,2025-10-03,Aswan,Historical,Friends,2,42,2,Suite,Breakfast,Travel Agency,City Tour,112.37,224.74,5,39,21,Yes,No
+TRV00649,2025-05-20,Marsa Alam,Coastal,Business,2,16,1,Suite,Room Only,Travel Agency,Beach Activities,178.12,178.12,8,63,0,Yes,No
+TRV00650,2025-06-03,Alexandria,Coastal,Family,6,51,2,Suite,Breakfast,Walk-in,Desert Safari,193.47,386.94,5,37,17,No,No
+TRV00651,2025-12-16,Sharm El Sheikh,Coastal,Solo,1,13,8,Standard,Breakfast,Travel Agency,Desert Safari,65.08,520.64,7,64,0,No,No
+TRV00652,2025-12-21,Cairo,Urban,Couple,2,56,3,Family Room,Full Board,Mobile App,Relaxation,147.86,443.58,6,34,27,No,No
+TRV00653,2025-07-21,Marsa Alam,Coastal,Business,1,46,5,Family Room,Room Only,Walk-in,City Tour,123.7,618.5,6,51,0,No,No
+TRV00654,2025-07-18,Sharm El Sheikh,Coastal,Couple,2,48,10,Standard,Room Only,Walk-in,Beach Activities,88.15,881.5,7,50,0,Yes,Yes
+TRV00655,2025-12-15,Hurghada,Coastal,Solo,1,42,2,Suite,Full Board,Mobile App,Beach Activities,219.64,439.28,8,56,23,No,Yes
+TRV00656,2025-12-27,Marsa Alam,Coastal,Business,1,55,3,Family Room,Room Only,Walk-in,Relaxation,167.61,502.83,9,62,3,No,No
+TRV00657,2025-03-29,Marsa Alam,Coastal,Business,1,8,2,Deluxe,Breakfast,Website,Relaxation,79.65,159.3,7,57,14,Yes,No
+TRV00658,2025-09-25,Aswan,Historical,Solo,1,9,8,Deluxe,Full Board,Website,Cultural Tour,63.68,509.44,8,69,0,No,No
+TRV00659,2025-06-15,Cairo,Urban,Friends,4,58,2,Deluxe,Half Board,Walk-in,Cultural Tour,104.42,208.84,9,74,22,No,Yes
+TRV00660,2025-01-25,Aswan,Historical,Solo,1,47,4,Standard,Room Only,Travel Agency,Beach Activities,33.72,134.88,7,75,0,No,No
+TRV00661,2025-12-20,Aswan,Historical,Friends,3,47,4,Standard,Room Only,Website,Desert Safari,46.39,185.56,6,48,0,Yes,No
+TRV00662,2025-10-31,Cairo,Urban,Solo,1,5,2,Deluxe,Half Board,Website,Desert Safari,87.11,174.22,6,36,4,No,No
+TRV00663,2025-11-04,Alexandria,Coastal,Business,2,22,1,Deluxe,Room Only,Website,Museum Tour,69.75,69.75,6,37,7,No,No
+TRV00664,2025-03-07,Alexandria,Coastal,Family,6,19,4,Deluxe,Room Only,Website,Cultural Tour,85.77,343.08,9,75,0,No,No
+TRV00665,2025-07-15,Hurghada,Coastal,Friends,5,22,7,Family Room,Full Board,Website,City Tour,176.65,1236.55,8,74,0,No,No
+TRV00666,2025-06-23,Alexandria,Coastal,Family,6,41,6,Standard,Breakfast,Website,Museum Tour,49.54,297.24,7,54,0,No,No
+TRV00667,2025-07-01,Hurghada,Coastal,Friends,5,2,7,Standard,Room Only,Website,City Tour,82.71,578.97,7,54,7,Yes,No
+TRV00668,2025-06-09,Sharm El Sheikh,Coastal,Business,2,30,4,Standard,Half Board,Travel Agency,Desert Safari,64.08,256.32,9,55,29,No,No
+TRV00669,2025-01-30,Luxor,Historical,Couple,2,25,5,Standard,Room Only,Mobile App,Beach Activities,45.57,227.85,6,60,26,No,No
+TRV00670,2025-11-04,Marsa Alam,Coastal,Solo,1,35,2,Standard,Room Only,Walk-in,Museum Tour,60.54,121.08,9,55,17,No,No
+TRV00671,2025-12-21,Aswan,Historical,Couple,2,61,3,Deluxe,Full Board,Travel Agency,City Tour,72.92,218.76,8,74,9,Yes,Yes
+TRV00672,2025-07-05,Cairo,Urban,Family,3,17,2,Deluxe,Full Board,Travel Agency,Beach Activities,88.14,176.28,7,73,6,Yes,No
+TRV00673,2025-01-23,Sharm El Sheikh,Coastal,Family,4,28,9,Standard,Half Board,Mobile App,Desert Safari,58.88,529.92,8,58,0,No,No
+TRV00674,2025-01-12,Aswan,Historical,Couple,2,9,7,Suite,Room Only,Walk-in,Beach Activities,142.74,999.18,9,92,22,No,No
+TRV00675,2025-05-03,Marsa Alam,Coastal,Solo,1,31,3,Family Room,Breakfast,Website,Museum Tour,119.2,357.6,6,37,7,No,No
+TRV00676,2025-04-09,Aswan,Historical,Business,2,49,1,Deluxe,Room Only,Mobile App,Relaxation,76.62,76.62,10,75,4,No,No
+TRV00677,2025-03-18,Hurghada,Coastal,Solo,1,22,1,Family Room,Breakfast,Walk-in,City Tour,116.81,116.81,7,54,34,No,No
+TRV00678,2025-03-27,Alexandria,Coastal,Business,2,84,2,Deluxe,Half Board,Travel Agency,Beach Activities,73.23,146.46,9,66,13,No,No
+TRV00679,2025-08-31,Marsa Alam,Coastal,Solo,1,28,12,Standard,Breakfast,Walk-in,Beach Activities,68.27,819.24,6,33,52,No,No
+TRV00680,2025-10-20,Dahab,Coastal,Couple,2,20,1,Standard,Full Board,Travel Agency,Museum Tour,49.45,49.45,8,67,8,No,No
+TRV00681,2025-08-27,Cairo,Urban,Business,2,114,6,Deluxe,Full Board,Travel Agency,Cultural Tour,106.33,637.98,6,28,20,No,No
+TRV00682,2025-08-15,Luxor,Historical,Couple,2,14,3,Family Room,Half Board,Website,Desert Safari,140.54,421.62,7,48,0,No,No
+TRV00683,2025-07-04,Alexandria,Coastal,Family,4,50,1,Deluxe,Half Board,Travel Agency,Desert Safari,117.44,117.44,8,51,0,Yes,No
+TRV00684,2025-10-06,Luxor,Historical,Solo,1,30,6,Suite,Full Board,Walk-in,City Tour,146.4,878.4,6,25,4,No,No
+TRV00685,2025-08-30,Cairo,Urban,Business,1,30,1,Standard,Full Board,Mobile App,Relaxation,56.78,56.78,10,77,0,Yes,No
+TRV00686,2025-08-25,Marsa Alam,Coastal,Solo,1,6,5,Deluxe,Breakfast,Walk-in,Relaxation,134.63,673.15,10,100,13,No,No
+TRV00687,2025-07-11,Cairo,Urban,Couple,2,32,12,Deluxe,Half Board,Travel Agency,Relaxation,75.89,910.68,6,76,29,Yes,No
+TRV00688,2025-12-20,Dahab,Coastal,Business,1,43,3,Deluxe,Breakfast,Mobile App,Museum Tour,110.48,331.44,8,69,7,No,No
+TRV00689,2025-07-15,Dahab,Coastal,Couple,2,27,1,Standard,Full Board,Travel Agency,Museum Tour,62.37,62.37,7,57,0,No,No
+TRV00690,2025-02-23,Luxor,Historical,Business,2,43,7,Standard,Full Board,Website,Beach Activities,43.14,301.98,8,65,26,No,No
+TRV00691,2025-08-21,Alexandria,Coastal,Family,5,20,1,Standard,Breakfast,Walk-in,Cultural Tour,47.52,47.52,10,63,11,No,No
+TRV00692,2025-09-02,Dahab,Coastal,Family,6,43,3,Family Room,Full Board,Walk-in,Desert Safari,101.81,305.43,6,44,0,Yes,No
+TRV00693,2025-10-28,Hurghada,Coastal,Couple,2,49,1,Standard,Room Only,Walk-in,Beach Activities,47.03,47.03,6,48,7,No,No
+TRV00694,2025-09-27,Aswan,Historical,Solo,1,32,4,Deluxe,Half Board,Website,Relaxation,55.59,222.36,8,64,19,No,No
+TRV00695,2025-12-25,Sharm El Sheikh,Coastal,Solo,1,42,9,Standard,Full Board,Walk-in,Diving,66.07,594.63,9,64,0,No,No
+TRV00696,2025-07-21,Alexandria,Coastal,Family,4,44,2,Family Room,Room Only,Travel Agency,Diving,101.14,202.28,7,58,31,No,No
+TRV00697,2025-09-10,Aswan,Historical,Friends,4,27,8,Suite,Full Board,Travel Agency,Diving,140.37,1122.96,7,46,52,No,No
+TRV00698,2025-08-25,Cairo,Urban,Family,3,19,5,Standard,Full Board,Mobile App,Cultural Tour,57.53,287.65,8,50,0,Yes,No
+TRV00699,2025-06-17,Luxor,Historical,Friends,5,36,3,Standard,Full Board,Mobile App,Relaxation,42.95,128.85,4,44,26,Yes,No
+TRV00700,2025-03-29,Luxor,Historical,Family,3,26,2,Standard,Breakfast,Walk-in,Relaxation,34.94,69.88,6,34,2,Yes,No
+TRV00701,2025-03-20,Hurghada,Coastal,Friends,3,44,4,Suite,Full Board,Mobile App,Relaxation,144.66,578.64,10,80,9,No,No
+TRV00702,2025-07-19,Alexandria,Coastal,Solo,1,20,4,Standard,Breakfast,Mobile App,Cultural Tour,57.1,228.4,9,75,15,No,No
+TRV00703,2025-01-09,Alexandria,Coastal,Friends,2,17,2,Suite,Breakfast,Website,Relaxation,157.76,315.52,7,51,0,No,No
+TRV00704,2025-03-27,Luxor,Historical,Family,6,22,7,Standard,Breakfast,Mobile App,Relaxation,32.81,229.67,8,76,9,No,No
+TRV00705,2025-03-03,Dahab,Coastal,Couple,2,65,14,Standard,Half Board,Walk-in,Museum Tour,34.53,483.42,7,43,13,Yes,Yes
+TRV00706,2025-02-03,Aswan,Historical,Solo,1,40,3,Family Room,Full Board,Travel Agency,Cultural Tour,70.14,210.42,6,48,23,No,Yes
+TRV00707,2025-05-09,Luxor,Historical,Family,5,25,1,Standard,Full Board,Travel Agency,Relaxation,44.6,44.6,6,53,4,Yes,Yes
+TRV00708,2025-07-15,Marsa Alam,Coastal,Business,1,58,5,Standard,Half Board,Website,City Tour,66.52,332.6,8,91,0,Yes,No
+TRV00709,2025-11-14,Aswan,Historical,Family,3,34,4,Deluxe,Full Board,Mobile App,Beach Activities,67.66,270.64,9,80,25,Yes,Yes
+TRV00710,2025-06-18,Marsa Alam,Coastal,Couple,2,29,7,Deluxe,Room Only,Travel Agency,Cultural Tour,135.49,948.43,8,59,23,Yes,No
+TRV00711,2025-05-05,Sharm El Sheikh,Coastal,Couple,2,20,6,Deluxe,Breakfast,Travel Agency,Cultural Tour,95.61,573.66,5,31,4,No,Yes
+TRV00712,2025-02-05,Marsa Alam,Coastal,Couple,2,105,1,Standard,Breakfast,Mobile App,Beach Activities,58.42,58.42,6,40,33,No,No
+TRV00713,2025-06-09,Marsa Alam,Coastal,Couple,2,63,5,Standard,Half Board,Travel Agency,Beach Activities,55.92,279.6,7,65,0,No,No
+TRV00714,2025-05-20,Aswan,Historical,Friends,4,139,8,Standard,Full Board,Walk-in,Cultural Tour,48.15,385.2,9,79,0,No,No
+TRV00715,2025-09-04,Luxor,Historical,Family,6,17,1,Suite,Breakfast,Mobile App,Desert Safari,143.44,143.44,8,69,41,Yes,No
+TRV00716,2025-05-26,Marsa Alam,Coastal,Friends,2,74,1,Standard,Breakfast,Mobile App,Cultural Tour,57.08,57.08,6,43,37,No,Yes
+TRV00717,2025-09-09,Sharm El Sheikh,Coastal,Friends,5,31,1,Standard,Full Board,Website,Desert Safari,73.29,73.29,9,68,8,No,No
+TRV00718,2025-07-17,Alexandria,Coastal,Business,2,44,6,Family Room,Full Board,Travel Agency,City Tour,104.76,628.56,5,52,5,No,No
+TRV00719,2025-11-30,Cairo,Urban,Friends,3,24,2,Deluxe,Room Only,Travel Agency,City Tour,63.03,126.06,9,69,0,No,No
+TRV00720,2025-11-06,Hurghada,Coastal,Friends,4,25,1,Deluxe,Room Only,Mobile App,Relaxation,81.79,81.79,8,66,13,Yes,No
+TRV00721,2025-07-23,Dahab,Coastal,Business,2,34,1,Standard,Half Board,Travel Agency,Cultural Tour,46.88,46.88,7,35,20,No,No
+TRV00722,2025-10-28,Dahab,Coastal,Solo,1,24,2,Deluxe,Breakfast,Travel Agency,City Tour,88.24,176.48,6,44,0,Yes,No
+TRV00723,2025-12-24,Dahab,Coastal,Solo,1,22,2,Standard,Full Board,Walk-in,Museum Tour,67.02,134.04,9,77,0,No,No
+TRV00724,2025-04-01,Luxor,Historical,Solo,1,18,1,Deluxe,Full Board,Website,Diving,88.72,88.72,7,63,3,No,No
+TRV00725,2025-01-31,Aswan,Historical,Couple,2,39,5,Deluxe,Breakfast,Website,Diving,79.84,399.2,9,62,15,Yes,No
+TRV00726,2025-05-22,Alexandria,Coastal,Family,5,24,1,Deluxe,Room Only,Website,Relaxation,66.47,66.47,6,45,12,Yes,No
+TRV00727,2025-12-07,Cairo,Urban,Business,1,74,2,Deluxe,Half Board,Walk-in,Museum Tour,92.99,185.98,7,42,0,No,No
+TRV00728,2025-11-06,Sharm El Sheikh,Coastal,Friends,4,28,1,Family Room,Half Board,Mobile App,City Tour,152.2,152.2,7,61,45,No,No
+TRV00729,2025-07-02,Cairo,Urban,Solo,1,46,3,Family Room,Room Only,Mobile App,Cultural Tour,106.41,319.23,7,76,0,No,No
+TRV00730,2025-12-25,Hurghada,Coastal,Couple,2,30,6,Deluxe,Room Only,Mobile App,Relaxation,113.08,678.48,6,44,18,No,No
+TRV00731,2025-01-09,Sharm El Sheikh,Coastal,Solo,1,16,1,Standard,Room Only,Walk-in,Cultural Tour,74.06,74.06,8,66,13,No,No
+TRV00732,2025-12-04,Marsa Alam,Coastal,Family,6,52,1,Suite,Breakfast,Website,City Tour,162.31,162.31,8,54,0,No,No
+TRV00733,2025-03-28,Marsa Alam,Coastal,Friends,5,44,1,Standard,Room Only,Website,Beach Activities,40.69,40.69,8,78,0,No,No
+TRV00734,2025-06-17,Luxor,Historical,Friends,3,64,3,Deluxe,Breakfast,Website,Relaxation,102.06,306.18,9,64,0,No,No
+TRV00735,2025-02-16,Marsa Alam,Coastal,Solo,1,18,1,Standard,Full Board,Walk-in,Relaxation,50.03,50.03,6,47,28,No,No
+TRV00736,2025-05-29,Alexandria,Coastal,Family,3,47,3,Suite,Half Board,Website,Beach Activities,158.75,476.25,5,24,4,Yes,No
+TRV00737,2025-10-23,Dahab,Coastal,Family,5,48,6,Suite,Half Board,Travel Agency,Cultural Tour,132.26,793.56,7,55,18,No,No
+TRV00738,2025-09-24,Luxor,Historical,Business,2,17,2,Standard,Half Board,Walk-in,City Tour,41.5,83.0,8,72,25,Yes,No
+TRV00739,2025-09-13,Aswan,Historical,Friends,4,38,3,Suite,Half Board,Website,City Tour,95.68,287.04,5,27,42,No,No
+TRV00740,2025-05-21,Alexandria,Coastal,Business,2,75,7,Standard,Half Board,Website,Cultural Tour,46.88,328.16,5,40,7,Yes,No
+TRV00741,2025-12-25,Aswan,Historical,Family,4,37,9,Standard,Room Only,Mobile App,City Tour,41.57,374.13,8,69,39,No,No
+TRV00742,2025-06-28,Marsa Alam,Coastal,Friends,2,19,2,Standard,Room Only,Walk-in,Beach Activities,76.86,153.72,4,39,0,Yes,No
+TRV00743,2025-12-30,Cairo,Urban,Solo,1,31,1,Deluxe,Breakfast,Travel Agency,Cultural Tour,91.86,91.86,8,69,14,Yes,No
+TRV00744,2025-11-30,Aswan,Historical,Family,5,21,2,Standard,Room Only,Mobile App,Cultural Tour,44.44,88.88,5,32,9,Yes,No
+TRV00745,2025-01-27,Luxor,Historical,Family,5,2,4,Deluxe,Room Only,Mobile App,Cultural Tour,83.55,334.2,10,63,14,Yes,No
+TRV00746,2025-12-19,Hurghada,Coastal,Business,1,54,2,Suite,Half Board,Walk-in,City Tour,176.88,353.76,6,70,0,No,No
+TRV00747,2025-03-03,Cairo,Urban,Family,3,67,6,Deluxe,Room Only,Mobile App,Diving,59.67,358.02,5,48,21,No,No
+TRV00748,2025-05-21,Marsa Alam,Coastal,Family,4,6,1,Family Room,Half Board,Walk-in,Relaxation,103.58,103.58,6,41,0,No,No
+TRV00749,2025-10-03,Alexandria,Coastal,Couple,2,64,6,Deluxe,Room Only,Walk-in,Diving,65.78,394.68,8,55,35,No,No
+TRV00750,2025-04-17,Alexandria,Coastal,Family,4,35,8,Deluxe,Room Only,Travel Agency,City Tour,84.4,675.2,7,56,11,Yes,No
+TRV00751,2025-02-14,Luxor,Historical,Business,1,9,4,Family Room,Half Board,Travel Agency,Diving,86.43,345.72,9,70,34,No,No
+TRV00752,2025-05-08,Cairo,Urban,Solo,1,5,2,Standard,Half Board,Travel Agency,Cultural Tour,51.88,103.76,10,97,0,No,No
+TRV00753,2025-12-06,Alexandria,Coastal,Family,4,28,2,Standard,Breakfast,Mobile App,City Tour,61.26,122.52,5,49,11,No,No
+TRV00754,2025-05-23,Sharm El Sheikh,Coastal,Couple,2,29,1,Standard,Full Board,Mobile App,Relaxation,73.19,73.19,10,75,16,No,No
+TRV00755,2025-12-22,Dahab,Coastal,Couple,2,29,4,Family Room,Half Board,Mobile App,Relaxation,104.77,419.08,7,33,0,No,No
+TRV00756,2025-08-03,Luxor,Historical,Couple,2,34,2,Standard,Room Only,Mobile App,Diving,56.55,113.1,9,62,48,Yes,No
+TRV00757,2025-02-03,Dahab,Coastal,Solo,1,17,8,Suite,Half Board,Mobile App,Beach Activities,94.57,756.56,3,42,33,Yes,No
+TRV00758,2025-07-13,Aswan,Historical,Family,3,24,2,Deluxe,Room Only,Walk-in,City Tour,93.67,187.34,7,70,0,No,No
+TRV00759,2025-10-10,Hurghada,Coastal,Solo,1,40,4,Standard,Breakfast,Walk-in,City Tour,50.1,200.4,7,62,14,No,No
+TRV00760,2025-09-02,Dahab,Coastal,Business,1,27,3,Deluxe,Breakfast,Mobile App,Relaxation,89.75,269.25,10,78,0,Yes,No
+TRV00761,2025-01-28,Hurghada,Coastal,Solo,1,56,6,Standard,Half Board,Walk-in,Desert Safari,46.67,280.02,8,85,23,Yes,No
+TRV00762,2025-06-06,Aswan,Historical,Family,5,32,7,Suite,Room Only,Website,Relaxation,121.64,851.48,6,47,0,No,No
+TRV00763,2025-10-22,Luxor,Historical,Family,3,13,4,Suite,Breakfast,Walk-in,Museum Tour,139.84,559.36,8,75,17,No,No
+TRV00764,2025-07-27,Alexandria,Coastal,Family,4,39,1,Suite,Breakfast,Travel Agency,Relaxation,195.98,195.98,8,75,10,No,No
+TRV00765,2025-11-07,Cairo,Urban,Friends,3,109,6,Standard,Half Board,Mobile App,City Tour,38.11,228.66,6,41,26,No,No
+TRV00766,2025-03-29,Dahab,Coastal,Solo,1,73,1,Suite,Half Board,Website,City Tour,132.03,132.03,10,93,0,No,No
+TRV00767,2025-01-02,Aswan,Historical,Business,2,27,7,Family Room,Full Board,Website,Relaxation,77.7,543.9,9,71,30,No,No
+TRV00768,2025-07-02,Cairo,Urban,Family,6,16,8,Standard,Breakfast,Travel Agency,Museum Tour,70.1,560.8,6,29,23,No,Yes
+TRV00769,2025-09-09,Dahab,Coastal,Couple,2,49,3,Standard,Breakfast,Website,Cultural Tour,54.68,164.04,9,88,0,No,No
+TRV00770,2025-07-22,Marsa Alam,Coastal,Solo,1,31,14,Family Room,Room Only,Travel Agency,Diving,146.38,2049.32,8,51,3,No,No
+TRV00771,2025-03-24,Marsa Alam,Coastal,Couple,2,12,4,Standard,Room Only,Mobile App,City Tour,41.34,165.36,7,38,1,Yes,No
+TRV00772,2025-08-04,Dahab,Coastal,Solo,1,19,8,Family Room,Room Only,Travel Agency,Relaxation,109.28,874.24,6,62,12,No,No
+TRV00773,2025-06-16,Luxor,Historical,Friends,3,21,12,Family Room,Breakfast,Website,City Tour,139.6,1675.2,6,55,10,Yes,No
+TRV00774,2025-01-27,Aswan,Historical,Solo,1,25,3,Deluxe,Room Only,Walk-in,Desert Safari,64.28,192.84,10,84,2,No,No
+TRV00775,2025-09-19,Luxor,Historical,Couple,2,32,6,Family Room,Full Board,Mobile App,Relaxation,74.11,444.66,6,53,27,Yes,No
+TRV00776,2025-12-25,Alexandria,Coastal,Business,1,21,4,Standard,Room Only,Walk-in,Beach Activities,54.3,217.2,7,48,23,Yes,No
+TRV00777,2025-08-07,Luxor,Historical,Family,4,21,3,Standard,Breakfast,Travel Agency,Diving,47.33,141.99,10,65,3,Yes,No
+TRV00778,2025-09-19,Cairo,Urban,Friends,4,24,1,Standard,Full Board,Travel Agency,Desert Safari,48.99,48.99,7,51,5,Yes,No
+TRV00779,2025-01-21,Luxor,Historical,Family,3,45,6,Standard,Full Board,Website,Desert Safari,35.23,211.38,10,68,18,Yes,No
+TRV00780,2025-06-21,Sharm El Sheikh,Coastal,Solo,1,7,3,Deluxe,Half Board,Mobile App,City Tour,155.27,465.81,8,49,25,No,No
+TRV00781,2025-05-02,Sharm El Sheikh,Coastal,Solo,1,28,3,Family Room,Room Only,Website,Beach Activities,139.5,418.5,6,35,8,No,No
+TRV00782,2025-04-09,Aswan,Historical,Friends,2,22,5,Standard,Breakfast,Mobile App,Cultural Tour,47.58,237.9,9,49,0,Yes,No
+TRV00783,2025-10-14,Hurghada,Coastal,Solo,1,32,4,Family Room,Full Board,Walk-in,Museum Tour,145.71,582.84,7,37,15,No,No
+TRV00784,2025-03-27,Cairo,Urban,Business,2,26,11,Standard,Breakfast,Website,Diving,36.31,399.41,6,31,22,No,No
+TRV00785,2025-03-26,Alexandria,Coastal,Friends,5,30,4,Deluxe,Room Only,Mobile App,Beach Activities,64.16,256.64,9,97,20,Yes,No
+TRV00786,2025-09-20,Cairo,Urban,Friends,4,45,3,Standard,Breakfast,Website,Desert Safari,46.38,139.14,7,78,0,Yes,No
+TRV00787,2025-01-21,Hurghada,Coastal,Couple,2,23,3,Family Room,Breakfast,Mobile App,Museum Tour,124.09,372.27,7,48,21,No,Yes
+TRV00788,2025-11-20,Sharm El Sheikh,Coastal,Business,1,24,4,Family Room,Breakfast,Travel Agency,Diving,133.8,535.2,7,55,33,No,No
+TRV00789,2025-01-30,Sharm El Sheikh,Coastal,Family,5,63,1,Standard,Full Board,Website,Museum Tour,65.12,65.12,10,88,0,No,Yes
+TRV00790,2025-08-15,Aswan,Historical,Couple,2,34,1,Deluxe,Breakfast,Walk-in,City Tour,104.98,104.98,10,72,22,No,No
+TRV00791,2025-07-08,Dahab,Coastal,Couple,2,18,3,Standard,Breakfast,Mobile App,Beach Activities,45.63,136.89,5,56,14,No,No
+TRV00792,2025-11-28,Luxor,Historical,Solo,1,27,3,Family Room,Breakfast,Walk-in,City Tour,100.06,300.18,9,51,43,Yes,No
+TRV00793,2025-08-21,Aswan,Historical,Friends,3,39,1,Deluxe,Room Only,Walk-in,Cultural Tour,84.46,84.46,6,41,24,Yes,Yes
+TRV00794,2025-03-09,Cairo,Urban,Couple,2,12,14,Family Room,Room Only,Website,Diving,71.71,1003.94,6,37,23,No,No
+TRV00795,2025-12-29,Sharm El Sheikh,Coastal,Family,4,2,9,Suite,Half Board,Mobile App,Cultural Tour,206.07,1854.63,7,71,34,No,No
+TRV00796,2025-10-06,Cairo,Urban,Solo,1,4,2,Standard,Full Board,Website,Desert Safari,36.47,72.94,7,47,15,Yes,No
+TRV00797,2025-04-27,Cairo,Urban,Friends,3,17,1,Deluxe,Room Only,Walk-in,Beach Activities,81.76,81.76,8,52,34,No,No
+TRV00798,2025-02-22,Aswan,Historical,Solo,1,39,1,Standard,Breakfast,Website,Museum Tour,37.96,37.96,5,52,3,Yes,No
+TRV00799,2025-12-14,Luxor,Historical,Friends,4,7,4,Standard,Full Board,Travel Agency,Museum Tour,48.93,195.72,10,76,0,No,No
+TRV00800,2025-01-02,Alexandria,Coastal,Couple,2,49,3,Standard,Room Only,Walk-in,Relaxation,55.59,166.77,9,84,40,Yes,No
+TRV00801,2025-03-16,Hurghada,Coastal,Family,5,30,2,Suite,Full Board,Travel Agency,Desert Safari,149.72,299.44,9,85,9,No,No
+TRV00802,2025-11-05,Dahab,Coastal,Solo,1,21,1,Deluxe,Breakfast,Walk-in,Cultural Tour,73.62,73.62,6,49,43,No,No
+TRV00803,2025-09-27,Dahab,Coastal,Business,1,24,5,Standard,Half Board,Website,Beach Activities,47.53,237.65,6,35,23,No,No
+TRV00804,2025-01-31,Alexandria,Coastal,Solo,1,33,8,Deluxe,Breakfast,Walk-in,City Tour,82.73,661.84,7,68,22,Yes,No
+TRV00805,2025-03-02,Luxor,Historical,Couple,2,66,1,Standard,Room Only,Website,Relaxation,34.92,34.92,8,36,13,No,No
+TRV00806,2025-01-16,Luxor,Historical,Couple,2,41,10,Standard,Breakfast,Walk-in,Museum Tour,45.46,454.6,10,76,24,No,No
+TRV00807,2025-09-28,Luxor,Historical,Solo,1,30,3,Deluxe,Half Board,Website,Relaxation,79.49,238.47,5,54,1,Yes,No
+TRV00808,2025-11-06,Cairo,Urban,Couple,2,6,1,Suite,Half Board,Walk-in,Relaxation,138.57,138.57,9,75,2,No,No
+TRV00809,2025-08-05,Aswan,Historical,Couple,2,20,4,Family Room,Full Board,Mobile App,Beach Activities,107.12,428.48,10,63,12,No,No
+TRV00810,2025-10-14,Luxor,Historical,Business,2,33,8,Standard,Full Board,Walk-in,Relaxation,36.38,291.04,8,63,44,Yes,No
+TRV00811,2025-04-10,Dahab,Coastal,Solo,1,41,2,Standard,Room Only,Travel Agency,City Tour,39.41,78.82,7,63,41,Yes,No
+TRV00812,2025-02-03,Alexandria,Coastal,Couple,2,42,4,Deluxe,Breakfast,Website,Relaxation,56.74,226.96,8,54,0,Yes,No
+TRV00813,2025-10-16,Cairo,Urban,Friends,2,15,10,Standard,Half Board,Website,Desert Safari,53.01,530.1,8,68,21,No,No
+TRV00814,2025-06-11,Aswan,Historical,Friends,3,43,1,Standard,Breakfast,Website,Relaxation,47.79,47.79,6,30,22,Yes,No
+TRV00815,2025-10-28,Marsa Alam,Coastal,Family,5,13,7,Deluxe,Breakfast,Website,Museum Tour,88.09,616.63,7,37,6,No,No
+TRV00816,2025-03-24,Luxor,Historical,Business,1,14,7,Standard,Room Only,Walk-in,Desert Safari,45.69,319.83,6,50,16,No,No
+TRV00817,2025-05-03,Dahab,Coastal,Couple,2,26,12,Standard,Half Board,Mobile App,Museum Tour,51.2,614.4,9,69,56,No,No
+TRV00818,2025-09-13,Alexandria,Coastal,Family,6,32,2,Family Room,Half Board,Website,Beach Activities,82.33,164.66,7,48,4,No,No
+TRV00819,2025-04-02,Alexandria,Coastal,Friends,5,43,1,Suite,Room Only,Mobile App,Cultural Tour,121.49,121.49,6,28,27,No,No
+TRV00820,2025-05-27,Sharm El Sheikh,Coastal,Friends,3,53,6,Standard,Half Board,Travel Agency,City Tour,61.64,369.84,7,72,13,Yes,No
+TRV00821,2025-05-15,Marsa Alam,Coastal,Family,3,8,5,Standard,Full Board,Travel Agency,Museum Tour,60.04,300.2,6,58,5,Yes,No
+TRV00822,2025-04-25,Alexandria,Coastal,Friends,2,80,4,Deluxe,Room Only,Walk-in,Relaxation,81.34,325.36,10,100,20,Yes,No
+TRV00823,2025-08-10,Dahab,Coastal,Couple,2,34,5,Standard,Breakfast,Walk-in,Diving,52.89,264.45,7,50,27,No,No
+TRV00824,2025-08-21,Hurghada,Coastal,Family,4,6,5,Deluxe,Full Board,Website,Desert Safari,115.6,578.0,6,57,35,Yes,No
+TRV00825,2025-08-31,Dahab,Coastal,Couple,2,82,8,Family Room,Half Board,Walk-in,Relaxation,139.93,1119.44,8,60,10,Yes,Yes
+TRV00826,2025-02-05,Luxor,Historical,Solo,1,36,2,Family Room,Breakfast,Walk-in,Cultural Tour,99.0,198.0,7,46,9,No,No
+TRV00827,2025-02-17,Cairo,Urban,Friends,4,50,3,Standard,Full Board,Walk-in,Cultural Tour,32.41,97.23,9,79,16,No,No
+TRV00828,2025-07-01,Dahab,Coastal,Business,1,10,1,Standard,Half Board,Mobile App,Relaxation,52.62,52.62,8,54,54,No,No
+TRV00829,2025-01-08,Sharm El Sheikh,Coastal,Couple,2,16,5,Family Room,Half Board,Walk-in,Museum Tour,111.73,558.65,6,30,18,No,Yes
+TRV00830,2025-03-06,Marsa Alam,Coastal,Friends,2,44,2,Suite,Breakfast,Walk-in,Beach Activities,124.73,249.46,7,59,0,No,No
+TRV00831,2025-04-08,Aswan,Historical,Business,2,15,9,Standard,Full Board,Website,Desert Safari,37.55,337.95,6,48,7,No,No
+TRV00832,2025-06-30,Dahab,Coastal,Solo,1,14,11,Family Room,Half Board,Walk-in,Cultural Tour,96.38,1060.18,6,41,31,Yes,No
+TRV00833,2025-07-15,Dahab,Coastal,Solo,1,58,3,Family Room,Room Only,Website,City Tour,141.98,425.94,4,48,9,No,No
+TRV00834,2025-02-23,Dahab,Coastal,Friends,5,98,13,Deluxe,Breakfast,Walk-in,City Tour,54.02,702.26,6,38,0,Yes,No
+TRV00835,2025-02-28,Dahab,Coastal,Couple,2,41,6,Family Room,Full Board,Walk-in,Cultural Tour,76.98,461.88,5,20,5,Yes,No
+TRV00836,2025-09-17,Aswan,Historical,Solo,1,33,4,Suite,Breakfast,Walk-in,City Tour,113.67,454.68,9,65,40,Yes,No
+TRV00837,2025-01-08,Cairo,Urban,Family,4,26,7,Standard,Breakfast,Walk-in,Diving,47.35,331.45,5,67,4,No,No
+TRV00838,2025-01-27,Dahab,Coastal,Business,2,58,1,Family Room,Half Board,Walk-in,Beach Activities,94.79,94.79,7,47,10,No,No
+TRV00839,2025-12-30,Alexandria,Coastal,Couple,2,66,4,Suite,Breakfast,Travel Agency,Beach Activities,145.6,582.4,9,72,24,Yes,Yes
+TRV00840,2025-11-18,Cairo,Urban,Business,1,7,1,Deluxe,Full Board,Mobile App,Museum Tour,66.64,66.64,7,43,2,No,No
+TRV00841,2025-05-03,Luxor,Historical,Couple,2,97,14,Suite,Half Board,Walk-in,City Tour,134.77,1886.78,10,74,0,No,No
+TRV00842,2025-11-18,Luxor,Historical,Family,3,13,5,Family Room,Breakfast,Website,Museum Tour,92.65,463.25,5,56,7,No,No
+TRV00843,2025-02-09,Alexandria,Coastal,Friends,3,29,8,Standard,Full Board,Website,City Tour,38.95,311.6,8,55,29,Yes,No
+TRV00844,2025-04-18,Alexandria,Coastal,Friends,4,37,1,Suite,Room Only,Travel Agency,Beach Activities,139.43,139.43,7,68,8,No,No
+TRV00845,2025-03-02,Cairo,Urban,Solo,1,31,2,Standard,Room Only,Travel Agency,Relaxation,44.8,89.6,10,70,0,Yes,Yes
+TRV00846,2025-09-23,Cairo,Urban,Business,2,18,5,Standard,Half Board,Website,Beach Activities,51.58,257.9,8,76,0,Yes,No
+TRV00847,2025-05-18,Luxor,Historical,Solo,1,22,2,Standard,Full Board,Travel Agency,Diving,41.11,82.22,4,41,4,No,No
+TRV00848,2025-04-09,Dahab,Coastal,Solo,1,12,4,Family Room,Breakfast,Travel Agency,Museum Tour,107.16,428.64,7,60,9,No,No
+TRV00849,2025-08-10,Marsa Alam,Coastal,Friends,4,33,2,Deluxe,Full Board,Walk-in,Diving,123.89,247.78,7,47,16,Yes,No
+TRV00850,2025-08-19,Alexandria,Coastal,Couple,2,21,2,Standard,Full Board,Travel Agency,City Tour,48.12,96.24,8,62,28,Yes,No
+TRV00851,2025-08-08,Sharm El Sheikh,Coastal,Couple,2,31,1,Standard,Breakfast,Travel Agency,Desert Safari,85.75,85.75,6,56,23,No,Yes
+TRV00852,2025-12-19,Sharm El Sheikh,Coastal,Family,5,77,1,Deluxe,Room Only,Mobile App,Desert Safari,127.06,127.06,7,61,21,No,No
+TRV00853,2025-02-22,Aswan,Historical,Business,2,48,1,Deluxe,Half Board,Travel Agency,Cultural Tour,51.79,51.79,6,59,0,Yes,Yes
+TRV00854,2025-09-13,Marsa Alam,Coastal,Family,5,58,3,Standard,Full Board,Travel Agency,Beach Activities,65.62,196.86,9,84,0,Yes,Yes
+TRV00855,2025-11-26,Cairo,Urban,Business,2,54,1,Standard,Room Only,Website,Cultural Tour,53.0,53.0,10,88,0,No,Yes
+TRV00856,2025-02-18,Marsa Alam,Coastal,Friends,4,122,1,Suite,Half Board,Website,Cultural Tour,168.81,168.81,7,56,34,No,Yes
+TRV00857,2025-12-23,Hurghada,Coastal,Friends,2,71,2,Family Room,Breakfast,Website,Museum Tour,173.94,347.88,8,58,0,Yes,Yes
+TRV00858,2025-06-15,Alexandria,Coastal,Friends,3,20,7,Standard,Room Only,Travel Agency,City Tour,49.88,349.16,7,51,24,No,No
+TRV00859,2025-01-23,Hurghada,Coastal,Family,3,28,4,Standard,Half Board,Walk-in,Relaxation,46.04,184.16,7,60,44,No,No
+TRV00860,2025-03-03,Marsa Alam,Coastal,Couple,2,26,2,Deluxe,Breakfast,Website,Relaxation,90.07,180.14,7,71,4,No,No
+TRV00861,2025-06-14,Hurghada,Coastal,Friends,2,16,1,Suite,Half Board,Website,Relaxation,220.25,220.25,7,49,5,No,No
+TRV00862,2025-12-22,Aswan,Historical,Family,3,3,1,Standard,Full Board,Mobile App,Relaxation,56.13,56.13,5,48,2,No,No
+TRV00863,2025-06-24,Alexandria,Coastal,Couple,2,93,8,Deluxe,Breakfast,Website,City Tour,92.65,741.2,7,60,3,Yes,No
+TRV00864,2025-11-14,Marsa Alam,Coastal,Business,1,26,2,Standard,Half Board,Mobile App,Cultural Tour,66.92,133.84,9,73,28,No,No
+TRV00865,2025-03-17,Alexandria,Coastal,Friends,2,19,12,Standard,Half Board,Mobile App,Cultural Tour,45.59,547.08,7,39,11,Yes,No
+TRV00866,2025-06-30,Marsa Alam,Coastal,Solo,1,51,6,Deluxe,Full Board,Walk-in,Beach Activities,139.3,835.8,6,60,43,No,Yes
+TRV00867,2025-07-09,Hurghada,Coastal,Family,3,32,1,Standard,Breakfast,Walk-in,Beach Activities,76.15,76.15,6,38,17,No,No
+TRV00868,2025-09-23,Marsa Alam,Coastal,Friends,2,43,2,Family Room,Room Only,Website,Beach Activities,141.01,282.02,10,78,0,No,No
+TRV00869,2025-02-03,Aswan,Historical,Business,1,4,2,Family Room,Full Board,Walk-in,Relaxation,85.92,171.84,8,82,0,No,No
+TRV00870,2025-09-11,Hurghada,Coastal,Couple,2,24,5,Deluxe,Room Only,Travel Agency,Relaxation,97.54,487.7,8,47,0,Yes,No
+TRV00871,2025-06-06,Marsa Alam,Coastal,Couple,2,17,1,Standard,Breakfast,Walk-in,Desert Safari,65.03,65.03,4,28,14,No,No
+TRV00872,2025-06-21,Dahab,Coastal,Family,4,23,1,Standard,Half Board,Website,City Tour,57.31,57.31,9,60,0,No,No
+TRV00873,2025-05-07,Marsa Alam,Coastal,Friends,2,15,1,Deluxe,Breakfast,Mobile App,Desert Safari,109.91,109.91,7,60,0,No,No
+TRV00874,2025-06-05,Alexandria,Coastal,Solo,1,58,3,Family Room,Half Board,Walk-in,Desert Safari,120.95,362.85,9,79,0,No,Yes
+TRV00875,2025-06-04,Sharm El Sheikh,Coastal,Solo,1,21,1,Deluxe,Breakfast,Website,Relaxation,122.74,122.74,6,58,0,No,No
+TRV00876,2025-07-02,Luxor,Historical,Friends,3,20,1,Standard,Breakfast,Website,Relaxation,43.13,43.13,4,66,29,No,No
+TRV00877,2025-05-21,Alexandria,Coastal,Business,2,61,4,Family Room,Full Board,Travel Agency,Desert Safari,88.44,353.76,6,24,24,No,No
+TRV00878,2025-06-08,Hurghada,Coastal,Couple,2,22,1,Deluxe,Half Board,Travel Agency,Cultural Tour,104.45,104.45,10,70,7,Yes,Yes
+TRV00879,2025-08-27,Luxor,Historical,Couple,2,58,4,Deluxe,Room Only,Travel Agency,Museum Tour,77.37,309.48,8,78,29,No,No
+TRV00880,2025-01-28,Alexandria,Coastal,Friends,2,22,3,Standard,Room Only,Website,City Tour,42.4,127.2,9,57,15,Yes,No
+TRV00881,2025-09-15,Hurghada,Coastal,Business,2,70,11,Standard,Full Board,Mobile App,Relaxation,49.64,546.04,8,81,0,No,Yes
+TRV00882,2025-01-17,Aswan,Historical,Friends,3,55,9,Deluxe,Half Board,Travel Agency,Museum Tour,56.12,505.08,8,65,57,No,No
+TRV00883,2025-12-14,Dahab,Coastal,Solo,1,22,10,Standard,Half Board,Mobile App,Diving,69.71,697.1,7,66,5,No,No
+TRV00884,2025-10-07,Marsa Alam,Coastal,Couple,2,37,7,Standard,Half Board,Travel Agency,Cultural Tour,45.01,315.07,8,59,12,No,No
+TRV00885,2025-07-30,Dahab,Coastal,Friends,2,45,4,Standard,Breakfast,Travel Agency,Beach Activities,61.31,245.24,8,74,0,No,No
+TRV00886,2025-01-28,Hurghada,Coastal,Friends,5,49,1,Deluxe,Room Only,Walk-in,City Tour,82.54,82.54,6,9,0,Yes,No
+TRV00887,2025-06-20,Alexandria,Coastal,Business,2,31,8,Deluxe,Room Only,Website,City Tour,91.98,735.84,7,63,19,No,No
+TRV00888,2025-12-26,Cairo,Urban,Couple,2,65,3,Standard,Half Board,Mobile App,Relaxation,50.22,150.66,6,46,10,No,No
+TRV00889,2025-09-06,Cairo,Urban,Business,1,27,4,Standard,Room Only,Website,Diving,48.54,194.16,9,88,6,Yes,No
+TRV00890,2025-09-16,Cairo,Urban,Friends,2,78,3,Standard,Breakfast,Mobile App,Cultural Tour,45.37,136.11,8,48,21,No,No
+TRV00891,2025-12-03,Marsa Alam,Coastal,Business,1,112,4,Deluxe,Breakfast,Mobile App,Beach Activities,92.49,369.96,7,70,14,Yes,No
+TRV00892,2025-09-01,Aswan,Historical,Friends,4,12,2,Family Room,Half Board,Travel Agency,Cultural Tour,70.39,140.78,8,60,4,No,No
+TRV00893,2025-08-26,Alexandria,Coastal,Friends,3,84,2,Standard,Room Only,Walk-in,Museum Tour,68.24,136.48,8,67,0,No,Yes
+TRV00894,2025-01-22,Marsa Alam,Coastal,Solo,1,10,3,Standard,Breakfast,Travel Agency,Beach Activities,57.31,171.93,6,53,5,No,No
+TRV00895,2025-09-20,Dahab,Coastal,Family,4,8,1,Deluxe,Full Board,Travel Agency,Diving,88.77,88.77,8,44,10,No,No
+TRV00896,2025-12-04,Hurghada,Coastal,Solo,1,34,1,Standard,Half Board,Mobile App,Cultural Tour,86.6,86.6,9,81,24,Yes,No
+TRV00897,2025-10-27,Sharm El Sheikh,Coastal,Business,1,51,10,Standard,Breakfast,Mobile App,Relaxation,63.32,633.2,7,53,0,Yes,No
+TRV00898,2025-06-15,Marsa Alam,Coastal,Couple,2,34,1,Suite,Room Only,Walk-in,Cultural Tour,186.74,186.74,6,66,9,Yes,No
+TRV00899,2025-02-07,Cairo,Urban,Friends,2,6,4,Standard,Full Board,Walk-in,Relaxation,32.61,130.44,8,55,4,Yes,No
+TRV00900,2025-04-11,Aswan,Historical,Solo,1,21,2,Standard,Full Board,Mobile App,Relaxation,33.57,67.14,7,56,0,No,No
+TRV00901,2025-02-14,Aswan,Historical,Business,1,14,3,Standard,Half Board,Website,Beach Activities,35.99,107.97,6,37,21,No,No
+TRV00902,2025-06-24,Alexandria,Coastal,Couple,2,34,7,Deluxe,Half Board,Travel Agency,Cultural Tour,108.58,760.06,8,72,0,No,No
+TRV00903,2025-02-04,Luxor,Historical,Friends,5,9,3,Deluxe,Room Only,Travel Agency,Beach Activities,60.82,182.46,10,72,26,Yes,No
+TRV00904,2025-01-12,Sharm El Sheikh,Coastal,Couple,2,0,6,Suite,Half Board,Mobile App,Museum Tour,157.78,946.68,7,57,0,Yes,No
+TRV00905,2025-07-24,Hurghada,Coastal,Business,2,35,3,Family Room,Room Only,Website,Desert Safari,182.62,547.86,7,65,28,No,No
+TRV00906,2025-01-31,Sharm El Sheikh,Coastal,Couple,2,13,3,Standard,Half Board,Website,Museum Tour,70.75,212.25,7,41,0,No,No
+TRV00907,2025-10-10,Alexandria,Coastal,Friends,4,4,4,Standard,Half Board,Mobile App,Cultural Tour,58.47,233.88,6,40,20,No,No
+TRV00908,2025-01-11,Aswan,Historical,Family,3,42,3,Deluxe,Full Board,Website,Relaxation,75.65,226.95,6,47,32,Yes,No
+TRV00909,2025-08-09,Luxor,Historical,Friends,2,2,6,Standard,Half Board,Travel Agency,Diving,53.0,318.0,5,40,4,Yes,No
+TRV00910,2025-05-02,Cairo,Urban,Couple,2,23,9,Deluxe,Room Only,Website,City Tour,90.7,816.3,8,67,5,No,No
+TRV00911,2025-02-09,Cairo,Urban,Family,4,61,9,Standard,Breakfast,Travel Agency,Desert Safari,44.69,402.21,7,69,22,No,Yes
+TRV00912,2025-09-03,Dahab,Coastal,Family,3,1,4,Family Room,Half Board,Walk-in,Beach Activities,92.59,370.36,8,43,0,No,No
+TRV00913,2025-06-04,Marsa Alam,Coastal,Solo,1,33,1,Standard,Room Only,Website,Diving,79.16,79.16,6,52,26,No,No
+TRV00914,2025-05-24,Marsa Alam,Coastal,Family,4,5,1,Standard,Room Only,Mobile App,Diving,52.62,52.62,7,45,0,No,No
+TRV00915,2025-01-19,Luxor,Historical,Couple,2,43,1,Standard,Half Board,Website,City Tour,39.39,39.39,8,62,17,Yes,No
+TRV00916,2025-01-31,Alexandria,Coastal,Solo,1,38,1,Family Room,Room Only,Walk-in,Cultural Tour,109.91,109.91,8,62,26,Yes,No
+TRV00917,2025-09-30,Dahab,Coastal,Family,5,87,4,Family Room,Half Board,Travel Agency,Diving,98.25,393.0,6,57,44,No,No
+TRV00918,2025-06-24,Cairo,Urban,Business,1,2,5,Suite,Half Board,Walk-in,Diving,148.27,741.35,6,52,27,No,No
+TRV00919,2025-08-06,Marsa Alam,Coastal,Business,2,26,6,Deluxe,Room Only,Mobile App,Beach Activities,101.8,610.8,8,46,0,No,No
+TRV00920,2025-02-13,Hurghada,Coastal,Couple,2,58,6,Standard,Half Board,Travel Agency,Desert Safari,45.55,273.3,6,43,10,No,No
+TRV00921,2025-03-05,Cairo,Urban,Solo,1,17,6,Deluxe,Room Only,Walk-in,Museum Tour,72.42,434.52,9,52,18,No,No
+TRV00922,2025-11-23,Marsa Alam,Coastal,Business,1,1,2,Deluxe,Half Board,Travel Agency,Museum Tour,75.69,151.38,10,88,0,No,No
+TRV00923,2025-05-22,Hurghada,Coastal,Solo,1,8,2,Deluxe,Breakfast,Website,Beach Activities,90.67,181.34,10,74,0,Yes,Yes
+TRV00924,2025-10-24,Marsa Alam,Coastal,Solo,1,3,2,Family Room,Room Only,Travel Agency,Desert Safari,116.75,233.5,5,62,47,No,No
+TRV00925,2025-10-04,Sharm El Sheikh,Coastal,Family,4,44,1,Standard,Room Only,Website,Cultural Tour,74.49,74.49,7,46,0,Yes,No
+TRV00926,2025-12-15,Sharm El Sheikh,Coastal,Friends,5,10,2,Standard,Half Board,Travel Agency,Desert Safari,88.37,176.74,8,50,18,No,No
+TRV00927,2025-08-29,Sharm El Sheikh,Coastal,Solo,1,4,6,Standard,Room Only,Website,Beach Activities,68.37,410.22,7,41,0,No,No
+TRV00928,2025-04-21,Sharm El Sheikh,Coastal,Friends,3,41,6,Suite,Room Only,Website,Relaxation,177.61,1065.66,9,66,14,No,No
+TRV00929,2025-10-03,Dahab,Coastal,Family,3,30,6,Standard,Breakfast,Travel Agency,Beach Activities,46.19,277.14,5,36,14,No,No
+TRV00930,2025-04-29,Sharm El Sheikh,Coastal,Friends,2,56,2,Deluxe,Room Only,Travel Agency,Cultural Tour,121.51,243.02,8,72,33,No,No
+TRV00931,2025-12-01,Sharm El Sheikh,Coastal,Friends,5,63,4,Standard,Breakfast,Mobile App,City Tour,74.03,296.12,6,56,19,No,No
+TRV00932,2025-11-07,Luxor,Historical,Solo,1,20,1,Standard,Breakfast,Walk-in,Cultural Tour,37.59,37.59,6,22,27,No,No
+TRV00933,2025-04-03,Aswan,Historical,Friends,3,16,1,Deluxe,Room Only,Walk-in,City Tour,71.94,71.94,7,78,0,Yes,Yes
+TRV00934,2025-01-13,Dahab,Coastal,Couple,2,27,2,Family Room,Full Board,Mobile App,Desert Safari,82.39,164.78,8,57,0,No,No
+TRV00935,2025-03-02,Hurghada,Coastal,Solo,1,16,2,Standard,Full Board,Walk-in,Desert Safari,51.71,103.42,6,49,29,No,No
+TRV00936,2025-05-29,Dahab,Coastal,Friends,3,20,5,Standard,Full Board,Travel Agency,Museum Tour,44.07,220.35,7,61,0,No,No
+TRV00937,2025-02-19,Hurghada,Coastal,Couple,2,16,1,Standard,Half Board,Walk-in,Diving,60.04,60.04,9,57,31,No,No
+TRV00938,2025-03-15,Luxor,Historical,Family,4,137,1,Deluxe,Room Only,Travel Agency,Diving,53.83,53.83,9,66,17,No,Yes
+TRV00939,2025-05-21,Hurghada,Coastal,Friends,3,30,10,Standard,Breakfast,Website,Desert Safari,57.06,570.6,6,58,0,No,No
+TRV00940,2025-10-10,Aswan,Historical,Business,1,29,4,Family Room,Room Only,Mobile App,Diving,84.36,337.44,7,69,6,No,No
+TRV00941,2025-04-15,Sharm El Sheikh,Coastal,Solo,1,71,2,Suite,Room Only,Website,Desert Safari,168.61,337.22,9,83,0,No,No
+TRV00942,2025-02-14,Hurghada,Coastal,Couple,2,49,2,Suite,Room Only,Mobile App,Relaxation,142.76,285.52,6,67,0,No,No
+TRV00943,2025-08-21,Hurghada,Coastal,Business,1,32,2,Deluxe,Breakfast,Travel Agency,Relaxation,123.99,247.98,7,59,22,No,No
+TRV00944,2025-11-21,Cairo,Urban,Family,4,18,4,Family Room,Half Board,Mobile App,Beach Activities,96.11,384.44,7,55,0,No,No
+TRV00945,2025-09-12,Luxor,Historical,Solo,1,65,11,Family Room,Room Only,Mobile App,City Tour,107.17,1178.87,6,71,42,No,No
+TRV00946,2025-12-30,Aswan,Historical,Couple,2,24,6,Deluxe,Half Board,Mobile App,Relaxation,75.64,453.84,6,73,0,No,No
+TRV00947,2025-06-03,Luxor,Historical,Couple,2,28,3,Suite,Full Board,Travel Agency,Cultural Tour,173.86,521.58,6,45,32,No,No
+TRV00948,2025-08-03,Hurghada,Coastal,Friends,3,29,2,Standard,Room Only,Travel Agency,Cultural Tour,60.68,121.36,8,43,26,No,No
+TRV00949,2025-09-05,Luxor,Historical,Friends,3,24,6,Standard,Full Board,Mobile App,Diving,45.87,275.22,10,90,36,Yes,No
+TRV00950,2025-12-12,Hurghada,Coastal,Solo,1,50,6,Deluxe,Half Board,Website,Desert Safari,98.17,589.02,10,77,0,No,No
+TRV00951,2025-06-07,Cairo,Urban,Friends,3,18,8,Deluxe,Half Board,Website,City Tour,109.93,879.44,8,50,17,Yes,No
+TRV00952,2025-07-14,Cairo,Urban,Family,5,38,1,Deluxe,Half Board,Mobile App,Diving,91.61,91.61,7,69,2,No,No
+TRV00953,2025-04-28,Dahab,Coastal,Solo,1,6,10,Deluxe,Room Only,Mobile App,Diving,73.16,731.6,6,43,25,Yes,Yes
+TRV00954,2025-09-14,Alexandria,Coastal,Friends,2,6,5,Standard,Breakfast,Mobile App,Museum Tour,37.91,189.55,5,53,25,Yes,No
+TRV00955,2025-12-02,Dahab,Coastal,Friends,4,61,1,Standard,Room Only,Walk-in,Diving,58.15,58.15,8,64,7,Yes,No
+TRV00956,2025-02-18,Luxor,Historical,Business,2,48,12,Suite,Half Board,Website,Cultural Tour,117.5,1410.0,5,38,23,Yes,No
+TRV00957,2025-12-02,Hurghada,Coastal,Business,2,67,1,Deluxe,Half Board,Walk-in,Beach Activities,111.3,111.3,6,63,25,No,No
+TRV00958,2025-07-15,Aswan,Historical,Family,6,107,6,Suite,Full Board,Website,Relaxation,141.75,850.5,5,33,21,Yes,No
+TRV00959,2025-04-29,Dahab,Coastal,Friends,5,33,1,Deluxe,Room Only,Mobile App,Desert Safari,93.0,93.0,5,50,12,Yes,No
+TRV00960,2025-10-31,Marsa Alam,Coastal,Couple,2,88,2,Deluxe,Room Only,Mobile App,Cultural Tour,84.2,168.4,7,36,61,No,Yes
+TRV00961,2025-06-22,Hurghada,Coastal,Couple,2,25,5,Family Room,Full Board,Mobile App,Desert Safari,173.05,865.25,7,52,13,No,No
+TRV00962,2025-06-14,Aswan,Historical,Friends,2,21,5,Deluxe,Breakfast,Walk-in,Museum Tour,87.15,435.75,9,50,0,No,No
+TRV00963,2025-03-27,Alexandria,Coastal,Couple,2,62,1,Family Room,Full Board,Mobile App,Cultural Tour,100.89,100.89,7,64,0,Yes,No
+TRV00964,2025-07-24,Dahab,Coastal,Family,5,14,2,Family Room,Half Board,Travel Agency,Relaxation,119.37,238.74,7,63,5,No,No
+TRV00965,2025-03-14,Luxor,Historical,Solo,1,34,3,Deluxe,Breakfast,Travel Agency,Beach Activities,60.39,181.17,9,73,22,Yes,No
+TRV00966,2025-01-06,Marsa Alam,Coastal,Solo,1,43,2,Deluxe,Breakfast,Travel Agency,Museum Tour,109.36,218.72,8,65,21,Yes,Yes
+TRV00967,2025-06-19,Marsa Alam,Coastal,Family,3,30,1,Standard,Half Board,Mobile App,Relaxation,58.0,58.0,5,46,17,No,No
+TRV00968,2025-05-26,Hurghada,Coastal,Friends,4,48,5,Family Room,Room Only,Mobile App,Diving,105.93,529.65,9,47,5,No,No
+TRV00969,2025-05-24,Aswan,Historical,Couple,2,15,7,Suite,Half Board,Walk-in,Diving,114.61,802.27,6,48,47,No,No
+TRV00970,2025-11-12,Hurghada,Coastal,Friends,3,62,1,Suite,Breakfast,Website,Beach Activities,136.31,136.31,8,71,8,Yes,No
+TRV00971,2025-06-15,Cairo,Urban,Family,3,39,8,Deluxe,Half Board,Travel Agency,Cultural Tour,80.71,645.68,6,41,3,No,Yes
+TRV00972,2025-07-13,Dahab,Coastal,Friends,4,31,5,Suite,Breakfast,Website,Desert Safari,163.71,818.55,9,48,6,No,No
+TRV00973,2025-12-31,Hurghada,Coastal,Couple,2,30,4,Deluxe,Full Board,Website,Desert Safari,140.64,562.56,10,77,4,No,No
+TRV00974,2025-08-27,Sharm El Sheikh,Coastal,Solo,1,93,6,Standard,Breakfast,Website,Beach Activities,93.23,559.38,5,30,26,No,No
+TRV00975,2025-10-28,Cairo,Urban,Solo,1,33,1,Family Room,Half Board,Website,Diving,104.26,104.26,7,39,0,Yes,No
+TRV00976,2025-07-23,Marsa Alam,Coastal,Family,5,30,10,Family Room,Full Board,Website,City Tour,140.36,1403.6,8,43,0,No,No
+TRV00977,2025-03-30,Marsa Alam,Coastal,Friends,2,2,7,Standard,Breakfast,Mobile App,Relaxation,41.83,292.81,6,68,11,No,No
+TRV00978,2025-03-03,Dahab,Coastal,Family,6,36,7,Standard,Breakfast,Travel Agency,Diving,39.12,273.84,9,75,7,No,No
+TRV00979,2025-12-11,Sharm El Sheikh,Coastal,Solo,1,12,1,Family Room,Room Only,Walk-in,Cultural Tour,130.55,130.55,7,49,5,Yes,No
+TRV00980,2025-05-17,Luxor,Historical,Family,4,27,2,Standard,Breakfast,Walk-in,Beach Activities,42.05,84.1,8,55,18,No,No
+TRV00981,2025-06-09,Cairo,Urban,Solo,1,58,7,Deluxe,Full Board,Website,City Tour,115.24,806.68,8,67,19,Yes,No
+TRV00982,2025-02-14,Luxor,Historical,Couple,2,50,2,Suite,Full Board,Travel Agency,Beach Activities,111.07,222.14,10,100,1,Yes,No
+TRV00983,2025-06-07,Aswan,Historical,Couple,2,30,12,Standard,Half Board,Mobile App,Desert Safari,61.21,734.52,7,61,10,Yes,No
+TRV00984,2025-04-07,Aswan,Historical,Solo,1,14,4,Standard,Room Only,Travel Agency,Cultural Tour,48.79,195.16,7,53,24,No,No
+TRV00985,2025-11-25,Sharm El Sheikh,Coastal,Business,1,11,6,Family Room,Breakfast,Walk-in,Diving,128.81,772.86,7,72,0,No,No
+TRV00986,2025-06-27,Dahab,Coastal,Solo,1,29,12,Standard,Half Board,Mobile App,City Tour,62.68,752.16,7,56,46,Yes,No
+TRV00987,2025-09-22,Alexandria,Coastal,Couple,2,17,6,Deluxe,Room Only,Walk-in,Desert Safari,85.45,512.7,6,35,0,No,No
+TRV00988,2025-01-05,Sharm El Sheikh,Coastal,Couple,2,64,2,Standard,Half Board,Mobile App,Museum Tour,69.78,139.56,7,80,0,No,No
+TRV00989,2025-01-12,Luxor,Historical,Friends,5,11,3,Deluxe,Half Board,Travel Agency,Beach Activities,66.27,198.81,6,25,16,No,No
+TRV00990,2025-06-03,Dahab,Coastal,Family,4,81,1,Deluxe,Room Only,Walk-in,Desert Safari,87.25,87.25,7,54,12,Yes,Yes
+TRV00991,2025-11-02,Hurghada,Coastal,Business,1,20,1,Deluxe,Room Only,Website,City Tour,105.89,105.89,8,69,33,No,No
+TRV00992,2025-08-23,Sharm El Sheikh,Coastal,Friends,5,20,1,Deluxe,Half Board,Mobile App,Beach Activities,131.91,131.91,8,61,13,No,No
+TRV00993,2025-08-12,Aswan,Historical,Family,4,30,2,Standard,Room Only,Travel Agency,Beach Activities,43.67,87.34,9,61,27,No,No
+TRV00994,2025-08-30,Aswan,Historical,Friends,3,12,2,Standard,Full Board,Mobile App,Desert Safari,56.64,113.28,9,89,0,No,No
+TRV00995,2025-11-02,Dahab,Coastal,Friends,4,37,1,Deluxe,Breakfast,Website,Diving,74.47,74.47,7,64,0,No,No
+TRV00996,2025-07-08,Aswan,Historical,Solo,1,18,7,Family Room,Breakfast,Mobile App,Relaxation,106.72,747.04,6,55,38,No,Yes
+TRV00997,2025-08-11,Hurghada,Coastal,Family,5,21,1,Deluxe,Full Board,Travel Agency,Desert Safari,122.31,122.31,5,47,20,No,No
+TRV00998,2025-08-04,Hurghada,Coastal,Couple,2,40,5,Deluxe,Room Only,Travel Agency,Museum Tour,99.68,498.4,9,78,5,No,No
+TRV00999,2025-03-24,Cairo,Urban,Solo,1,41,5,Standard,Full Board,Walk-in,Relaxation,47.53,237.65,9,68,0,No,No
+TRV01000,2025-11-21,Hurghada,Coastal,Family,6,4,3,Suite,Room Only,Travel Agency,City Tour,187.87,563.61,10,90,19,No,No
+TRV01001,2025-12-12,Dahab,Coastal,Family,4,22,1,Family Room,Breakfast,Travel Agency,Relaxation,111.07,111.07,9,86,0,No,No
+TRV01002,2025-08-11,Marsa Alam,Coastal,Family,6,32,7,Standard,Half Board,Walk-in,Cultural Tour,68.04,476.28,8,55,13,Yes,No
+TRV01003,2025-05-10,Sharm El Sheikh,Coastal,Friends,4,29,9,Deluxe,Half Board,Travel Agency,Beach Activities,82.03,738.27,7,68,0,No,No
+TRV01004,2025-11-22,Hurghada,Coastal,Family,3,44,1,Deluxe,Breakfast,Mobile App,Cultural Tour,84.8,84.8,5,25,14,Yes,No
+TRV01005,2025-11-21,Luxor,Historical,Friends,4,20,3,Family Room,Full Board,Mobile App,Relaxation,75.08,225.24,8,72,0,Yes,No
+TRV01006,2025-03-17,Cairo,Urban,Business,1,152,10,Standard,Full Board,Travel Agency,Relaxation,43.03,430.3,8,55,9,No,Yes
+TRV01007,2025-12-01,Hurghada,Coastal,Family,6,68,6,Deluxe,Room Only,Mobile App,Desert Safari,103.71,622.26,7,68,0,No,No
+TRV01008,2025-05-21,Dahab,Coastal,Couple,2,11,1,Family Room,Half Board,Travel Agency,Relaxation,76.04,76.04,6,45,21,Yes,No
+TRV01009,2025-12-03,Dahab,Coastal,Couple,2,18,2,Deluxe,Room Only,Travel Agency,Relaxation,105.21,210.42,7,42,0,Yes,Yes
+TRV01010,2025-04-24,Sharm El Sheikh,Coastal,Family,5,14,12,Deluxe,Full Board,Walk-in,Desert Safari,120.16,1441.92,6,52,0,No,Yes
+TRV01011,2025-06-13,Sharm El Sheikh,Coastal,Solo,1,27,6,Family Room,Breakfast,Mobile App,Cultural Tour,197.12,1182.72,10,82,0,No,No
+TRV01012,2025-12-05,Cairo,Urban,Business,2,22,11,Standard,Half Board,Travel Agency,Relaxation,68.24,750.64,7,66,23,No,No
+TRV01013,2025-01-16,Marsa Alam,Coastal,Couple,2,36,1,Deluxe,Half Board,Website,City Tour,79.55,79.55,9,63,7,No,No
+TRV01014,2025-07-12,Aswan,Historical,Business,1,30,2,Standard,Room Only,Mobile App,Beach Activities,55.24,110.48,7,63,0,No,No
+TRV01015,2025-07-25,Luxor,Historical,Business,1,90,3,Deluxe,Half Board,Travel Agency,Diving,108.48,325.44,8,37,0,No,No
+TRV01016,2025-09-15,Sharm El Sheikh,Coastal,Business,2,15,4,Deluxe,Full Board,Travel Agency,Cultural Tour,105.81,423.24,6,59,13,Yes,No
+TRV01017,2025-05-28,Dahab,Coastal,Family,5,93,9,Deluxe,Full Board,Walk-in,Museum Tour,73.35,660.15,7,37,29,No,No
+TRV01018,2025-11-13,Cairo,Urban,Couple,2,41,4,Family Room,Breakfast,Mobile App,Desert Safari,114.08,456.32,7,53,22,No,No
+TRV01019,2025-07-09,Alexandria,Coastal,Family,6,69,7,Deluxe,Breakfast,Mobile App,Relaxation,105.02,735.14,8,51,2,No,No
+TRV01020,2025-06-15,Aswan,Historical,Couple,2,2,2,Standard,Breakfast,Walk-in,Cultural Tour,43.82,87.64,7,73,2,No,No
+TRV01021,2025-04-01,Aswan,Historical,Friends,4,30,8,Standard,Room Only,Website,Relaxation,43.09,344.72,6,71,18,No,No
+TRV01022,2025-09-24,Dahab,Coastal,Friends,2,10,1,Family Room,Room Only,Website,Relaxation,97.21,97.21,7,54,33,No,No
+TRV01023,2025-05-30,Cairo,Urban,Friends,4,58,2,Suite,Full Board,Walk-in,Diving,116.94,233.88,9,51,18,No,No
+TRV01024,2025-10-24,Hurghada,Coastal,Family,4,9,2,Deluxe,Full Board,Mobile App,Beach Activities,96.52,193.04,8,46,1,Yes,No
+TRV01025,2025-08-23,Alexandria,Coastal,Friends,4,2,2,Standard,Full Board,Travel Agency,Cultural Tour,57.84,115.68,7,64,33,No,No
+TRV01026,2025-03-13,Cairo,Urban,Couple,2,74,3,Family Room,Half Board,Travel Agency,Diving,95.32,285.96,8,69,7,No,No
+TRV01027,2025-09-01,Hurghada,Coastal,Friends,3,14,6,Standard,Half Board,Walk-in,Desert Safari,46.81,280.86,8,56,38,No,Yes
+TRV01028,2025-10-26,Aswan,Historical,Solo,1,11,1,Standard,Full Board,Walk-in,Diving,33.27,33.27,6,40,5,No,No
+TRV01029,2025-11-26,Sharm El Sheikh,Coastal,Couple,2,13,4,Family Room,Full Board,Mobile App,Cultural Tour,103.67,414.68,7,55,5,Yes,No
+TRV01030,2025-12-09,Cairo,Urban,Family,5,80,4,Standard,Room Only,Travel Agency,Beach Activities,58.43,233.72,6,53,0,No,No
+TRV01031,2025-10-19,Marsa Alam,Coastal,Family,4,19,1,Deluxe,Half Board,Website,Cultural Tour,93.04,93.04,8,70,13,No,No
+TRV01032,2025-01-29,Alexandria,Coastal,Friends,3,6,1,Suite,Breakfast,Mobile App,Beach Activities,111.61,111.61,8,54,31,No,No
+TRV01033,2025-11-08,Cairo,Urban,Solo,1,49,7,Suite,Half Board,Mobile App,Museum Tour,126.7,886.9,7,63,0,Yes,No
+TRV01034,2025-08-26,Marsa Alam,Coastal,Family,3,3,4,Standard,Room Only,Walk-in,Museum Tour,54.73,218.92,8,57,29,No,No
+TRV01035,2025-11-03,Aswan,Historical,Friends,2,107,1,Family Room,Breakfast,Walk-in,Museum Tour,83.14,83.14,4,29,0,No,No
+TRV01036,2025-01-01,Marsa Alam,Coastal,Solo,1,51,7,Deluxe,Half Board,Walk-in,Desert Safari,104.77,733.39,6,56,0,No,No
+TRV01037,2025-06-24,Aswan,Historical,Solo,1,47,6,Family Room,Room Only,Walk-in,Beach Activities,85.63,513.78,4,16,0,No,No
+TRV01038,2025-09-11,Marsa Alam,Coastal,Couple,2,14,4,Deluxe,Half Board,Walk-in,Museum Tour,92.2,368.8,6,37,0,No,No
+TRV01039,2025-04-10,Luxor,Historical,Family,4,14,5,Deluxe,Room Only,Walk-in,Desert Safari,79.9,399.5,7,49,19,No,No
+TRV01040,2025-10-20,Aswan,Historical,Couple,2,40,2,Suite,Breakfast,Mobile App,City Tour,134.82,269.64,7,73,23,No,No
+TRV01041,2025-12-01,Marsa Alam,Coastal,Business,1,7,7,Family Room,Half Board,Travel Agency,Cultural Tour,168.63,1180.41,6,60,27,Yes,No
+TRV01042,2025-06-11,Sharm El Sheikh,Coastal,Friends,5,15,5,Suite,Room Only,Walk-in,Museum Tour,251.36,1256.8,7,45,0,No,No
+TRV01043,2025-08-22,Luxor,Historical,Solo,1,8,4,Deluxe,Half Board,Travel Agency,Desert Safari,110.16,440.64,8,71,0,Yes,No
+TRV01044,2025-06-16,Dahab,Coastal,Business,2,23,2,Family Room,Breakfast,Website,Museum Tour,119.84,239.68,6,48,14,Yes,No
+TRV01045,2025-01-24,Marsa Alam,Coastal,Friends,3,7,10,Family Room,Room Only,Walk-in,Diving,126.89,1268.9,8,61,24,Yes,No
+TRV01046,2025-10-03,Hurghada,Coastal,Solo,1,21,4,Deluxe,Half Board,Website,Relaxation,96.83,387.32,8,70,60,No,No
+TRV01047,2025-03-19,Luxor,Historical,Business,1,46,4,Deluxe,Half Board,Travel Agency,Desert Safari,73.95,295.8,7,64,6,No,Yes
+TRV01048,2025-12-25,Alexandria,Coastal,Solo,1,50,11,Standard,Full Board,Mobile App,Cultural Tour,61.43,675.73,10,71,26,No,No
+TRV01049,2025-05-11,Hurghada,Coastal,Business,1,33,3,Deluxe,Full Board,Walk-in,Cultural Tour,90.37,271.11,9,82,0,No,No
+TRV01050,2025-09-20,Cairo,Urban,Solo,1,78,7,Family Room,Full Board,Travel Agency,City Tour,98.94,692.58,7,70,24,No,Yes
+TRV01051,2025-02-08,Alexandria,Coastal,Business,1,25,6,Suite,Full Board,Website,City Tour,104.85,629.1,9,76,0,No,No
+TRV01052,2025-12-17,Alexandria,Coastal,Friends,5,61,4,Family Room,Half Board,Mobile App,Relaxation,122.58,490.32,6,60,5,Yes,No
+TRV01053,2025-08-21,Sharm El Sheikh,Coastal,Business,2,32,4,Deluxe,Room Only,Walk-in,Museum Tour,128.67,514.68,7,46,14,Yes,No
+TRV01054,2025-05-13,Luxor,Historical,Couple,2,20,1,Suite,Breakfast,Travel Agency,Diving,150.67,150.67,8,57,29,Yes,No
+TRV01055,2025-04-03,Hurghada,Coastal,Family,3,14,1,Deluxe,Half Board,Travel Agency,Museum Tour,78.75,78.75,6,41,9,No,No
+TRV01056,2025-06-05,Aswan,Historical,Couple,2,90,5,Family Room,Room Only,Travel Agency,Beach Activities,103.08,515.4,9,66,17,Yes,No
+TRV01057,2025-03-05,Marsa Alam,Coastal,Friends,5,20,5,Standard,Full Board,Walk-in,Cultural Tour,54.6,273.0,8,67,3,Yes,No
+TRV01058,2025-02-17,Alexandria,Coastal,Couple,2,66,7,Standard,Half Board,Travel Agency,Cultural Tour,34.46,241.22,6,58,5,No,Yes
+TRV01059,2025-09-17,Alexandria,Coastal,Solo,1,47,4,Family Room,Full Board,Website,Museum Tour,107.02,428.08,7,55,24,No,No
+TRV01060,2025-07-01,Alexandria,Coastal,Solo,1,22,3,Family Room,Breakfast,Travel Agency,Relaxation,115.34,346.02,8,72,29,No,Yes
+TRV01061,2025-08-30,Dahab,Coastal,Family,5,17,14,Standard,Room Only,Mobile App,Beach Activities,62.14,869.96,7,62,18,Yes,No
+TRV01062,2025-01-20,Marsa Alam,Coastal,Family,4,14,1,Deluxe,Full Board,Mobile App,City Tour,92.71,92.71,8,52,0,Yes,No
+TRV01063,2025-12-09,Luxor,Historical,Couple,2,20,9,Standard,Full Board,Travel Agency,Beach Activities,60.95,548.55,6,57,0,No,No
+TRV01064,2025-11-15,Hurghada,Coastal,Solo,1,99,9,Standard,Breakfast,Website,Cultural Tour,57.45,517.05,10,84,21,No,Yes
+TRV01065,2025-11-03,Dahab,Coastal,Business,1,8,2,Standard,Full Board,Website,Beach Activities,52.81,105.62,7,62,14,No,No
+TRV01066,2025-08-26,Marsa Alam,Coastal,Friends,3,5,7,Standard,Breakfast,Travel Agency,Cultural Tour,80.44,563.08,5,38,23,No,No
+TRV01067,2025-09-02,Alexandria,Coastal,Friends,3,72,8,Deluxe,Breakfast,Mobile App,City Tour,93.39,747.12,7,50,0,No,No
+TRV01068,2025-05-25,Dahab,Coastal,Business,1,10,1,Standard,Half Board,Travel Agency,Relaxation,45.65,45.65,9,77,24,No,No
+TRV01069,2025-03-09,Hurghada,Coastal,Solo,1,25,4,Deluxe,Full Board,Website,City Tour,68.03,272.12,8,59,7,No,No
+TRV01070,2025-01-08,Luxor,Historical,Couple,2,42,2,Standard,Full Board,Walk-in,Museum Tour,46.78,93.56,8,73,25,No,No
+TRV01071,2025-08-20,Dahab,Coastal,Couple,2,13,2,Standard,Half Board,Travel Agency,Desert Safari,48.56,97.12,8,46,17,No,No
+TRV01072,2025-09-07,Sharm El Sheikh,Coastal,Business,2,73,5,Suite,Half Board,Website,Desert Safari,200.2,1001.0,9,80,10,No,Yes
+TRV01073,2025-02-18,Luxor,Historical,Couple,2,79,1,Deluxe,Half Board,Mobile App,Desert Safari,60.44,60.44,7,61,0,No,No
+TRV01074,2025-09-16,Alexandria,Coastal,Couple,2,13,4,Suite,Breakfast,Website,Beach Activities,140.13,560.52,8,54,32,No,No
+TRV01075,2025-10-16,Luxor,Historical,Business,1,73,2,Deluxe,Half Board,Mobile App,Diving,72.94,145.88,10,75,13,Yes,No
+TRV01076,2025-03-19,Aswan,Historical,Business,2,86,2,Standard,Full Board,Travel Agency,Cultural Tour,32.79,65.58,7,60,0,No,No
+TRV01077,2025-08-28,Marsa Alam,Coastal,Solo,1,84,4,Standard,Breakfast,Travel Agency,Relaxation,59.11,236.44,8,68,13,No,No
+TRV01078,2025-01-31,Alexandria,Coastal,Friends,3,50,1,Suite,Full Board,Mobile App,City Tour,128.83,128.83,7,45,0,No,No
+TRV01079,2025-10-30,Dahab,Coastal,Couple,2,35,3,Standard,Full Board,Mobile App,Desert Safari,51.27,153.81,6,55,17,Yes,No
+TRV01080,2025-04-16,Luxor,Historical,Friends,4,29,8,Standard,Room Only,Travel Agency,Museum Tour,53.31,426.48,8,57,0,No,No
+TRV01081,2025-12-05,Aswan,Historical,Friends,2,38,3,Standard,Half Board,Travel Agency,City Tour,53.11,159.33,6,42,11,No,Yes
+TRV01082,2025-02-27,Hurghada,Coastal,Friends,3,49,3,Suite,Room Only,Website,Beach Activities,168.59,505.77,9,83,13,No,No
+TRV01083,2025-05-04,Sharm El Sheikh,Coastal,Friends,5,27,3,Deluxe,Half Board,Travel Agency,City Tour,100.0,300.0,7,47,0,No,No
+TRV01084,2025-08-03,Sharm El Sheikh,Coastal,Solo,1,58,13,Standard,Breakfast,Walk-in,City Tour,92.03,1196.39,7,56,0,No,No
+TRV01085,2025-12-07,Dahab,Coastal,Solo,1,10,1,Deluxe,Room Only,Walk-in,City Tour,85.23,85.23,8,82,4,No,No
+TRV01086,2025-10-22,Alexandria,Coastal,Family,3,52,9,Deluxe,Full Board,Walk-in,Relaxation,76.75,690.75,10,94,0,No,Yes
+TRV01087,2025-08-24,Marsa Alam,Coastal,Business,2,25,3,Deluxe,Breakfast,Mobile App,Museum Tour,105.25,315.75,7,65,29,Yes,No
+TRV01088,2025-05-30,Alexandria,Coastal,Friends,5,16,2,Standard,Half Board,Travel Agency,Relaxation,44.29,88.58,6,55,3,No,No
+TRV01089,2025-01-25,Marsa Alam,Coastal,Solo,1,31,2,Standard,Full Board,Travel Agency,City Tour,51.25,102.5,7,44,15,No,No
+TRV01090,2025-09-13,Luxor,Historical,Family,5,33,4,Standard,Room Only,Website,Desert Safari,44.62,178.48,8,86,0,No,No
+TRV01091,2025-11-24,Marsa Alam,Coastal,Couple,2,17,4,Family Room,Half Board,Travel Agency,Cultural Tour,108.16,432.64,6,62,10,No,No
+TRV01092,2025-03-28,Luxor,Historical,Solo,1,72,4,Deluxe,Breakfast,Travel Agency,Diving,75.29,301.16,8,62,0,No,No
+TRV01093,2025-02-17,Aswan,Historical,Family,6,41,1,Suite,Full Board,Travel Agency,Diving,85.18,85.18,7,66,0,Yes,No
+TRV01094,2025-11-11,Hurghada,Coastal,Business,1,20,3,Deluxe,Breakfast,Mobile App,Museum Tour,99.8,299.4,9,75,12,No,No
+TRV01095,2025-04-25,Marsa Alam,Coastal,Couple,2,41,2,Deluxe,Room Only,Mobile App,Beach Activities,73.7,147.4,8,56,0,No,No
+TRV01096,2025-08-13,Marsa Alam,Coastal,Friends,5,4,2,Suite,Full Board,Walk-in,Diving,241.93,483.86,10,75,5,No,No
+TRV01097,2025-05-15,Sharm El Sheikh,Coastal,Friends,4,9,7,Standard,Breakfast,Website,Desert Safari,51.58,361.06,7,59,0,No,No
+TRV01098,2025-10-03,Aswan,Historical,Business,2,24,1,Deluxe,Half Board,Mobile App,Museum Tour,74.57,74.57,8,64,19,No,No
+TRV01099,2025-08-27,Aswan,Historical,Solo,1,55,2,Deluxe,Breakfast,Website,Cultural Tour,102.1,204.2,7,62,15,Yes,No
+TRV01100,2025-06-27,Cairo,Urban,Friends,2,24,4,Standard,Half Board,Travel Agency,Relaxation,52.12,208.48,8,86,17,No,No
+TRV01101,2025-08-09,Marsa Alam,Coastal,Couple,2,27,1,Standard,Half Board,Travel Agency,Relaxation,70.79,70.79,7,55,0,Yes,No
+TRV01102,2025-03-15,Dahab,Coastal,Business,1,47,1,Suite,Room Only,Website,Desert Safari,130.14,130.14,10,73,20,No,No
+TRV01103,2025-04-10,Luxor,Historical,Couple,2,6,2,Deluxe,Half Board,Website,Cultural Tour,61.06,122.12,6,55,15,Yes,No
+TRV01104,2025-07-28,Dahab,Coastal,Friends,3,52,4,Standard,Breakfast,Travel Agency,Desert Safari,57.34,229.36,7,65,43,No,No
+TRV01105,2025-02-16,Marsa Alam,Coastal,Couple,2,27,2,Standard,Half Board,Website,Relaxation,41.08,82.16,9,86,17,No,No
+TRV01106,2025-01-11,Hurghada,Coastal,Business,2,84,2,Standard,Room Only,Website,Museum Tour,67.89,135.78,10,84,0,No,No
+TRV01107,2025-02-05,Sharm El Sheikh,Coastal,Couple,2,33,3,Deluxe,Breakfast,Website,Desert Safari,106.28,318.84,9,60,23,No,No
+TRV01108,2025-12-28,Marsa Alam,Coastal,Couple,2,28,6,Deluxe,Half Board,Website,Diving,139.39,836.34,8,76,13,No,No
+TRV01109,2025-10-30,Luxor,Historical,Business,2,108,5,Standard,Full Board,Travel Agency,Beach Activities,43.92,219.6,8,48,51,No,No
+TRV01110,2025-08-18,Dahab,Coastal,Family,3,21,3,Standard,Breakfast,Walk-in,Beach Activities,48.88,146.64,7,37,23,No,Yes
+TRV01111,2025-09-03,Cairo,Urban,Business,2,38,1,Family Room,Breakfast,Walk-in,Diving,86.15,86.15,8,70,9,No,No
+TRV01112,2025-05-30,Aswan,Historical,Friends,5,79,6,Standard,Room Only,Walk-in,Museum Tour,40.57,243.42,4,44,0,No,No
+TRV01113,2025-06-06,Dahab,Coastal,Friends,2,41,5,Standard,Breakfast,Travel Agency,Museum Tour,47.62,238.1,7,59,16,No,No
+TRV01114,2025-01-25,Cairo,Urban,Solo,1,24,2,Family Room,Breakfast,Walk-in,Museum Tour,97.41,194.82,9,65,0,No,No
+TRV01115,2025-04-20,Cairo,Urban,Family,6,52,7,Suite,Full Board,Mobile App,Museum Tour,119.6,837.2,6,45,39,Yes,No
+TRV01116,2025-01-24,Cairo,Urban,Friends,2,73,3,Standard,Breakfast,Travel Agency,Beach Activities,36.41,109.23,9,77,73,No,No
+TRV01117,2025-07-25,Sharm El Sheikh,Coastal,Family,4,21,3,Deluxe,Half Board,Walk-in,Desert Safari,121.78,365.34,6,65,14,Yes,No
+TRV01118,2025-07-29,Hurghada,Coastal,Family,6,35,7,Standard,Half Board,Walk-in,Beach Activities,78.84,551.88,5,40,2,No,No
+TRV01119,2025-01-22,Dahab,Coastal,Friends,3,53,2,Deluxe,Full Board,Mobile App,Museum Tour,68.26,136.52,6,61,0,Yes,No
+TRV01120,2025-05-12,Luxor,Historical,Friends,4,21,2,Family Room,Room Only,Website,Desert Safari,93.67,187.34,5,52,25,No,No
+TRV01121,2025-02-14,Aswan,Historical,Business,1,52,2,Deluxe,Full Board,Walk-in,Museum Tour,56.08,112.16,3,12,14,Yes,No
+TRV01122,2025-04-05,Dahab,Coastal,Family,3,3,2,Deluxe,Full Board,Mobile App,Cultural Tour,80.93,161.86,10,84,17,No,Yes
+TRV01123,2025-04-18,Aswan,Historical,Solo,1,25,11,Standard,Half Board,Mobile App,Desert Safari,46.33,509.63,9,74,0,No,No
+TRV01124,2025-07-20,Cairo,Urban,Friends,4,52,6,Standard,Half Board,Mobile App,Relaxation,60.11,360.66,5,42,0,No,No
+TRV01125,2025-02-05,Marsa Alam,Coastal,Couple,2,35,1,Deluxe,Room Only,Website,Desert Safari,92.77,92.77,6,58,8,No,No
+TRV01126,2025-11-13,Cairo,Urban,Couple,2,19,1,Standard,Room Only,Mobile App,Museum Tour,47.66,47.66,10,68,21,No,No
+TRV01127,2025-10-18,Dahab,Coastal,Family,4,26,3,Standard,Full Board,Walk-in,City Tour,50.28,150.84,7,70,8,No,No
+TRV01128,2025-05-02,Marsa Alam,Coastal,Friends,4,49,4,Deluxe,Half Board,Walk-in,Beach Activities,84.02,336.08,9,68,7,Yes,No
+TRV01129,2025-07-18,Luxor,Historical,Solo,1,138,8,Deluxe,Room Only,Mobile App,Desert Safari,84.14,673.12,6,52,5,No,No
+TRV01130,2025-07-25,Aswan,Historical,Couple,2,70,5,Deluxe,Full Board,Walk-in,Cultural Tour,100.14,500.7,8,55,44,No,No
+TRV01131,2025-06-22,Sharm El Sheikh,Coastal,Solo,1,18,4,Standard,Breakfast,Mobile App,Relaxation,91.89,367.56,7,51,0,No,No
+TRV01132,2025-08-26,Sharm El Sheikh,Coastal,Business,2,38,6,Standard,Room Only,Walk-in,Beach Activities,79.09,474.54,7,42,19,No,No
+TRV01133,2025-01-27,Dahab,Coastal,Couple,2,25,1,Deluxe,Breakfast,Walk-in,Diving,69.81,69.81,7,59,26,No,Yes
+TRV01134,2025-07-17,Aswan,Historical,Business,1,37,4,Deluxe,Breakfast,Mobile App,Diving,75.41,301.64,10,70,33,No,No
+TRV01135,2025-09-07,Luxor,Historical,Solo,1,40,6,Standard,Half Board,Website,Museum Tour,48.73,292.38,7,67,0,No,No
+TRV01136,2025-04-14,Sharm El Sheikh,Coastal,Couple,2,34,6,Standard,Full Board,Walk-in,Desert Safari,54.46,326.76,8,68,15,No,No
+TRV01137,2025-02-21,Hurghada,Coastal,Business,1,47,4,Deluxe,Breakfast,Walk-in,Diving,87.96,351.84,7,36,48,No,No
+TRV01138,2025-12-20,Hurghada,Coastal,Couple,2,29,2,Standard,Full Board,Mobile App,Museum Tour,74.88,149.76,9,64,0,No,No
+TRV01139,2025-10-28,Cairo,Urban,Solo,1,37,2,Family Room,Half Board,Travel Agency,Cultural Tour,88.2,176.4,9,72,23,No,No
+TRV01140,2025-04-01,Alexandria,Coastal,Couple,2,13,6,Standard,Half Board,Mobile App,City Tour,47.49,284.94,9,75,0,No,No
+TRV01141,2025-07-01,Alexandria,Coastal,Business,2,29,3,Family Room,Breakfast,Travel Agency,Desert Safari,120.55,361.65,8,48,7,No,No
+TRV01142,2025-09-08,Cairo,Urban,Solo,1,14,4,Suite,Full Board,Walk-in,Desert Safari,142.74,570.96,8,67,0,No,No
+TRV01143,2025-12-04,Marsa Alam,Coastal,Family,5,13,3,Family Room,Room Only,Website,Diving,129.54,388.62,7,65,0,No,No
+TRV01144,2025-07-14,Marsa Alam,Coastal,Friends,4,30,7,Standard,Full Board,Walk-in,City Tour,65.31,457.17,6,31,8,No,No
+TRV01145,2025-05-14,Sharm El Sheikh,Coastal,Business,2,46,8,Standard,Half Board,Website,Cultural Tour,54.34,434.72,10,98,10,No,No
+TRV01146,2025-03-07,Cairo,Urban,Family,4,18,2,Standard,Room Only,Mobile App,Beach Activities,36.57,73.14,4,44,37,No,Yes
+TRV01147,2025-06-24,Cairo,Urban,Business,2,23,4,Deluxe,Room Only,Website,Desert Safari,100.57,402.28,7,65,47,Yes,No
+TRV01148,2025-04-06,Alexandria,Coastal,Family,3,12,4,Suite,Room Only,Mobile App,Beach Activities,130.03,520.12,7,76,12,No,No
+TRV01149,2025-09-01,Aswan,Historical,Couple,2,44,2,Standard,Full Board,Website,Relaxation,38.84,77.68,9,67,57,Yes,Yes
+TRV01150,2025-04-12,Luxor,Historical,Solo,1,24,11,Suite,Breakfast,Mobile App,Museum Tour,110.69,1217.59,9,82,23,No,No
+TRV01151,2025-03-25,Aswan,Historical,Friends,5,21,3,Standard,Breakfast,Travel Agency,Desert Safari,29.3,87.9,8,79,0,No,No
+TRV01152,2025-05-25,Hurghada,Coastal,Couple,2,64,2,Deluxe,Full Board,Website,Relaxation,82.31,164.62,6,63,0,Yes,No
+TRV01153,2025-01-07,Marsa Alam,Coastal,Family,5,60,2,Deluxe,Full Board,Travel Agency,Relaxation,110.16,220.32,7,39,0,No,No
+TRV01154,2025-09-13,Sharm El Sheikh,Coastal,Solo,1,74,5,Standard,Half Board,Website,Beach Activities,51.83,259.15,8,75,27,No,No
+TRV01155,2025-07-26,Sharm El Sheikh,Coastal,Friends,5,23,4,Standard,Full Board,Walk-in,City Tour,62.64,250.56,5,63,13,No,No
+TRV01156,2025-07-15,Sharm El Sheikh,Coastal,Couple,2,66,3,Deluxe,Breakfast,Mobile App,City Tour,121.95,365.85,8,65,0,No,Yes
+TRV01157,2025-01-09,Alexandria,Coastal,Friends,3,22,5,Standard,Full Board,Walk-in,Museum Tour,47.82,239.1,10,89,4,Yes,No
+TRV01158,2025-04-27,Hurghada,Coastal,Couple,2,35,6,Deluxe,Full Board,Mobile App,City Tour,96.13,576.78,10,72,0,No,Yes
+TRV01159,2025-02-04,Alexandria,Coastal,Solo,1,16,6,Standard,Full Board,Mobile App,Cultural Tour,45.62,273.72,8,69,9,No,No
+TRV01160,2025-06-23,Luxor,Historical,Solo,1,12,3,Deluxe,Breakfast,Travel Agency,Desert Safari,72.8,218.4,8,57,41,No,No
+TRV01161,2025-01-10,Alexandria,Coastal,Friends,5,5,3,Standard,Half Board,Mobile App,Desert Safari,44.27,132.81,8,38,45,No,No
+TRV01162,2025-05-24,Marsa Alam,Coastal,Business,1,25,2,Family Room,Breakfast,Mobile App,Desert Safari,117.55,235.1,7,66,14,No,No
+TRV01163,2025-01-10,Marsa Alam,Coastal,Solo,1,20,2,Deluxe,Full Board,Walk-in,Museum Tour,78.19,156.38,9,63,5,No,No
+TRV01164,2025-02-04,Hurghada,Coastal,Friends,3,40,14,Suite,Full Board,Website,Desert Safari,157.06,2198.84,6,62,0,Yes,No
+TRV01165,2025-07-02,Sharm El Sheikh,Coastal,Business,2,35,3,Family Room,Breakfast,Travel Agency,Cultural Tour,133.79,401.37,7,44,11,No,No
+TRV01166,2025-06-01,Alexandria,Coastal,Family,4,50,1,Suite,Half Board,Website,Cultural Tour,161.44,161.44,8,84,3,Yes,No
+TRV01167,2025-01-15,Cairo,Urban,Friends,4,22,1,Suite,Full Board,Walk-in,Beach Activities,149.35,149.35,9,69,0,No,No
+TRV01168,2025-02-25,Sharm El Sheikh,Coastal,Solo,1,65,9,Suite,Breakfast,Travel Agency,Cultural Tour,150.49,1354.41,7,47,14,No,Yes
+TRV01169,2025-03-05,Cairo,Urban,Family,5,85,6,Standard,Room Only,Walk-in,City Tour,47.95,287.7,6,24,16,No,No
+TRV01170,2025-04-02,Dahab,Coastal,Solo,1,36,3,Deluxe,Room Only,Website,Diving,66.57,199.71,6,46,22,No,No
+TRV01171,2025-02-02,Marsa Alam,Coastal,Family,4,10,6,Deluxe,Room Only,Mobile App,Relaxation,98.97,593.82,7,77,42,No,No
+TRV01172,2025-02-11,Sharm El Sheikh,Coastal,Friends,2,23,5,Deluxe,Full Board,Walk-in,Museum Tour,81.67,408.35,9,82,18,No,No
+TRV01173,2025-04-17,Alexandria,Coastal,Friends,2,83,7,Standard,Room Only,Website,Museum Tour,56.31,394.17,8,51,8,No,No
+TRV01174,2025-01-22,Marsa Alam,Coastal,Family,4,10,6,Family Room,Half Board,Travel Agency,Beach Activities,107.35,644.1,8,68,27,No,No
+TRV01175,2025-01-10,Dahab,Coastal,Business,1,74,1,Deluxe,Room Only,Walk-in,Relaxation,92.41,92.41,8,67,5,Yes,No
+TRV01176,2025-04-28,Aswan,Historical,Business,2,44,5,Suite,Breakfast,Travel Agency,Diving,95.81,479.05,7,67,11,No,Yes
+TRV01177,2025-11-18,Cairo,Urban,Business,2,7,14,Deluxe,Half Board,Mobile App,Beach Activities,88.05,1232.7,9,74,23,No,No
+TRV01178,2025-07-21,Hurghada,Coastal,Family,5,91,5,Deluxe,Breakfast,Walk-in,Relaxation,131.32,656.6,8,54,37,Yes,Yes
+TRV01179,2025-04-16,Alexandria,Coastal,Couple,2,20,3,Standard,Half Board,Mobile App,Museum Tour,38.29,114.87,8,77,0,Yes,Yes
+TRV01180,2025-04-21,Cairo,Urban,Couple,2,43,1,Family Room,Full Board,Travel Agency,Cultural Tour,79.8,79.8,6,52,16,No,No
+TRV01181,2025-09-09,Luxor,Historical,Friends,3,22,3,Deluxe,Room Only,Website,Museum Tour,65.58,196.74,7,55,25,No,No
+TRV01182,2025-06-05,Cairo,Urban,Friends,3,6,3,Standard,Full Board,Mobile App,Beach Activities,65.74,197.22,7,38,38,No,No
+TRV01183,2025-08-02,Hurghada,Coastal,Family,5,81,2,Standard,Breakfast,Walk-in,Desert Safari,70.5,141.0,8,60,14,Yes,No
+TRV01184,2025-09-01,Cairo,Urban,Couple,2,55,1,Suite,Half Board,Travel Agency,Cultural Tour,161.88,161.88,8,59,23,Yes,No
+TRV01185,2025-12-21,Alexandria,Coastal,Couple,2,70,2,Deluxe,Full Board,Website,Museum Tour,113.72,227.44,5,55,17,No,No
+TRV01186,2025-01-07,Luxor,Historical,Business,2,28,8,Suite,Breakfast,Walk-in,Relaxation,147.52,1180.16,7,65,12,No,Yes
+TRV01187,2025-04-07,Hurghada,Coastal,Couple,2,83,2,Family Room,Full Board,Walk-in,City Tour,114.83,229.66,9,59,21,No,No
+TRV01188,2025-05-27,Cairo,Urban,Solo,1,58,2,Suite,Half Board,Mobile App,Diving,136.95,273.9,7,60,0,No,No
+TRV01189,2025-06-14,Luxor,Historical,Solo,1,48,5,Standard,Breakfast,Travel Agency,Desert Safari,58.88,294.4,6,43,0,No,No
+TRV01190,2025-12-12,Marsa Alam,Coastal,Business,2,24,3,Standard,Half Board,Mobile App,Desert Safari,79.27,237.81,8,70,9,No,No
+TRV01191,2025-10-04,Marsa Alam,Coastal,Couple,2,14,1,Deluxe,Breakfast,Mobile App,Diving,102.85,102.85,6,24,19,No,No
+TRV01192,2025-02-11,Dahab,Coastal,Friends,2,29,1,Deluxe,Breakfast,Mobile App,Desert Safari,82.66,82.66,8,90,14,No,No
+TRV01193,2025-03-01,Marsa Alam,Coastal,Solo,1,24,7,Standard,Room Only,Walk-in,Desert Safari,58.68,410.76,8,80,18,Yes,No
+TRV01194,2025-12-22,Luxor,Historical,Couple,2,17,4,Standard,Breakfast,Travel Agency,Museum Tour,57.36,229.44,7,45,3,No,No
+TRV01195,2025-10-05,Aswan,Historical,Family,4,20,4,Standard,Breakfast,Mobile App,Museum Tour,49.55,198.2,9,56,2,No,No
+TRV01196,2025-05-10,Alexandria,Coastal,Friends,5,45,9,Deluxe,Half Board,Travel Agency,Museum Tour,90.52,814.68,6,60,6,No,No
+TRV01197,2025-11-14,Dahab,Coastal,Business,2,19,8,Family Room,Half Board,Travel Agency,Cultural Tour,104.55,836.4,9,48,0,Yes,No
+TRV01198,2025-10-03,Dahab,Coastal,Family,6,17,3,Family Room,Full Board,Website,Cultural Tour,93.68,281.04,10,97,0,No,No
+TRV01199,2025-10-06,Hurghada,Coastal,Family,3,36,3,Deluxe,Breakfast,Travel Agency,Relaxation,96.52,289.56,6,49,31,No,No
+TRV01200,2025-06-08,Sharm El Sheikh,Coastal,Business,2,23,1,Standard,Room Only,Mobile App,Relaxation,66.59,66.59,6,46,6,No,No

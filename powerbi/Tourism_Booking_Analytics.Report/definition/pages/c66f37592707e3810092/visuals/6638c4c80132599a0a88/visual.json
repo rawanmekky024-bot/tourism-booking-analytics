@@ -1,0 +1,74 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "6638c4c80132599a0a88",
+  "position": {
+    "x": 348.29268292682929,
+    "y": 48.780487804878049,
+    "z": 15000,
+    "height": 128.78048780487805,
+    "width": 260.48780487804879,
+    "tabOrder": 14000
+  },
+  "visual": {
+    "visualType": "cardVisual",
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bookings"
+                    }
+                  },
+                  "Property": "Bookings Above Min Satisfaction"
+                }
+              },
+              "queryRef": "Bookings.Bookings Above Min Satisfaction",
+              "nativeQueryRef": "Bookings Above Min Satisfaction"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Bookings"
+                  }
+                },
+                "Property": "Bookings Above Min Satisfaction"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "428c2f0cf99952064542",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Bookings"
+              }
+            },
+            "Property": "Bookings Above Min Satisfaction"
+          }
+        },
+        "type": "Advanced"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/3.3.0/schema.json",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "Fluent2-CY26SU10",
+      "reportVersionAtImport": {
+        "visual": "2.14.0",
+        "report": "3.4.0",
+        "page": "2.3.1"
+      },
+      "type": "SharedResources"
+    },
+    "customTheme": {
+      "name": "Sahara Suites Royal.json",
+      "reportVersionAtImport": {
+        "visual": "2.14.0",
+        "report": "3.4.0",
+        "page": "2.3.1"
+      },
+      "type": "RegisteredResources"
+    }
+  },
+  "objects": {
+    "section": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Top'"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "outspacePane": [
+      {
+        "properties": {
+          "expanded": {
+            "expr": {
+              "Literal": {
+                "Value": "false"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "resourcePackages": [
+    {
+      "name": "SharedResources",
+      "type": "SharedResources",
+      "items": [
+        {
+          "name": "Fluent2-CY26SU10",
+          "path": "BaseThemes/Fluent2-CY26SU10.json",
+          "type": "BaseTheme"
+        }
+      ]
+    },
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "3b7fed3c-9f24-4bc9-84da-6ac2748332129951862518.png",
+          "path": "3b7fed3c-9f24-4bc9-84da-6ac2748332129951862518.png",
+          "type": "Image"
+        },
+        {
+          "name": "6EueN3Jw3Eehb0bmMWNQ6ZDo6ZCcPW3079869025935371.jpg",
+          "path": "6EueN3Jw3Eehb0bmMWNQ6ZDo6ZCcPW3079869025935371.jpg",
+          "type": "Image"
+        },
+        {
+          "name": "Sahara Suites Royal.json",
+          "path": "Sahara Suites Royal.json",
+          "type": "CustomTheme"
+        },
+        {
+          "name": "sahara_bg_destinations.jpg",
+          "path": "sahara_bg_destinations.jpg",
+          "type": "Image"
+        },
+        {
+          "name": "sahara_bg_guest_ops.jpg",
+          "path": "sahara_bg_guest_ops.jpg",
+          "type": "Image"
+        },
+        {
+          "name": "sahara_bg_overview.jpg",
+          "path": "sahara_bg_overview.jpg",
+          "type": "Image"
+        },
+        {
+          "name": "sahara_cover.png",
+          "path": "sahara_cover.png",
+          "type": "Image"
+        },
+        {
+          "name": "Screenshot_2026-10-25_2246319121958041699765.png",
+          "path": "Screenshot_2026-10-25_2246319121958041699765.png",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "useStylableVisualContainerHeader": true,
+    "exportDataMode": "AllowSummarized",
+    "defaultDrillFilterOtherVisuals": true,
+    "allowChangeFilterTypes": true,
+    "useEnhancedTooltips": true,
+    "useDefaultAggregateDisplayName": true
+  }
+}

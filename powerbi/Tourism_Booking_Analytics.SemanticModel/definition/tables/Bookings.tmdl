@@ -1,0 +1,361 @@
+table Bookings
+	lineageTag: 972ab99a-dc98-4ee6-8a64-167563321e8a
+
+	measure 'Total Bookings' = ```
+			
+			DISTINCTCOUNT(Bookings[Booking_ID])
+			
+			```
+		formatString: 0
+		lineageTag: 79285b47-de52-4963-8386-c2444c74bf7c
+
+	measure 'Cancelled Bookings' = ```
+			
+			CALCULATE([Total Bookings], Bookings[Booking_Cancelled] = "Yes")
+			
+			```
+		formatString: 0
+		lineageTag: 82d2b694-f726-4eca-b9e1-f86490ebe69c
+
+	measure 'Cancellation Rate' = ```
+			
+			DIVIDE([Cancelled Bookings], [Total Bookings], 0)
+			
+			```
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 4101b539-1ea3-4306-9d9f-2bf395f3aa22
+
+	measure 'Average Satisfaction' = AVERAGE(Bookings[Guest_Satisfaction_Score])
+		formatString: 0.00
+		lineageTag: b62cb23b-da4f-4e56-8d13-ea515e6cd8a0
+
+	measure 'Average Stay Cost' = AVERAGE(Bookings[Estimated_Stay_Cost_USD])
+		formatString: #,0.00
+		lineageTag: 47f9c4a7-d6e1-4110-9c56-d660a7087219
+
+	measure 'Estimated Completed-Stay Revenue' =
+			
+			SUM(Bookings[Estimated Revenue from Completed Stays])
+		lineageTag: 413071ee-d790-4eef-b6fe-a6217adcf34b
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Average Check-in Delay' = AVERAGE(Bookings[Check_in_Delay_Minutes])
+		lineageTag: d34fc410-fbc7-4713-a36f-c1c61d65e7cb
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Repeat Visitor Rate' =
+			
+			DIVIDE(
+			    CALCULATE([Total Bookings], Bookings[Repeat_Visitor] = "Yes"),
+			    CALCULATE([Total Bookings], Bookings[Repeat_Visitor] IN {"Yes", "No"}),
+			    0
+			)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: 61b34715-0916-4595-9923-d93d8557cae3
+
+	measure 'Bookings Above Min Satisfaction' =
+			
+			VAR MinScore = [Minimum Satisfaction Value]
+			RETURN
+			    CALCULATE(
+			        [Total Bookings],
+			        FILTER(Bookings, Bookings[Guest_Satisfaction_Score] >= MinScore)
+			    )
+		formatString: 0
+		lineageTag: cd59ecfe-4aa4-4c50-bd80-ab447181327d
+
+	column Booking_ID
+		dataType: string
+		lineageTag: bd40082f-3ddc-41ee-ba25-7befb45e1eaf
+		summarizeBy: none
+		sourceColumn: Booking_ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column Check_in_Date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 30edde0c-2538-4b31-94c2-2fba00eb5095
+		summarizeBy: none
+		sourceColumn: Check_in_Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column City
+		dataType: string
+		lineageTag: 8c28be44-1073-4591-9dc1-c7aea8a70f1d
+		summarizeBy: none
+		sourceColumn: City
+
+		annotation SummarizationSetBy = Automatic
+
+	column Region_Type
+		dataType: string
+		lineageTag: ca5919cb-ef47-4563-b8ee-abadc943d9ec
+		summarizeBy: none
+		sourceColumn: Region_Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column Travel_Group
+		dataType: string
+		lineageTag: 7f0373f8-9b62-43ba-a669-52be03938261
+		summarizeBy: none
+		sourceColumn: Travel_Group
+
+		annotation SummarizationSetBy = Automatic
+
+	column Group_Size
+		dataType: int64
+		formatString: 0
+		lineageTag: 30240239-25e9-4098-abcf-f89984044cfb
+		summarizeBy: sum
+		sourceColumn: Group_Size
+
+		annotation SummarizationSetBy = Automatic
+
+	column Lead_Time_Days
+		dataType: int64
+		formatString: 0
+		lineageTag: 63ecbc53-536a-45b8-abb5-bb08bf25b43b
+		summarizeBy: sum
+		sourceColumn: Lead_Time_Days
+
+		annotation SummarizationSetBy = Automatic
+
+	column Stay_Nights
+		dataType: int64
+		formatString: 0
+		lineageTag: 1bc3a3ac-8a2e-44b7-8b6b-949ce0f979db
+		summarizeBy: sum
+		sourceColumn: Stay_Nights
+
+		annotation SummarizationSetBy = Automatic
+
+	column Room_Type
+		dataType: string
+		lineageTag: 21fee22c-e032-4563-933f-dfc0f460351c
+		summarizeBy: none
+		sourceColumn: Room_Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column Meal_Plan
+		dataType: string
+		lineageTag: b01c685a-62ef-4b78-8abc-92dfd1ed14a9
+		summarizeBy: none
+		sourceColumn: Meal_Plan
+
+		annotation SummarizationSetBy = Automatic
+
+	column Booking_Channel
+		dataType: string
+		lineageTag: 8d5a5357-fd56-4c5a-85ba-044b681baff9
+		summarizeBy: none
+		sourceColumn: Booking_Channel
+
+		annotation SummarizationSetBy = Automatic
+
+	column Main_Activity
+		dataType: string
+		lineageTag: 2cd2b8b7-5cde-4938-a5c1-5e119a98cf8a
+		summarizeBy: none
+		sourceColumn: Main_Activity
+
+		annotation SummarizationSetBy = Automatic
+
+	column Nightly_Rate_USD
+		dataType: double
+		lineageTag: e7c0958a-30c2-4990-804a-d8d43faaf818
+		summarizeBy: sum
+		sourceColumn: Nightly_Rate_USD
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Estimated_Stay_Cost_USD
+		dataType: double
+		lineageTag: ae0f0b42-57ac-4aae-84b2-6bfca5a34c9f
+		summarizeBy: sum
+		sourceColumn: Estimated_Stay_Cost_USD
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Guest_Satisfaction_Score
+		dataType: int64
+		formatString: 0
+		lineageTag: 930bec9a-26c7-486a-bf89-76bec542706a
+		summarizeBy: sum
+		sourceColumn: Guest_Satisfaction_Score
+
+		annotation SummarizationSetBy = Automatic
+
+	column Review_Score
+		dataType: int64
+		formatString: 0
+		lineageTag: f98d4771-4732-420d-b818-1515569e38b6
+		summarizeBy: sum
+		sourceColumn: Review_Score
+
+		annotation SummarizationSetBy = Automatic
+
+	column Check_in_Delay_Minutes
+		dataType: int64
+		formatString: 0
+		lineageTag: 0ac23759-bb1d-4b2a-bf16-d7684817af27
+		summarizeBy: sum
+		sourceColumn: Check_in_Delay_Minutes
+
+		annotation SummarizationSetBy = Automatic
+
+	column Repeat_Visitor
+		dataType: string
+		lineageTag: 2b39f9d8-26eb-4983-bc7a-7de965d2674a
+		summarizeBy: none
+		sourceColumn: Repeat_Visitor
+
+		annotation SummarizationSetBy = Automatic
+
+	column Booking_Cancelled
+		dataType: string
+		lineageTag: 5d91e13f-1049-4914-bf77-0bee9923434f
+		summarizeBy: none
+		sourceColumn: Booking_Cancelled
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Stay Length Category'
+		dataType: string
+		lineageTag: fb613826-38be-44a8-9a7e-c57d84d0a4ac
+		summarizeBy: none
+		sourceColumn: Stay Length Category
+		sortByColumn: 'Stay Length Sort'
+
+		changedProperty = SortByColumn
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Satisfaction Category'
+		dataType: string
+		lineageTag: f956a48e-ed35-4f4b-be9d-9151dc14f130
+		summarizeBy: none
+		sourceColumn: Satisfaction Category
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Cancellation Flag'
+		dataType: string
+		lineageTag: 81ae2318-cfe8-4a95-98e2-de3d3e005297
+		summarizeBy: none
+		sourceColumn: Cancellation Flag
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Repeat Visitor Flag'
+		dataType: string
+		lineageTag: eb0803e9-15b2-4467-8a5d-d31497e42a43
+		summarizeBy: none
+		sourceColumn: Repeat Visitor Flag
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Estimated Revenue from Completed Stays'
+		dataType: double
+		lineageTag: f82fb0b5-8d9f-4075-8251-a7e054adacf8
+		summarizeBy: sum
+		sourceColumn: Estimated Revenue from Completed Stays
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Average Cost per Night'
+		dataType: double
+		lineageTag: 39b96251-a4e2-41c7-861e-2d117b48c5fc
+		summarizeBy: sum
+		sourceColumn: Average Cost per Night
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Lead Time Category'
+		dataType: string
+		lineageTag: 74e5039d-8903-4859-844e-c74620281a42
+		summarizeBy: none
+		sourceColumn: Lead Time Category
+		sortByColumn: 'Lead Time Sort'
+
+		changedProperty = SortByColumn
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Lead Time Sort'
+		dataType: string
+		lineageTag: 0bf05f97-2c26-4da5-9a85-bf0318db225f
+		summarizeBy: none
+		sourceColumn: Lead Time Sort
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Stay Length Sort'
+		dataType: string
+		lineageTag: fc2052dc-fc19-488b-9362-b55628569f69
+		summarizeBy: none
+		sourceColumn: Stay Length Sort
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Bookings = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\PC\Downloads\Tourism_Booking_Analytics_Dataset.csv"),[Delimiter=",", Columns=19, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Booking_ID", type text}, {"Check_in_Date", type date}, {"City", type text}, {"Region_Type", type text}, {"Travel_Group", type text}, {"Group_Size", Int64.Type}, {"Lead_Time_Days", Int64.Type}, {"Stay_Nights", Int64.Type}, {"Room_Type", type text}, {"Meal_Plan", type text}, {"Booking_Channel", type text}, {"Main_Activity", type text}, {"Nightly_Rate_USD", type number}, {"Estimated_Stay_Cost_USD", type number}, {"Guest_Satisfaction_Score", Int64.Type}, {"Review_Score", Int64.Type}, {"Check_in_Delay_Minutes", Int64.Type}, {"Repeat_Visitor", type text}, {"Booking_Cancelled", type text}}),
+				    #"Trimmed Text" = Table.TransformColumns(#"Changed Type",{{"Main_Activity", Text.Trim, type text}, {"Booking_Channel", Text.Trim, type text}, {"Meal_Plan", Text.Trim, type text}, {"Room_Type", Text.Trim, type text}, {"Travel_Group", Text.Trim, type text}, {"Region_Type", Text.Trim, type text}, {"City", Text.Trim, type text}}),
+				    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"Main_Activity", Text.Proper, type text}, {"Booking_Channel", Text.Proper, type text}, {"Meal_Plan", Text.Proper, type text}, {"Room_Type", Text.Proper, type text}, {"Travel_Group", Text.Proper, type text}, {"Region_Type", Text.Proper, type text}, {"City", Text.Proper, type text}}),
+				    #"Added Custom" = Table.AddColumn(#"Capitalized Each Word", "Custom", each [Stay_Nights]*[Nightly_Rate_USD]),
+				    #"Reordered Columns" = Table.ReorderColumns(#"Added Custom",{"Booking_ID", "Check_in_Date", "City", "Region_Type", "Travel_Group", "Group_Size", "Lead_Time_Days", "Stay_Nights", "Room_Type", "Meal_Plan", "Booking_Channel", "Main_Activity", "Nightly_Rate_USD", "Estimated_Stay_Cost_USD", "Custom", "Guest_Satisfaction_Score", "Review_Score", "Check_in_Delay_Minutes", "Repeat_Visitor", "Booking_Cancelled"}),
+				    #"Removed Columns" = Table.RemoveColumns(#"Reordered Columns",{"Custom"}),
+				    #"Added Conditional Column" = Table.AddColumn(#"Removed Columns", "lead time category", each if [Lead_Time_Days] < 7 then "Last" else if [Lead_Time_Days] >= 30 then "Short" else if [Lead_Time_Days] >= 90 then "Medium" else "Long"),
+				    #"Changed Type1" = Table.TransformColumnTypes(#"Added Conditional Column",{{"lead time category", type text}}),
+				    #"Added Conditional Column1" = Table.AddColumn(#"Changed Type1", "Stay Length Category", each if [Stay_Nights] <= 2 then "Short" else if [Stay_Nights] >= 5 then "Medium" else "Long"),
+				    #"Changed Type2" = Table.TransformColumnTypes(#"Added Conditional Column1",{{"Stay Length Category", type text}}),
+				    #"Added Conditional Column2" = Table.AddColumn(#"Changed Type2", "Satisfaction Category", each if [Guest_Satisfaction_Score] >= 8 then "High" else if [Guest_Satisfaction_Score] >= 5 then "Medium" else "Low"),
+				    #"Changed Type3" = Table.TransformColumnTypes(#"Added Conditional Column2",{{"Satisfaction Category", type text}}),
+				    #"Added Custom1" = Table.AddColumn(#"Changed Type3", "Cancellation Flag", each if [Booking_Cancelled] = "Yes" then 1 else 0),
+				    #"Added Custom2" = Table.AddColumn(#"Added Custom1", "Repeat Visitor Flag", each if [Repeat_Visitor] = "Yes" then 1 else 0),
+				    #"Added Custom3" = Table.AddColumn(#"Added Custom2", "Estimated Revenue from Completed Stays", each if [Booking_Cancelled] = "No" then [Estimated_Stay_Cost_USD] else 0),
+				    #"Added Custom4" = Table.AddColumn(#"Added Custom3", "Average Cost per Night", each if [Stay_Nights] > 0 then [Estimated_Stay_Cost_USD] / [Stay_Nights] else null),
+				    #"Changed Type4" = Table.TransformColumnTypes(#"Added Custom4",{{"Average Cost per Night", type number}, {"Estimated Revenue from Completed Stays", type number}}),
+				    #"Renamed Columns" = Table.RenameColumns(#"Changed Type4",{{"lead time category", "Lead Time Category"}}),
+				    #"Removed Columns1" = Table.RemoveColumns(#"Renamed Columns",{"Stay Length Category", "Lead Time Category"}),
+				    #"Added Custom5" = Table.AddColumn(#"Removed Columns1", "Lead Time Category", each if [Lead_Time_Days] < 7 then "Last-minute"
+				else if [Lead_Time_Days] <= 30 then "Short lead"
+				else if [Lead_Time_Days] <= 90 then "Medium lead"
+				else "Long lead"),
+				    #"Added Custom6" = Table.AddColumn(#"Added Custom5", "Stay Length Category", each if [Stay_Nights] <= 2 then "Short stay"
+				else if [Stay_Nights] <= 5 then "Medium stay"
+				else "Long stay"),
+				    #"Added Custom7" = Table.AddColumn(#"Added Custom6", "Lead Time Sort", each if [Lead_Time_Days] < 7 then 1
+				else if [Lead_Time_Days] <= 30 then 2
+				else if [Lead_Time_Days] <= 90 then 3
+				else 4),
+				    #"Added Custom8" = Table.AddColumn(#"Added Custom7", "Stay Length Sort", each if [Stay_Nights] <= 2 then 1
+				else if [Stay_Nights] <= 5 then 2
+				else 3)
+				in
+				    #"Added Custom8"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

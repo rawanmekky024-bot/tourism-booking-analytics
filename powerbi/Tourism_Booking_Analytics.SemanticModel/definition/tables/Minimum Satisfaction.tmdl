@@ -1,0 +1,26 @@
+table 'Minimum Satisfaction'
+	lineageTag: 06608a5d-1897-45f7-a095-b82834970ee7
+
+	measure 'Minimum Satisfaction Value' = SELECTEDVALUE('Minimum Satisfaction'[Minimum Satisfaction], 7)
+		formatString: 0
+		lineageTag: 0a08fdfd-273c-47c9-a00d-609ca7c3ca3d
+
+	column 'Minimum Satisfaction'
+		formatString: 0
+		lineageTag: fd136a20-6c68-48f7-a990-e43c0903577d
+		summarizeBy: none
+		sourceColumn: [Value]
+
+		extendedProperty ParameterMetadata =
+				{
+				  "version": 0
+				}
+
+		annotation SummarizationSetBy = User
+
+	partition 'Minimum Satisfaction' = calculated
+		mode: import
+		source = GENERATESERIES(1, 10, 1)
+
+	annotation PBI_Id = 492cb0e4f6194fbbb36889ea5417019c
+

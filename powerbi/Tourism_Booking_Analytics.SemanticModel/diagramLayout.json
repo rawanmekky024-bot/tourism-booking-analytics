@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 64,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 64,
+            "y": 0
+          },
+          "nodeIndex": "Bookings",
+          "nodeLineageTag": "972ab99a-dc98-4ee6-8a64-167563321e8a",
+          "size": {
+            "height": 744,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 338,
+            "y": 10.75
+          },
+          "nodeIndex": "DimDate",
+          "nodeLineageTag": "4220d50a-2b23-4df3-8d18-d760ec3b5471",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 319,
+            "y": 501.25
+          },
+          "nodeIndex": "DimDestination",
+          "nodeLineageTag": "4932ad87-5a4e-4a0b-8a97-532aa2980870",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 558,
+            "y": 296
+          },
+          "nodeIndex": "Metric Selector",
+          "nodeLineageTag": "4ea9ad45-1576-4f41-9be0-c63159333419",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 778,
+            "y": 260
+          },
+          "nodeIndex": "Minimum Satisfaction",
+          "nodeLineageTag": "06608a5d-1897-45f7-a095-b82834970ee7",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

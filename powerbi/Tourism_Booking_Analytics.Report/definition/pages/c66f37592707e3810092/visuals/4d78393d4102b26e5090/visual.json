@@ -1,0 +1,54 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "4d78393d4102b26e5090",
+  "position": {
+    "x": 618,
+    "y": 14,
+    "z": 16000,
+    "height": 116,
+    "width": 960,
+    "tabOrder": 15000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Welcome to Sahara Suites",
+                    "textStyle": {
+                      "fontFamily": "Georgia",
+                      "fontSize": "32pt",
+                      "fontStyle": "italic",
+                      "color": "#F6EEDC"
+                    }
+                  }
+                ],
+                "horizontalTextAlignment": "center"
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Luxury Hotels & Resorts",
+                    "textStyle": {
+                      "fontFamily": "Georgia",
+                      "fontSize": "19pt",
+                      "fontStyle": "italic",
+                      "color": "#F6EEDC"
+                    }
+                  }
+                ],
+                "horizontalTextAlignment": "center"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Tourism_Booking_Analytics. 555pbip"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a63d5bc1-424e-479d-99b4-867ef42686ff"
+  }
+}
